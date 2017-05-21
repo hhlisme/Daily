@@ -984,7 +984,12 @@ https://mp.weixin.qq.com/s/iRDfbO2WUjNoQ31lUS4y2g
 https://zhuanlan.zhihu.com/p/27013861
 
 
+20170521:
+欺诈预测机器学习模型设计
+https://mp.weixin.qq.com/s?__biz=MzI5NjE2NjAyNA==&mid=2650138988&idx=1&sn=1fd6ab5e41a5be44cb8f88a24dc0a3be
 
+贝叶斯全局优化
+https://mp.weixin.qq.com/s?__biz=MzIyMzE5Njc0NQ==&mid=2651120578&idx=1&sn=7fae25792f5bbb017825bf43c2a34124
 
 
 
