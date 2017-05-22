@@ -993,6 +993,14 @@ https://mp.weixin.qq.com/s?__biz=MzIyMzE5Njc0NQ==&mid=2651120578&idx=1&sn=7fae25
 
 
 
+20170522:
+一个小案例，教你如何从数据抓取、数据清洗到数据可视化
+https://zhuanlan.zhihu.com/p/26988792
+
+量化交易&机器学习干货精选---聚宽君
+https://zhuanlan.zhihu.com/p/26928195
+
+
 
 
 
