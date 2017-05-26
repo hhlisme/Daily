@@ -923,7 +923,7 @@ https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553087&idx=1&sn=df05d2
 https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553138&idx=1&sn=567db0df6af6155232d71ae379494481
 
 【干货】Kaggle 数据挖掘比赛经验分享
-https://mp.weType=weixin
+https://mp.weixin.qq.com/s/BE1mfmKJTsDSwWi16mllNAluicode=20000061&lfid=4105595465952913&featurecode=20000180&sourceType=weixin
 
 
 
@@ -1029,6 +1029,9 @@ https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247485077&idx=1&sn=704668
 20170526:
 Selenium的各种操作介绍（通过浏览器抓取信息）
 http://www.51testing.com/zhuanti/selenium.html
+
+数据挖掘之用户价值分析
+http://blog.csdn.net/cuilijuan02/article/details/48004503
 
 
 
