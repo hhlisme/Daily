@@ -1026,7 +1026,9 @@ https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247485077&idx=1&sn=704668
 
 
 
-
+20170526:
+Selenium的各种操作介绍（通过浏览器抓取信息）
+http://www.51testing.com/zhuanti/selenium.html
 
 
 
