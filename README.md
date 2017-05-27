@@ -1033,7 +1033,9 @@ http://www.51testing.com/zhuanti/selenium.html
 数据挖掘之用户价值分析
 http://blog.csdn.net/cuilijuan02/article/details/48004503
 
-
+20170527:
+《机器学习实战》的代码记录情况，用python实现
+https://github.com/Thinkgamer/Machine-Learning-With-Python
 
 
 
