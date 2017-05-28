@@ -1038,6 +1038,9 @@ http://blog.csdn.net/cuilijuan02/article/details/48004503
 https://github.com/Thinkgamer/Machine-Learning-With-Python
 
 
+20170528:
+快速选择合适的机器学习算法
+https://yq.aliyun.com/articles/86632?spm=5176.100240.searchblog.8.v22Dxq
 
 
 
