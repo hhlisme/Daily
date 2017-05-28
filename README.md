@@ -1042,6 +1042,24 @@ https://github.com/Thinkgamer/Machine-Learning-With-Python
 快速选择合适的机器学习算法
 https://yq.aliyun.com/articles/86632?spm=5176.100240.searchblog.8.v22Dxq
 
+基于LSTM搭建一个文本情感分类的深度学习模型:准确率往往有95%以上
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391187&idx=1&sn=36ae327f9052e44d40f622b4f00d6c75
+
+13个真实世界情景中的数据科学应用
+https://mp.weixin.qq.com/s?__biz=MzA4MTA5MjE5Mw==&mid=2651788657&idx=1&sn=d92df3ab1af1d726f09e679f94d6abfe
+
+Python 操作 MySQL(Python3.x)
+https://mp.weixin.qq.com/s?__biz=MzA4MTA5MjE5Mw==&mid=2651788657&idx=2&sn=644cc220fa216aad0de54467e2f90f54
+
+干货 | 一文读懂什么是贝叶斯机器学习
+https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247484826&idx=1&sn=5513d4cbdaf7a36b133a44fca88d568c
+
+干货｜谷歌大规模机器学习：模型训练、特征工程和算法选择
+https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247484830&idx=1&sn=8c821b9267622e51d75e348220f11f67
+
+ggplot2高级绘图
+http://www.jianshu.com/p/e2d4a4d3d0d2
+
 
 
 
