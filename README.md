@@ -252,10 +252,10 @@ https://www.hellobi.com/u/lrysjtu/articles
 http://hacker.duanshishi.com/?p=1777
 
 
-201740220：
+20170220：
 滴滴算法大赛算法解决过程（5篇）
 数据分析-拟合算法-方案设计-机器学习-GBDT
-http://codesnippet.info/Home/TagList?PageNo=1&TagName=%E6%BB%B4%E6%BB%B4%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B
+http://www.cnblogs.com/TextEditor/p/5527124.html
 
 团队协作的网站---何红亮，机器学习小组
 https://machinexuexi.slack.com/messages/@slackbot/
