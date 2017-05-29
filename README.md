@@ -1066,7 +1066,8 @@ http://www.jianshu.com/p/e2d4a4d3d0d2
 GB和GBDT 算法流程及分析
 http://www.cnblogs.com/liuwu265/p/4694191.html
 
-
+爬取简书百万页面 分析简书用户画像
+http://www.jianshu.com/p/9f8a81040393
 
 
 
