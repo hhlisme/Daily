@@ -1062,7 +1062,9 @@ http://www.jianshu.com/p/e2d4a4d3d0d2
 
 
 
-
+20170529:
+GB和GBDT 算法流程及分析
+http://www.cnblogs.com/liuwu265/p/4694191.html
 
 
 
