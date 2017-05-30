@@ -1070,7 +1070,12 @@ http://www.cnblogs.com/liuwu265/p/4694191.html
 http://www.jianshu.com/p/9f8a81040393
 
 
+20170530:
+电商评论数据的简单分析
+https://zhuanlan.zhihu.com/p/27132793
 
+如何构建一个分布式爬虫：实战篇
+https://zhuanlan.zhihu.com/p/27160211
 
 
 
