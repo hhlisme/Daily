@@ -1079,6 +1079,42 @@ https://zhuanlan.zhihu.com/p/27160211
 
 
 
+20170531:
+如何构建一个分布式爬虫：实战篇
+https://zhuanlan.zhihu.com/p/27160211
+
+
+
+20170601:
+如果你想玩什么有趣的机器学习 check these out！
+https://zhuanlan.zhihu.com/p/27194152
+
+独家！完整到爆的数据分析流程剖析
+https://mp.weixin.qq.com/s?__biz=MzIxNjIwMDI3OA==&mid=2649479214&idx=1&sn=01a72607fe088a5b5486706023aebe94
+
+Python尝试破解wifi无线密码
+https://mp.weixin.qq.com/s?__biz=MjM5NTgwMDE4NA==&mid=2653407092&idx=3&sn=9a6d02f48c3814a4bc99d0188f3aae2c
+
+解密大数据---简书
+http://www.jianshu.com/c/9b4685b6357c
+
+三张图读懂机器学习 ：基本概念、五大流派与九种常见算法（普华永道）
+https://mp.weixin.qq.com/s?__biz=MzI0MDMzNDQ1OQ==&mid=2247485080&idx=1&sn=d561f380d81a0383f92801733ab4ad0e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
