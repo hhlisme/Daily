@@ -1074,10 +1074,6 @@ http://www.jianshu.com/p/9f8a81040393
 电商评论数据的简单分析
 https://zhuanlan.zhihu.com/p/27132793
 
-如何构建一个分布式爬虫：实战篇
-https://zhuanlan.zhihu.com/p/27160211
-
-
 
 20170531:
 如何构建一个分布式爬虫：实战篇
