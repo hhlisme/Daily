@@ -1098,7 +1098,9 @@ http://www.jianshu.com/c/9b4685b6357c
 https://mp.weixin.qq.com/s?__biz=MzI0MDMzNDQ1OQ==&mid=2247485080&idx=1&sn=d561f380d81a0383f92801733ab4ad0e
 
 
-
+20170602:
+看我如何在图书馆黑掉妹子电脑(慕风)
+https://www.moofeng.cn/article/shadowdbroker.html
 
 
 
