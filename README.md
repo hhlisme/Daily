@@ -1110,6 +1110,46 @@ https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651650638&idx=1&sn=352103
 干货|如何处理不均衡数据？
 https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247483963&idx=1&sn=4462ae2c60ec723df9748c03b2861fe3
 
+摩根大通机器学习与金融大数据指南
+https://m.weibo.cn/status/4113715651043243
+
+又动歪脑筋--利用windows上的虚拟机执行定时爬虫并存入本地数据库！！
+https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247483711&idx=1&sn=08f365db4e1979930bfbaea3743f5773
+
+一文搞懂浏览器自动化测试框架selenium！
+https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247483704&idx=1&sn=95d314a21e822855bbefefb1b18fa5c0
+
+最新｜周志华教授发布最新版gcforest论文和代码！
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247491136&idx=1&sn=ce0807a9664ca0fa4fcf4f47b65f8522
+
+什么情况下用随机森林比用GBM更合适
+https://www.quora.com/When-would-one-use-Random-Forests-over-Gradient-Boosted-Machines-GBMs
+
+干货|如何解释机器学习模型和结果？
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247491154&idx=3&sn=1d621c73d9bd268c0884106ee2834fde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
