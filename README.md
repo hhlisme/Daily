@@ -1103,6 +1103,29 @@ https://mp.weixin.qq.com/s?__biz=MzI0MDMzNDQ1OQ==&mid=2247485080&idx=1&sn=d561f3
 https://www.moofeng.cn/article/shadowdbroker.html
 
 
+20170605:
+如何使用Python处理Missing Data
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651650638&idx=1&sn=352103f808116bc3a67762bb9172e3a0
+
+干货|如何处理不均衡数据？
+https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247483963&idx=1&sn=4462ae2c60ec723df9748c03b2861fe3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
