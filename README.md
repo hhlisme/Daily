@@ -1139,6 +1139,12 @@ http://101python.cn/weibo-personas
 https://zhuanlan.zhihu.com/p/27290869
 
 
+201706208:
+四个模块帮你解决2017年高考志愿填报--a2Mia姐(里面的某些网站是做选学校的很好参考)
+https://zhuanlan.zhihu.com/p/27276195
+
+资源|Github上最受欢迎的“机器学习资源集合”
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247491324&idx=4&sn=3e7149a8bfa0795668fd6a37adef3a27
 
 
 
