@@ -1152,6 +1152,8 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247491324&idx=4&sn=3e7149
 微信自动拉入群聊的机器人
 https://zhuanlan.zhihu.com/p/27234860
 
+我的Kaggle初体验 -- Grupo Bimbo Inventory Demand --- 豆豆叶
+https://zhuanlan.zhihu.com/p/22266330
 
 
 
