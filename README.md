@@ -1163,7 +1163,12 @@ https://zhuanlan.zhihu.com/p/22266330
 https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483958&idx=1&sn=9f6b58e9cae6110889f72d49fefac4c4
 
 
+20170611:
+用 base64 进行图片和字符串互转，并保存至 json
+https://zhuanlan.zhihu.com/p/27134323
 
+丧心病狂，试试把报警日志发到微信上(这个可以用用来替代邮件)
+https://zhuanlan.zhihu.com/p/27320134
 
 
 
