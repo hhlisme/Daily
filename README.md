@@ -1171,7 +1171,12 @@ https://zhuanlan.zhihu.com/p/27134323
 https://zhuanlan.zhihu.com/p/27320134
 
 
+20170614:
+详解｜神经网络中BP算法的原理与Python实现
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486141&idx=3&sn=049b07234a2607e14882029123d79ff0
 
+机器学习调优实战
+https://cloud.tencent.com/community/article/131447
 
 
 
