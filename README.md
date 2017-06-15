@@ -1181,6 +1181,12 @@ https://cloud.tencent.com/community/article/131447
 
 
 
+20170615:
+出行产品未来14个月销量预测【冠军团队】- 贝叶斯部落联盟团队作品
+https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931237&idx=1&sn=ecb815fe4b8589b72b88af348d5c3209
+
+出行产品未来14个月销量预测 - 书生队【附源码】
+https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931261&idx=1&sn=18d3323a955803fcf1c09a1f2449886d
 
 
 
