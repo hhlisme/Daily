@@ -1,6 +1,7 @@
 # Daily
 这是何红亮同学保存每日记录的地方，GitHub上的第一个目录。
 在这里，我将记录每天自己看到的有收获的文章。在数据科学的道路上，能够慢慢进步和成长！
+如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 --------------------------------
 2017.01.02：
 python --网页爬虫，文本处理，科学计算，机器学习，数据挖掘资料+附带工具包下载
@@ -1189,7 +1190,9 @@ https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931237&idx=1&sn=ecb815
 https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931261&idx=1&sn=18d3323a955803fcf1c09a1f2449886d
 
 
-
+20170616:
+Ensemble_learning 集成学习算法 stacking 算法
+http://www.bubuko.com/infodetail-1261435.html
 
 
 
