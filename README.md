@@ -1195,7 +1195,9 @@ Ensemble_learning 集成学习算法 stacking 算法
 http://www.bubuko.com/infodetail-1261435.html
 
 
-
+20170617:
+硅谷码农用Python写了个机器人，租到了让女友满意的房子
+http://codingpy.com/article/apartment-finding-slackbot/?from=singlemessage&isappinstalled=0
 
 
 
