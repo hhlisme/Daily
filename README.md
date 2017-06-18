@@ -1202,6 +1202,12 @@ http://codingpy.com/article/apartment-finding-slackbot/?from=singlemessage&isapp
 
 
 
+20170618:
+【独家】循序渐进提升Kaggle竞赛模型精确度，以美国好事达保险公司理赔为例
+https://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651560688&idx=1&sn=7a93a9af4e338d1134198a2c65232ed3
+
+【独家】一文读懂聚类算法
+https://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651560597&idx=1&sn=b6ac4f79e21dfd8b6de19de6dbf6800d
 
 
 
