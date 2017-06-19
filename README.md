@@ -1211,7 +1211,18 @@ https://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651560597&idx=1&sn=b6ac4f
 
 
 
+20170619:
+Python · SVM（三）· 核方法
+https://zhuanlan.zhihu.com/p/27445103
 
+可视化布局（在线编辑）---何红亮评价：比较牛逼的
+http://www.bootcss.com/p/layoutit/
+
+机器学习算法基于信用卡消费记录做信用评分
+https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247484373&idx=1&sn=8cf4e08af2f60f050f4808ed029cf074
+
+Python爱好者社区历史文章列表（每周append更新一次）
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484015&idx=1&sn=f2a4f6ba28f8ebf896c919ed91fd4f7b
 
 
 
