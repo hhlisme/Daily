@@ -1238,6 +1238,12 @@ https://mp.weixin.qq.com/s?src=3&timestamp=1498047417&ver=1&signature=uQB35u0i6L
 
 
 
+20170622:
+教程 | 如何用Python从海量文本抽取主题？
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486342&idx=3&sn=515a1ad5f64387fdb2aafbcab7d8bf61
+
+实战 | 贷还是不贷：如何用Python和机器学习帮你决策？
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486308&idx=4&sn=9805c4a1285494fafa91072e221c6467
 
 
 
