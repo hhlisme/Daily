@@ -1247,6 +1247,9 @@ https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486308&idx=4&sn=9805c4
 
 
 
+20170623:
+【编程课堂】同一台电脑，不同的 Python
+https://mp.weixin.qq.com/s?__biz=MjM5MDEyMDk4Mw==&mid=2650166467&idx=2&sn=aca4a7f93bd16c81d9c845fc3a8ecbde
 
 
 
