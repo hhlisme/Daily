@@ -1255,5 +1255,28 @@ https://mp.weixin.qq.com/s?__biz=MjM5MDEyMDk4Mw==&mid=2650166467&idx=2&sn=aca4a7
 
 
 
+20170625:
+分分钟带你杀入Kaggle Top 1%
+https://zhuanlan.zhihu.com/p/27424282
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
