@@ -1260,7 +1260,12 @@ https://mp.weixin.qq.com/s?__biz=MjM5MDEyMDk4Mw==&mid=2650166467&idx=2&sn=aca4a7
 https://zhuanlan.zhihu.com/p/27424282
 
 
+20170626:
+如何用Python做情感分析？
+http://www.jianshu.com/p/d50a14541d01
 
+别磨叽，学完这篇你也是图像识别专家了 
+http://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486410&idx=1&sn=1b00dc6f158880ed7ae9b4561d043636
 
 
 
