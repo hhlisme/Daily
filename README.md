@@ -1269,7 +1269,9 @@ http://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486410&idx=1&sn=1b00dc6
 
 
 
-
+20170627:
+基于itchat的Web端微信机器人
+https://mp.weixin.qq.com/s?__biz=MzI0NTExNDY2NA==&mid=2650911756&idx=1&sn=9151699d9709b66d7f64f4c1f0608119
 
 
 
