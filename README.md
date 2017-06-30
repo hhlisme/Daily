@@ -1275,7 +1275,15 @@ https://mp.weixin.qq.com/s?__biz=MzI0NTExNDY2NA==&mid=2650911756&idx=1&sn=915169
 
 
 
+20170629:
+烂片还怪豆瓣“绑票和敲诈”？——对电影《李雷和韩梅梅》豆瓣评分的分析
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391252&idx=1&sn=8822432a3cd71b91c26a4069e4009c2c
 
+
+
+20170630:
+用python根据考生成绩对学生预测是否被高校录取
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391261&idx=1&sn=59a75ab43f5c43f289cccf87fff59af1
 
 
 
