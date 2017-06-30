@@ -1285,7 +1285,8 @@ https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391252&idx=1&sn=882243
 用python根据考生成绩对学生预测是否被高校录取
 https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391261&idx=1&sn=59a75ab43f5c43f289cccf87fff59af1
 
-
+从零开始写Python爬虫 --- 爬虫应用： requests+django实现微信公众号后台
+https://zhuanlan.zhihu.com/p/27625233?utm_source=wechat_session&utm_medium=social&from=groupmessage&isappinstalled=1
 
 
 
