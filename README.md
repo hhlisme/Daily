@@ -1295,6 +1295,18 @@ https://zhuanlan.zhihu.com/Ehco-python
 
 
 
+20170702:
+与莫烦一起：点亮你的AI技能树
+https://zhuanlan.zhihu.com/p/27574834
+
+
+
+
+
+
+
+
+
 
 
 
