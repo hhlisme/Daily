@@ -1299,11 +1299,14 @@ https://zhuanlan.zhihu.com/Ehco-python
 与莫烦一起：点亮你的AI技能树
 https://zhuanlan.zhihu.com/p/27574834
 
+这两天在哈工大学习，更的少。
 
+20170706:
+【干货】用大数据文本挖掘来看“共享单车”的行业现状及走势
+http://mp.weixin.qq.com/s?__biz=MzI0NTQ1NDc4Nw==&mid=2247485055&idx=1&sn=aebd4866162ebe34a3019c887468a021
 
-
-
-
+GitHub上超9Kstars的Python爬虫项目——pyspider（国人编写）
+http://mp.weixin.qq.com/s?__biz=MzI0NTQ1NDc4Nw==&mid=2247485055&idx=1&sn=aebd4866162ebe34a3019c887468a021
 
 
 
