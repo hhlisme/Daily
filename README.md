@@ -1320,5 +1320,37 @@ http://mp.weixin.qq.com/s?__biz=MzIzMDQ2MTQ3NA==&mid=2247483781&idx=1&sn=dbb372b
 
 
 
+20170713:
+如何用Python做舆情时间序列可视化？
+https://mp.weixin.qq.com/s?__biz=MzIyODI1MzYyNA==&mid=2653540236&idx=1&sn=4911925ed2c8b5b685042c18138a9c29
+
+Python爬虫之豆瓣音乐及糗事百科
+https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653553636&idx=1&sn=726c7ebbfdc26a6dcc2af91eba51e3b9
+
+机器学习实战：python算法代码汇总,这是学习《机器学习实战》这本书时的代码记录情况
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391290&idx=1&sn=6c77324171501ba8e41a6b6bfba20b2c
+
+Python爱好者社区历史文章列表（每周append更新一次）
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484081&idx=1&sn=c3155254ab514b4ba9c02bc192e86857
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
