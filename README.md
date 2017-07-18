@@ -1348,12 +1348,16 @@ http://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484103&idx=1&sn=4fbed6a
 http://www.bilibili.com/video/av9770302/?from=search&seid=488399178886683914
 
 
+干货 | 如何用Python和机器学习炒股赚钱？
+http://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247492284&idx=5&sn=d42818577e63a71a648dea1954804cd1
+
+2017年，你还在用用户画像和协同过滤做推荐系统吗？
+http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162716&idx=1&sn=ace946097948b81bb34759ccbe0fae8a
 
 
 
-
-
-
+机器学习的最小可用产品：人工智能应用的敏捷开发
+http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162660&idx=1&sn=9dea22e601376bee9f7de2e82bb77133
 
 
 
