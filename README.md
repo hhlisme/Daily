@@ -1337,8 +1337,15 @@ https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484081&idx=1&sn=c31552
 
 
 
+20170718:
+ggplot学习笔记
+http://mp.weixin.qq.com/s?__biz=MzI3MzIwODQxMA==&mid=2649775357&idx=1&sn=f4f953c7a498e22e02e2b1e222740fcf
 
+Scrapy 爬取伯乐在线实战
+http://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484103&idx=1&sn=4fbed6ad22867952ee74471fc7702db2
 
+李宏毅深度学习(2017)
+http://www.bilibili.com/video/av9770302/?from=search&seid=488399178886683914
 
 
 
