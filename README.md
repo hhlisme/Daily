@@ -1355,13 +1355,15 @@ http://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247492284&idx=5&sn=d428185
 http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162716&idx=1&sn=ace946097948b81bb34759ccbe0fae8a
 
 
-
 机器学习的最小可用产品：人工智能应用的敏捷开发
 http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162660&idx=1&sn=9dea22e601376bee9f7de2e82bb77133
 
 
 
 
+20170720:
+机器学习系列(20)_机器学习性能改善备忘单
+http://blog.csdn.net/han_xiaoyang/article/details/53453145
 
 
 
