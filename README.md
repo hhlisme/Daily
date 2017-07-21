@@ -1366,4 +1366,14 @@ http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162660&idx=1&sn=9dea22e
 http://blog.csdn.net/han_xiaoyang/article/details/53453145
 
 
+20170721:
+Python:使用sklearn进行集成学习
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391315&idx=1&sn=82daaa64f06acfe8d8376b8835f8a2f9
+
+
+
+
+
+
+
 
