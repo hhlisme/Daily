@@ -1371,6 +1371,11 @@ Python:使用sklearn进行集成学习
 https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391315&idx=1&sn=82daaa64f06acfe8d8376b8835f8a2f9
 
 
+20170722:
+回归、分类与聚类：三大方向剖解机器学习算法的优缺点（附Python和R实现）
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726814&idx=1&sn=7b5efae26f862b286cfc462eae133c75
+
+
 
 
 
