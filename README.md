@@ -1376,6 +1376,24 @@ https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391315&idx=1&sn=82daaa
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650726814&idx=1&sn=7b5efae26f862b286cfc462eae133c75
 
 
+20170723:
+当我们在谈论K-means：论文概述（1）
+https://zhuanlan.zhihu.com/p/25024565
+
+当我们在谈论K-means：论文概述（2）
+https://zhuanlan.zhihu.com/p/25032775
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
