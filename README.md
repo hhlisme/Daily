@@ -1385,7 +1385,10 @@ https://zhuanlan.zhihu.com/p/25032775
 
 
 
-
+20170724:
+(重要)无意间发现ofo的web网页版，里面居然可以读取到附近ofo车辆的信息。需要登录
+地址为：http://common.ofo.so/newdist/?Journey
+ofo放出了很多信息，我觉得可以做研究。
 
 
 
