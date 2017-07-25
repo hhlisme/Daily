@@ -1391,7 +1391,9 @@ https://zhuanlan.zhihu.com/p/25032775
 ofo放出了很多信息，我觉得可以做研究。
 
 
-
+20170725:
+当我们在谈论GBDT：从 AdaBoost 到 Gradient Boosting（这是一个系列，讲原理，其他几篇也都不错）
+https://zhuanlan.zhihu.com/p/25096501
 
 
 
