@@ -1396,7 +1396,9 @@ ofo放出了很多信息，我觉得可以做研究。
 https://zhuanlan.zhihu.com/p/25096501
 
 
-
+20170726:
+资料|台大教授：全套机器学习技巧课程（中文视频）
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247492376&idx=5&sn=5c68f466ad9bed372dfd2910e204deba
 
 
 
