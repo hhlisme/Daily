@@ -1402,6 +1402,26 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247492376&idx=5&sn=5c68f4
 
 
 
+20170727:
+聊聊数据挖掘竞赛中的套路与深度学习的局限
+https://zhuanlan.zhihu.com/p/28038354
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
