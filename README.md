@@ -1407,7 +1407,11 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247492376&idx=5&sn=5c68f4
 https://zhuanlan.zhihu.com/p/28038354
 
 
-
+20170728:
+尽瞎扯---知乎专栏（分享爬虫和可视化）
+https://zhuanlan.zhihu.com/chenjiandongx
+他的GitHub地址：https://github.com/chenjiandongx
+其中一个动态可视化图表感觉十分不错：https://github.com/chenjiandongx/pyecharts
 
 
 
