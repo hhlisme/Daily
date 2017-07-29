@@ -1414,7 +1414,9 @@ https://zhuanlan.zhihu.com/chenjiandongx
 其中一个动态可视化图表感觉十分不错：https://github.com/chenjiandongx/pyecharts
 
 
-
+20170729：
+Echarts周期刷新图表（显示年、月、日表格）
+http://blog.csdn.net/sinat_29774479/article/details/74566419
 
 
 
