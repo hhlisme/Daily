@@ -1420,11 +1420,12 @@ http://blog.csdn.net/sinat_29774479/article/details/74566419
 
 
 
+20170730:
+测试数据科学家聚类技术的40个问题（附答案和分析）
+http://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247487629&idx=3&sn=c4ba49c4ebe4ecb4bca7c49b4d922fcf
 
-
-
-
-
+微额借款用户信用预测
+http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391377&idx=1&sn=e2c18d41a1a6cdbf502ba7b10ca6f5da
 
 
 
