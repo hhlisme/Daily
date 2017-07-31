@@ -1441,7 +1441,9 @@ https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247483893&idx=1&sn=5bb570
 最新｜南大周志华组提出多类最优边界分配机mcODM，代替支持向量机
 https://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483782&idx=1&sn=84102894bdf3c2678fe58213f4f418dd
 
+PaperWeekly第44期 | Kaggle求生
+https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247485218&idx=1&sn=bc26511e7b6315d76e22b97a11ea1d76
 
-
-
+干货｜从决策树到随机森林：树型算法的实现原理与Python 示例
+https://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483823&idx=1&sn=9df95b7724feaedc41fcb92a005b9209
 
