@@ -1429,6 +1429,17 @@ http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391377&idx=1&sn=e2c18d4
 
 
 
+20170331:
+
+Python3中PyMongo的用法
+
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484199&idx=1&sn=e7392a0320d22c653ec6108f9f337c62
+
+kmeans聚类理论篇K的选择（轮廓系数）
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247483893&idx=1&sn=5bb57058c89ea442a21c69f7a64841a0
+
+最新｜南大周志华组提出多类最优边界分配机mcODM，代替支持向量机
+https://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483782&idx=1&sn=84102894bdf3c2678fe58213f4f418dd
 
 
 
