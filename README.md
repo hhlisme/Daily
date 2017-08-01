@@ -1447,3 +1447,31 @@ https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247485218&idx=1&sn=bc2651
 干货｜从决策树到随机森林：树型算法的实现原理与Python 示例
 https://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483823&idx=1&sn=9df95b7724feaedc41fcb92a005b9209
 
+
+20170801:
+Flask的小说网站真的不更新篇(用到爬虫和flask)---知乎 余坤
+https://zhuanlan.zhihu.com/p/28216335
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
