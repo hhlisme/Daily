@@ -1453,7 +1453,9 @@ Flask的小说网站真的不更新篇(用到爬虫和flask)---知乎 余坤
 https://zhuanlan.zhihu.com/p/28216335
 
 
-
+20170802:
+带你了解机器学习(二): 机器学习中的"稳定性"
+https://zhuanlan.zhihu.com/p/27787096
 
 
 
