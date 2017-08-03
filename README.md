@@ -1458,7 +1458,9 @@ https://zhuanlan.zhihu.com/p/28216335
 https://zhuanlan.zhihu.com/p/27787096
 
 
-
+20170803:
+iForest （Isolation Forest）孤立森林 异常检测 入门篇
+http://www.jianshu.com/p/5af3c66e0410
 
 
 
