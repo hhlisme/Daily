@@ -1464,7 +1464,9 @@ http://www.jianshu.com/p/5af3c66e0410
 
 
 
-
+20170804:
+scikit-learn学习之K-means聚类算法与 Mini Batch K-Means算法
+http://blog.csdn.net/gamer_gyt/article/details/51244850
 
 
 
