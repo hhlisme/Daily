@@ -1473,11 +1473,11 @@ http://blog.csdn.net/gamer_gyt/article/details/51244850
 如何在Python中用LSTM网络进行时间序列预测
 https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247487825&idx=2&sn=a697dea835fc67446e3b17267bb76125
 
+用机器学习来帮助吃货的你找最合适的聚点（Python描述）
+http://www.jianshu.com/p/6e07d05d7c99
 
-
-
-
-
+ 数据向：618价格到底~到底是不是最低？
+http://blog.csdn.net/mrlevo520/article/details/73610022
 
 
 
