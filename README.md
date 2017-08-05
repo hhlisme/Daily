@@ -1469,7 +1469,9 @@ scikit-learn学习之K-means聚类算法与 Mini Batch K-Means算法
 http://blog.csdn.net/gamer_gyt/article/details/51244850
 
 
-
+20170805:
+如何在Python中用LSTM网络进行时间序列预测
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247487825&idx=2&sn=a697dea835fc67446e3b17267bb76125
 
 
 
