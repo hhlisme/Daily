@@ -1476,8 +1476,34 @@ https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247487825&idx=2&sn=a697de
 用机器学习来帮助吃货的你找最合适的聚点（Python描述）
 http://www.jianshu.com/p/6e07d05d7c99
 
- 数据向：618价格到底~到底是不是最低？
+数据向：618价格到底~到底是不是最低？
 http://blog.csdn.net/mrlevo520/article/details/73610022
+
+
+20170806:
+一文读懂遗传算法工作原理（附Python实现）
+https://zhuanlan.zhihu.com/p/28328304
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
