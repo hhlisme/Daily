@@ -1484,6 +1484,11 @@ http://blog.csdn.net/mrlevo520/article/details/73610022
 一文读懂遗传算法工作原理（附Python实现）
 https://zhuanlan.zhihu.com/p/28328304
 
+使用MPI for Python 并行化遗传算法
+https://zhuanlan.zhihu.com/p/28274632
+
+GAFT-一个使用Python实现的遗传算法框架
+https://zhuanlan.zhihu.com/p/28057405
 
 
 
