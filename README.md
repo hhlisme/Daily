@@ -1491,7 +1491,12 @@ GAFT-一个使用Python实现的遗传算法框架
 https://zhuanlan.zhihu.com/p/28057405
 
 
+20170807:
+从零开始写Python爬虫 --- 爬虫应用： 利用斗鱼Api抓取弹幕
+https://zhuanlan.zhihu.com/p/28164017
 
+深度学习要多深，才能了解你的心？——DNN在搜索场景中的应用
+https://mp.weixin.qq.com/s/Lf_UD92kgeTciqkHLyJmgg
 
 
 
