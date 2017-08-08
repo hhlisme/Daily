@@ -1500,7 +1500,9 @@ https://mp.weixin.qq.com/s/Lf_UD92kgeTciqkHLyJmgg
 
 
 
-
+20170808:
+机器学习算法梳理---[1024深度学习]
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247483888&idx=1&sn=392bfe77af86bcd375898d590ee4e06c
 
 
 
