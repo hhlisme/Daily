@@ -1505,7 +1505,9 @@ https://mp.weixin.qq.com/s/Lf_UD92kgeTciqkHLyJmgg
 https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247483888&idx=1&sn=392bfe77af86bcd375898d590ee4e06c
 
 
-
+20170809:
+《机器学习》从零开始学(1) 数据分析之“岩石与水雷”
+https://zhuanlan.zhihu.com/p/28355312
 
 
 
