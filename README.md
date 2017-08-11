@@ -1510,7 +1510,29 @@ https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247483888&idx=1&sn=392bfe
 https://zhuanlan.zhihu.com/p/28355312
 
 
-201708010:
+
+20170810:
+selenium + Phantomjs 抓取网易云音乐
+http://blog.csdn.net/mrlevo520/article/details/74908066
+
+
+20170811:
+ICML2017教程｜深度强化学习，决策与控制（附117 PPT）
+https://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483848&idx=1&sn=135f42de31c384835b78a92d983ca209
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
