@@ -1522,7 +1522,19 @@ https://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483848&idx=1&sn=135f42
 
 
 
+20170812:
+爬虫杂谈（四）抓取微信公众号文章的轮子
+https://ask.hellobi.com/blog/linjichu/8088?utm_source=tuicool&utm_medium=referral
 
+
+利用python 实现微信公众号群发图片与文本消息功能
+http://www.cnblogs.com/zhoudayang/p/5301918.html
+
+微信小程序中实现一对多发消息详解及实例代码
+http://www.jb51.net/article/105588.htm
+
+初学Python--微信自动回复信息以及防撤回
+https://zhuanlan.zhihu.com/p/25581913
 
 
 
