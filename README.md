@@ -1538,7 +1538,9 @@ https://zhuanlan.zhihu.com/p/25581913
 
 
 
-
+20170813:
+研究生第一篇学术论文常犯问题总结
+https://mp.weixin.qq.com/s?__biz=MzI4NzExMjU0Mw==&mid=2651108304&idx=1&sn=5db599b2c59cca2d34eb88117990f1fa
 
 
 
