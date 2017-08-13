@@ -1542,7 +1542,8 @@ https://zhuanlan.zhihu.com/p/25581913
 研究生第一篇学术论文常犯问题总结
 https://mp.weixin.qq.com/s?__biz=MzI4NzExMjU0Mw==&mid=2651108304&idx=1&sn=5db599b2c59cca2d34eb88117990f1fa
 
-
+哈士奇说喵 的CSDN博客----关于机器学习数据分析、python等内容
+http://blog.csdn.net/MrLevo520/article/category/6475457
 
 
 
