@@ -1547,7 +1547,15 @@ http://blog.csdn.net/MrLevo520/article/category/6475457
 
 
 
+20170814:
+李飞飞教你玩转 ImageNet 挑战赛，斯坦福 CS231n 最新视频课程全公开
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247488053&idx=2&sn=2f053b5a4fdc1fe559ac4de812ce01ae
+斯坦福2017季CS231n深度视觉识别课程视频：
+http://www.bilibili.com/video/av13260183/#page=1（由微博博主@爱可可老师上传）
 
+
+关联规则R语言实战（Apriori算法）
+https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651056379&idx=1&sn=0716ade2a0efc458bc6e824766a80301
 
 
 
