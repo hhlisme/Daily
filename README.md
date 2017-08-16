@@ -1564,6 +1564,36 @@ http://www.toutiao.com/a6453546859427267086/
 
 
 
+20170816:
+用Python分析用户消费行为---秦路
+https://mp.weixin.qq.com/s?__biz=MjM5NjEyMDI2MQ==&mid=2455947504&idx=1&sn=ded8d4939391a0d35a844415fcb0c28f
+
+pyecharts 时间线酷炫功能再度来袭！
+https://zhuanlan.zhihu.com/p/28543109
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
