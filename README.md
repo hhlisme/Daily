@@ -1578,9 +1578,11 @@ https://zhuanlan.zhihu.com/p/28543109
 https://zhuanlan.zhihu.com/p/28531346
 
 
-
-
-
+20170818：
+重磅！吴恩达最新deeplearning.ai课程在国内上线！（中文字幕）
+https://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483861&idx=1&sn=6b8d7362c506ef08a84ca50153d86a04
+视频地址：
+https://www.bilibili.com/video/av13441326/?from=search&seid=15262798527078967358
 
 
 
