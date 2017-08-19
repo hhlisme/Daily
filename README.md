@@ -1587,6 +1587,24 @@ https://www.bilibili.com/video/av13441326/?from=search&seid=15262798527078967358
 
 
 
+20170819:
+数据科学家成长指南(下)
+https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651056410&idx=3&sn=42c21f3398cdfda3b80abfc87a126a99
+
+教你Machine Learning玩转金融入门notes
+https://zhuanlan.zhihu.com/p/27521935
+
+machine-learning-notebooks
+https://github.com/krasserm/machine-learning-notebooks
+
+必备|99%留学生都不知道的Paper写作神器，Google从此是路人
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247492605&idx=4&sn=cf102b929e317e047b5d4842b2375b10
+
+XGBoost 源码阅读笔记（2）：树构造之 Exact Greedy Algorithm
+https://cloud.tencent.com/community/article/590891
+
+【技术分享】稀疏学习综述
+https://mp.weixin.qq.com/s?__biz=MzIyNjY3MjQ5NA==&mid=2247483873&idx=1&sn=7c89ffc81df74e1085567f33b6347bd3
 
 
 
