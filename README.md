@@ -1615,6 +1615,12 @@ https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391491&idx=1&sn=971056
 
 
 
+20170821:
+pandas可视化（5）【官方文档解读】-- 有缺失值时候的绘图&绘图工具
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484236&idx=1&sn=a5366f6c1c749e9dd8e76f19cb93e8d1
+
+如何掌握阅读机器学习论文的正确姿势
+https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162805&idx=1&sn=3548912b35e1e2e7e0294ccb45a32e81
 
 
 
