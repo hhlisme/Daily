@@ -1624,8 +1624,16 @@ https://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162805&idx=1&sn=354891
 
 
 
+20170822:
+数据挖掘入门与实战 历史文章源代码打包下载
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391502&idx=1&sn=9612ca848036ae0ea6041d469e15540a
 
-
+文件1
+链接：http://pan.baidu.com/s/1sl2Ux1j 密码：b3jo
+文档2
+链接：http://pan.baidu.com/s/1eSxljTg 密码：jkgq
+文档3
+链接：http://pan.baidu.com/s/1jIeMhMY 密码：tl2p
 
 
 
