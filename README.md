@@ -1638,6 +1638,40 @@ https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391502&idx=1&sn=9612ca
 
 
 20170823:
+Python操作Mysql数据库入门——数据导入pandas（数据分析准备）
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484249&idx=1&sn=c2b9f6ad219724b7361f4ec1a02758d1
+
+
+20170824:
+干货|还怕Tensorflow学习没有资料吗？来看最新开的Tensorflow课程学习笔记
+https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247485103&idx=1&sn=5e7f3cfe5100ca4a55fba116411fb263
+
+从数据爬取到机器学习—标题党，你的标题值几何(爬虫存储适用pymongo)
+https://mp.weixin.qq.com/s?__biz=MzI2ODQ4MTk2NQ==&mid=2247483801&idx=1&sn=83d01c4d7c9fdc408b8601e10e8080b5
+
+Flask+Echarts 实现动图图表
+https://mp.weixin.qq.com/s?__biz=MzI1MTE2ODg4MA==&mid=2650068404&idx=1&sn=6dd8038931bfd122b569382f8e2391eb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
