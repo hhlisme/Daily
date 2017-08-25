@@ -1654,8 +1654,9 @@ https://mp.weixin.qq.com/s?__biz=MzI1MTE2ODg4MA==&mid=2650068404&idx=1&sn=6dd803
 
 
 
-
-
+201708125:
+机器学习（五）--- FTRL一路走来，从LR -> SGD -> TG -> FOBOS -> RDA -> FTRL
+http://blog.csdn.net/china1000/article/details/51176654
 
 
 
