@@ -1665,7 +1665,9 @@ http://blog.csdn.net/china1000/article/details/51176654
 https://mp.weixin.qq.com/s?__biz=MzA4MDI0NDQyOQ==&mid=2447499254&idx=1&sn=27e7fc93ea046df3cd27be7f59c174d2
 
 
-
+20170827:
+技术 | 强化学习入门以及代码实现
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247488408&idx=3&sn=45dda6069cfdd80bad453884a78a816a
 
 
 
