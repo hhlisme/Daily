@@ -1671,6 +1671,45 @@ https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247488408&idx=3&sn=45dda6
 
 
 
+20170828:
+Phantomjs正确使用方式
+https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653554009&idx=1&sn=f26bb123f00c8b224a027bd757fae2ec
+
+python奇技淫巧
+https://thief.one/2017/04/19/1/
+
+easy ensemble 算法和balance cascade算法
+http://blog.csdn.net/march_on/article/details/48656391
+
+
+
+20170829:
+迁移学习入门详解
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484037&idx=1&sn=8b4a29b1b8f21a63ae0706d31a3e094e
+
+随机森林之美
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484041&idx=1&sn=9f3ae110082ebacc474c271f146e1d80
+
+CNN入门再介绍
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484047&idx=1&sn=09ef57c1c06a3a5c9570053be68994b2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
