@@ -1695,10 +1695,19 @@ https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484047&idx=1&sn=09ef57
 
 
 
-20170830L:
+20170830:
+独家 | 哈佛教授公开R语言源码，教你用R制作gif动图
+https://mp.weixin.qq.com/s?__biz=MzAxMzA2MDYxMw==&mid=2651561200&idx=1&sn=852f29d9fa79c1bd338eb2c026872f73
+
+机器之心GitHub项目：从零开始用TensorFlow搭建卷积神经网络
 https://zhuanlan.zhihu.com/p/28889436
 
 
+
+
+20170831:
+「2017 知乎 · 看山杯机器学习挑战赛」结束，谁获奖了？知乎还会做什么？
+https://zhuanlan.zhihu.com/p/28912353
 
 
 
