@@ -1705,9 +1705,17 @@ https://zhuanlan.zhihu.com/p/28889436
 
 
 
+
 20170831:
 「2017 知乎 · 看山杯机器学习挑战赛」结束，谁获奖了？知乎还会做什么？
 https://zhuanlan.zhihu.com/p/28912353
+
+使用MPI for Python 并行化遗传算法
+https://mp.weixin.qq.com/s?__biz=MzAxMjUyNDQ5OA==&mid=2653554054&idx=1&sn=74e72a88cea83508e39aab6cc87b236a
+
+NLP真实项目:利用这个模型能够通过商品评论去预测一个商品的销量
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391521&idx=1&sn=e73c1fe6fd876bbaabcc046a8973b1ba
+
 
 
 
