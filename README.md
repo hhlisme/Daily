@@ -1717,7 +1717,21 @@ NLP真实项目:利用这个模型能够通过商品评论去预测一个商品�
 https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391521&idx=1&sn=e73c1fe6fd876bbaabcc046a8973b1ba
 
 
+
+
 20170901:
+Python模拟登陆万能方法-/微博/知乎
+https://zhuanlan.zhihu.com/p/28587931
+
+
+
+
+20170902:
+干货：图像比赛的通用套路有哪些？Kaggle比赛金牌团队为你解答
+http://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666086&idx=2&sn=a324768a33e032702d4ac30eeaa039aa
+
+机器学习研究会2017年8月历史文章汇总
+http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649678001&idx=5&sn=a39fdaf0be7c24b40c001eeb118910dc
 
 
 
