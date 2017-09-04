@@ -1744,9 +1744,8 @@ http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649678001&idx=5&sn=a39fdaf
 最新｜亚马逊AI科学家李沐推出“动手学深度学习”中文免费课程！
 http://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483915&idx=1&sn=f5227a17c7b2da717f5420ef7b9be3ef
 
-
-
-
+拍知心 最懂你的智能投资顾问
+http://mp.weixin.qq.com/s?__biz=MzI0NTExNDY2NA==&mid=2650911763&idx=1&sn=4868b85c7124fbe740f6fe071dc5aa52
 
 
 
