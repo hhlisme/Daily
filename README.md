@@ -1730,14 +1730,19 @@ https://zhuanlan.zhihu.com/p/28587931
 干货：图像比赛的通用套路有哪些？Kaggle比赛金牌团队为你解答
 http://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666086&idx=2&sn=a324768a33e032702d4ac30eeaa039aa
 
+
+
+
+
+20170903:
 机器学习研究会2017年8月历史文章汇总
 http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649678001&idx=5&sn=a39fdaf0be7c24b40c001eeb118910dc
 
 
 
-20170903:
-
-
+20170904:
+最新｜亚马逊AI科学家李沐推出“动手学深度学习”中文免费课程！
+http://mp.weixin.qq.com/s?__biz=MjM5MDk3ODg4NA==&mid=2257483915&idx=1&sn=f5227a17c7b2da717f5420ef7b9be3ef
 
 
 
