@@ -1750,11 +1750,13 @@ http://mp.weixin.qq.com/s?__biz=MzI0NTExNDY2NA==&mid=2650911763&idx=1&sn=4868b85
 
 
 
+20170905:
+变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作
 
+http://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666124&idx=1&sn=edddf2d7a392ad0436e786103974d56a
 
-
-
-
+本笔记是针对斯坦福大学2014年机器学习课程视频做的个人笔记斯坦福大学2014机器学习教程个人笔记（V4.31）
+http://note.youdao.com/share/index.html?id=39b0d15a196fb5fefcb36e65b9f3969b&type=note&from=groupmessage#/
 
 
 
