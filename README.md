@@ -1760,7 +1760,9 @@ http://note.youdao.com/share/index.html?id=39b0d15a196fb5fefcb36e65b9f3969b&type
 
 
 
-
+20170906:
+人人都爱数据分析 Data analysis six fly（3）
+https://zhuanlan.zhihu.com/p/29089024
 
 
 
