@@ -1766,6 +1766,45 @@ https://zhuanlan.zhihu.com/p/29089024
 
 
 
+20170907:
+【超级干货！】手把手教你用Python做回归模型预测房价
+https://mp.weixin.qq.com/s?__biz=MjM5MDI1ODUyMA==&mid=2672938723&idx=1&sn=b2f6255d021629326e5a14cbc8334e8e
+
+
+20170908:
+深度学习 | Keras自动编码器实现信用卡欺诈侦测建模
+https://mp.weixin.qq.com/s?__biz=MzIxNTQ4NzAwNA==&mid=2247484834&idx=1&sn=bd97d3dde16ebe57fd3c911164d98853
+
+【一文打尽】SQL 数据分析常用语句.....收藏
+https://mp.weixin.qq.com/s?__biz=MjM5MDI1ODUyMA==&mid=2672938936&idx=1&sn=7a15c8b5da6caf1c1ad67a5d79e9c152
+
+
+
+20170909:
+Python爬虫开源项目代码，爬取微信、淘宝、豆瓣、知乎、新浪微博、QQ、去哪网等
+https://mp.weixin.qq.com/s?__biz=MjM5MDI1ODUyMA==&mid=2672939168&idx=1&sn=7e6441b5ec1dfef44d2b4830e286ee25
+
+把时间还给洞察，且看PPT调研报告自动生成攻略
+http://www.cnblogs.com/gasongjian/p/6481422.html
+
+我爬下摩拜6万单车数据，聊聊共享经济在城市中的热潮
+https://mp.weixin.qq.com/s?__biz=MjM5MDI1ODUyMA==&mid=2672939191&idx=1&sn=4e1600cbd6d8f3b9328767dc36a9d6a1
+
+【干货】python玩转微信：微信好友统计信息全掌握
+https://mp.weixin.qq.com/s?__biz=MzI0MzE5MTgzMw==&mid=2651441472&idx=2&sn=44f6a307149888a638c09b43071c1e8f
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
