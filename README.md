@@ -1796,7 +1796,10 @@ https://mp.weixin.qq.com/s?__biz=MzI0MzE5MTgzMw==&mid=2651441472&idx=2&sn=44f6a3
 
 
 20170910：
+商业银行信用风险内部评级方法与实践【10】——债项评级方法与实践
+http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650239889&idx=1&sn=a7fd18755ea4d1cd819d99f89942319e
 
+20170911：
 
 
 
