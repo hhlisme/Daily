@@ -1800,10 +1800,11 @@ https://mp.weixin.qq.com/s?__biz=MzI0MzE5MTgzMw==&mid=2651441472&idx=2&sn=44f6a3
 http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650239889&idx=1&sn=a7fd18755ea4d1cd819d99f89942319e
 
 20170911：
+为什么信息熵要定义成-Σp*log(p)？
+https://www.zhihu.com/question/30828247/answer/160647576
 
 
-
-
+20170912:
 
 
 
