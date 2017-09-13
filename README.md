@@ -1805,6 +1805,11 @@ https://www.zhihu.com/question/30828247/answer/160647576
 
 
 20170912:
+竞赛大杀器XGBoost，你还可以这样玩~
+http://mp.weixin.qq.com/s?__biz=MzAwNjM1ODkxNQ==&mid=2650887653&idx=1&sn=93c803d4b8c0dd5feb894d4f7a529bdd
+
+【干货】Kaggle 数据挖掘比赛经验分享
+https://zhuanlan.zhihu.com/p/26820998
 
 
 
