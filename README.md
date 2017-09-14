@@ -1819,8 +1819,9 @@ wxpy: 用 Python 玩微信<br>
 http://wxpy.readthedocs.io/zh/latest/index.html<br>
 
 <br>
-20170913：<br>
-
+20170914：<br>
+干货｜SRU训练速度非常棒，比优化后的LSTM快10倍！
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493508&idx=2&sn=3977cadfc91699993d5d92edd626ab35
 
 <br>
 
