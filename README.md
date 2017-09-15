@@ -1822,12 +1822,38 @@ http://wxpy.readthedocs.io/zh/latest/index.html<br>
 20170914：<br>
 干货｜SRU训练速度非常棒，比优化后的LSTM快10倍！
 https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493508&idx=2&sn=3977cadfc91699993d5d92edd626ab35
-
+<br>
 <br>
 
+20170915:<br>
+挑战百万美金 kaggle-zillow II 数据探索<br>
+https://zhuanlan.zhihu.com/p/29190140
+<br>
 <br>
 
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
