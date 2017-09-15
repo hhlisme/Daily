@@ -1831,6 +1831,12 @@ https://zhuanlan.zhihu.com/p/29190140
 <br>
 <br>
 
+机器视角：长文揭秘图像处理和卷积神经网络架构<br>
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728746&idx=1&sn=61e9cb824501ec7c505eb464e8317915
+<br>
+<br>
+
+
 
 
 
