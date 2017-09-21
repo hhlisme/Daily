@@ -1837,7 +1837,36 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650728746&idx=1&sn=61e9cb
 <br>
 20170916-20170920:
 
-随即添加
+如何优雅地躲避学术地雷 | AI阅读研究所·第1期
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666306&idx=1&sn=49dc5a55e1a6baf47c28b78718a23ce3
+
+
+青年分享会第 3 期回顾 | 刘凯：解读生物医学图像论文（上）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666309&idx=4&sn=57b6f259cc6277966c09a3ffedc2c3ef
+
+青年分享会第 4 期回顾 | 刘凯：解读生物医学图像论文（下）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666338&idx=4&sn=3e91ed7c9b9b1224e397399e8752f34b
+
+
+青年分享会第5期回顾 | 刘思聪：图像比赛的通用套路
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666423&idx=4&sn=bb2a03a57d3711683116f1f9f3f1739c
+
+
+20170921:
+如何在 Kaggle 中高效搜索数据集？快吃下这枚安利
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666556&idx=1&sn=4476fb3e6c64403020b9a03a3b81809a
+
+知乎“看山杯”夺冠记
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666214&idx=1&sn=8b8f0b81f99301119d2a9440a9ccd89b
+
+2017 知乎看山杯从入门到第二
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666307&idx=2&sn=849556e18ff7f0ece7b163318d50b051
+
+迁移成分分析 (TCA) 方法简介
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666534&idx=2&sn=1a7f08d3201d8f8d7880354f6a122647
+
+深度学习要另起炉灶，彻底抛弃反向传播？
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666582&idx=1&sn=abdab987cda4b03f17dea79889d1ec52
 
 
 
