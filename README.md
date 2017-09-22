@@ -1869,17 +1869,16 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666534&idx=2&sn=1a7f08
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666582&idx=1&sn=abdab987cda4b03f17dea79889d1ec52
 
 
+<br>
+20170922:
+人工智能在线特征系统中的生产调度(美团点评技术团队)
+https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651746792&idx=1&sn=5055401b6cca6f65abcdb983edc6b1a6
+<br>
 
+<br>
 
-br>
 <br>
-br>
-<br>
-br>
-<br>
-br>
-<br>
-br>
+
 <br>
 
 
