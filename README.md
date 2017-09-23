@@ -1875,6 +1875,13 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666582&idx=1&sn=abdab9
 https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651746792&idx=1&sn=5055401b6cca6f65abcdb983edc6b1a6
 <br>
 
+20170923:
+DeepLearningBook读书笔记
+https://github.com/exacity/simplified-deeplearning/blob/master/README.md
+
+回顾 | 跟李沐一起动手学深度学习第二课：过拟合、多层感知机、GPU和卷积神经网络
+https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=2650363953&idx=2&sn=2ead7602490abc072a3c52e547772286
+
 <br>
 
 <br>
