@@ -1883,6 +1883,28 @@ https://github.com/exacity/simplified-deeplearning/blob/master/README.md
 https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=2650363953&idx=2&sn=2ead7602490abc072a3c52e547772286
 
 <br>
+20170924:
+第11期 · 分享回顾 | 王书浩：基于深度学习的电商交易欺诈检测系统(京东欺诈研究，视频)
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666653&idx=4&sn=c78daf0aacf1191e4e7bd5e71b4ecb44
+
+达观数据张健分享文本分类方法和应用案例 | 学术青年分享会
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666754&idx=2&sn=4a54eaffef948e3ab148c0117bd2ecb1
+
+当我们在谈论数据挖掘专栏总目录（K-means，GBDT，Deep Learning）
+https://zhuanlan.zhihu.com/p/25091816
+
+知乎【知行】的数据科学高频资料整理
+https://zhuanlan.zhihu.com/p/29397613
+
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
 
 <br>
 
