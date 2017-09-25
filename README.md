@@ -1898,6 +1898,58 @@ https://zhuanlan.zhihu.com/p/29397613
 
 
 <br>
+20170925:
+机器学习43条军规：解密谷歌机器学习工程最佳实践（上）
+https://zhuanlan.zhihu.com/p/29409286
+
+机器学习43条军规：解密谷歌机器学习工程最佳实践（下）
+https://zhuanlan.zhihu.com/p/29446616
+
+学界 | 神经混合模型：提升模型性能，显著降低困惑度
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731272&idx=3&sn=e98722f4717ae65da2887e1d7f2afbf2
+
+学界 | 神经优化器搜索：利用强化学习自动搜索最优化方法
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730488&idx=3&sn=a62e5997b34bf1892c5127a1adde0009
+
+教程 | 如何基于TensorFlow使用LSTM和CNN实现时序分类任务
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730786&idx=4&sn=9965afeb050e2e7431baef39636e28e2
+
+教程 | 深度学习：自动编码器基础和类型（需细看）
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731207&idx=2&sn=ce4158846e5ecc07879d9fd853377a9c
+
+如何解读决策树和随机森林的内部工作机制？
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731247&idx=1&sn=d90fcbf1d0412fdda08e00f611628e2e
+
+资源 | 从最小二乘到DNN：六段代码了解深度学习简史
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731247&idx=2&sn=c717b15fa757ed88c9be97919f3b0dee
+
+浅析Geoffrey Hinton最近提出的Capsule计划（需细看）
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731207&idx=1&sn=db9b376df658d096f3d1ee71179d9c8a
+
+被Geoffrey Hinton抛弃，反向传播为何饱受质疑？（附BP推导）
+https://zhuanlan.zhihu.com/p/29538431
+
+从算法到训练，综述强化学习实现技巧与调试经验
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730721&idx=1&sn=171ed5893d5f09e1f4cc689ffe7e794b
+
+教程 | 自动化机器学习第一步：使用Hyperopt自动选择超参数
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650729976&idx=4&sn=5e299077c20bc412e737d1a9545862f1
+
+专栏 | Momenta详解ImageNet 2017夺冠架构SENet
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650729486&idx=3&sn=5b2b6f0e7443ecf0971d4743d5480bb6
+
+遗传算法中几种不同选择算子
+https://zhuanlan.zhihu.com/p/29474851
+
+100行深度学习文本分类
+https://zhuanlan.zhihu.com/p/29463028
+
+
+
+
+
+
+
 
 <br>
 
