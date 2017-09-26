@@ -1945,8 +1945,10 @@ https://zhuanlan.zhihu.com/p/29474851
 https://zhuanlan.zhihu.com/p/29463028
 
 
-
-
+<br>
+20170926:
+腾讯社交广告APP转化率预估预估初赛&复赛思路总结
+https://jiayi797.github.io/2017/06/07/机器学习实践-CVR-Tencent_CVR预估初赛思路总结
 
 
 
