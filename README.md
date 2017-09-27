@@ -1954,6 +1954,24 @@ https://jiayi797.github.io/2017/06/07/机器学习实践-CVR-Tencent_CVR预估�
 
 
 <br>
+20170927:
+Python数据采集Selenium、PantomJS浅谈
+https://zhuanlan.zhihu.com/p/29717002
+
+入门：概览深度学习中的卷积结构
+https://zhuanlan.zhihu.com/p/29715598
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
