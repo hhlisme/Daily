@@ -204,6 +204,7 @@ https://github.com/airingursb<br>
 20170208<br>
 机器学习研究会---2017年2月历史文章汇总（0208）<br>
 http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649677237&idx=5&sn=8f44b667f9fbe34fc629087e110a5c7f<br>
+
 机器学习笔记(二)模型评估与选择<br>
 http://lib.csdn.net/article/machinelearning/57736<br>
 
@@ -1963,24 +1964,30 @@ https://zhuanlan.zhihu.com/p/29715598
 
 
 
+<br>
+20170928:
+多图 | 从神经元到CNN、RNN、GAN…神经网络看本文绝对够了
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486196&idx=1&sn=da94fd48b9258034d70399c6c6f35d2a
 
+十图详解TensorFlow数据读取机制（附代码）
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486123&idx=2&sn=623a2c47d5e5b95f918799236c04c002
 
+如何优雅地用TensorFlow预测时间序列：TFTS库详细教程
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247489403&idx=1&sn=9f004963889104fd83307e48e9ec8709
 
+别磨叽，学完这篇你也是图像识别专家了
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247486410&idx=1&sn=1b00dc6f158880ed7ae9b4561d043636
 
-
-
-
-
+重磅 | 周志华最新论文：首个基于决策树集成的自动编码器，表现优于DNN
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247489475&idx=1&sn=a4c8c34f5980233dc00d9b4a79fbcfe1
 
 
 <br>
 
-
 <br>
 
 <br>
 
-<br>
 
 
 
@@ -1991,20 +1998,4 @@ https://zhuanlan.zhihu.com/p/29715598
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
 
