@@ -1983,6 +1983,13 @@ https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247489475&idx=1&sn=a4c8c3
 
 
 <br>
+20170929:
+大数据与人工智能助力互联网信贷业务稳健发展（上）
+https://mp.weixin.qq.com/s?__biz=MzA4MjI2MTcwMw==&mid=2650485748&idx=1&sn=b64b6ef32c916c964ce5cefac781a737
+
+大数据与人工智能助力互联网信贷业务稳健发展（下）​
+https://mp.weixin.qq.com/s?__biz=MzA4MjI2MTcwMw==&mid=2650485751&idx=1&sn=29bdcfa322849ae24f8876efcb1e2a08
+
 
 <br>
 
