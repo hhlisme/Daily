@@ -1993,6 +1993,16 @@ https://mp.weixin.qq.com/s?__biz=MzA4MjI2MTcwMw==&mid=2650485751&idx=1&sn=29bdcf
 
 <br>
 
+
+20170930:
+教程 | 如何从TensorFlow转入PyTorch
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731491&idx=3&sn=0c75c7d4c476031ced5ae40b972fb6b3
+
+
+
+
+
+
 <br>
 
 
