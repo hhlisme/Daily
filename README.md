@@ -1999,6 +1999,12 @@ https://mp.weixin.qq.com/s?__biz=MzA4MjI2MTcwMw==&mid=2650485751&idx=1&sn=29bdcf
 https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731491&idx=3&sn=0c75c7d4c476031ced5ae40b972fb6b3
 
 
+20171001:
+基于 Python Flask 的简单微博系统
+https://zhuanlan.zhihu.com/p/29824443
+
+用XGBoost做时间序列预测—forecastxgb包（R语言）
+https://zhuanlan.zhihu.com/p/24236567
 
 
 
