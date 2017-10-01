@@ -2006,7 +2006,14 @@ https://zhuanlan.zhihu.com/p/29824443
 用XGBoost做时间序列预测—forecastxgb包（R语言）
 https://zhuanlan.zhihu.com/p/24236567
 
+如何训练一个简单的音频识别网络
+https://zhuanlan.zhihu.com/p/29746717
 
+目标检测101：一文带你读懂深度学习框架下的目标检测
+https://zhuanlan.zhihu.com/p/29746882
+
+机器之心GitHub项目：GAN完整理论推导与实现，Perfect！
+https://zhuanlan.zhihu.com/p/29837245
 
 
 <br>
