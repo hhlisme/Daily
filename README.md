@@ -2018,6 +2018,24 @@ https://zhuanlan.zhihu.com/p/29837245
 
 <br>
 
+20171002:
+【回顾】基于生成对抗网络的图像编辑方法—优必选悉尼 AI 研究院王超岳
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666839&idx=2&sn=60c7125fa33d45e5c25118e80b882e6e
+
+【视频课程】经典深度学习网络一
+https://mp.weixin.qq.com/s?__biz=MzA4MDI0NDQyOQ==&mid=2447499456&idx=1&sn=bdb453a3465a7c571136e1ffbc6db66f
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
