@@ -2050,7 +2050,14 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493676&idx=2&sn=93761b
 干货｜如何用FPGA加速卷积神经网络(CNN)？
 https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493569&idx=4&sn=aca7526c99b60a80bb0afdc189bfbc66
 
+推荐｜“寻根问祖”深度学习只需六段代码
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493701&idx=2&sn=9a45bce3973c76c2c48ec5272ee3986a
 
+推荐 | 一文看懂迁移学习：从基础概念到技术研究！
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493708&idx=3&sn=f0908f3f2638a3b9790f0820428489b7
+
+推荐｜10大热门GAN模型的价值函数／论文和结构变体
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493270&idx=4&sn=184176abcca66cd5bd2962266c0cf08c
 
 
 
