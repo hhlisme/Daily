@@ -2035,6 +2035,41 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493270&idx=1&sn=b9ae5c
 深度学习之父Geoffrey Hinton的神经网络合集（中文字幕首发）| 国庆特辑
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666893&idx=1&sn=867c145f2807fd7ca2c55e560b127b76
 
+全解：目标检测，图像分类、分割、生成……
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493548&idx=5&sn=c9639f26d69ee891bed0410fbf3ab531
+
+2017上半年无监督特征学习研究成果汇总
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493472&idx=2&sn=4896756e83590b42c72ff3f2a5ee045e
+
+干货｜如何做准确率达98%的交通标志识别系统？（附源码）
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493293&idx=2&sn=015252a08af2446872f1c8447e3e3b80
+
+干货：手把手教你在音频分类DCASE2017比赛中夺冠
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493676&idx=2&sn=93761b15e6f146926c027f7d4f41c62d
+
+干货｜如何用FPGA加速卷积神经网络(CNN)？
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493569&idx=4&sn=aca7526c99b60a80bb0afdc189bfbc66
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
