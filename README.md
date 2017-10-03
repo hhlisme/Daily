@@ -2027,6 +2027,15 @@ https://mp.weixin.qq.com/s?__biz=MzA4MDI0NDQyOQ==&mid=2447499456&idx=1&sn=bdb453
 
 
 
+20171003:
+教程｜你的神经网络不工作，怎么办？手把手教你分析原因！
+(您忘记了规范化数据,你忘了检查你的结果,您忘了预处理您的数据,你忘了使用任何正则化,你使用太大的批量...)
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493270&idx=1&sn=b9ae5c9ab17c1d5e9083e5121f80f447
+
+深度学习之父Geoffrey Hinton的神经网络合集（中文字幕首发）| 国庆特辑
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666893&idx=1&sn=867c145f2807fd7ca2c55e560b127b76
+
+
 
 
 
