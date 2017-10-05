@@ -2068,6 +2068,10 @@ https://zhuanlan.zhihu.com/p/29362983
 
 
 
+20171005:
+干货｜如何用FPGA加速卷积神经网络(CNN)？
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493569&idx=4&sn=aca7526c99b60a80bb0afdc189bfbc66
+
 
 
 
