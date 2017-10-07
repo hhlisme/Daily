@@ -2073,9 +2073,15 @@ https://zhuanlan.zhihu.com/p/29362983
 https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247493569&idx=4&sn=aca7526c99b60a80bb0afdc189bfbc66
 
 
-20171006：
+20171006；
+《R语言实战》第四部分第十八章-处理缺失数据的高级方法学习笔记
+https://zhuanlan.zhihu.com/p/28056007
 
 
+
+20171007:
+这是一份你们需要的Windows版深度学习软件安装指南
+https://zhuanlan.zhihu.com/p/29903472
 
 
 
