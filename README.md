@@ -2085,7 +2085,12 @@ https://zhuanlan.zhihu.com/p/29903472
 
 
 
+20171008:
+香港科技大学PyTorch四日速成教程
+https://github.com/hunkim/PyTorchZeroToAll
 
+香港科技大学TensorFlow课件分享
+https://zhuanlan.zhihu.com/p/29936078
 
 
 
