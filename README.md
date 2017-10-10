@@ -2094,6 +2094,13 @@ https://zhuanlan.zhihu.com/p/29936078
 
 
 
+20171009:
+xgboost特征选择
+http://blog.csdn.net/qq_34264472/article/details/53363384
+
+
+
+20171010:
 
 
 
