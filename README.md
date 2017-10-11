@@ -2101,6 +2101,8 @@ http://blog.csdn.net/qq_34264472/article/details/53363384
 
 
 20171010:
+多维数据可视化方法，看这一篇就够了
+https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931627&idx=1&sn=6c8a331924371296f781e03a7a2cc544
 
 
 
