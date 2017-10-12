@@ -2105,6 +2105,10 @@ http://blog.csdn.net/qq_34264472/article/details/53363384
 https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931627&idx=1&sn=6c8a331924371296f781e03a7a2cc544
 
 
+20171011:
+【学习】确定最佳聚类数目的10种方法（R语言）
+https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649678216&idx=3&sn=074bbaa7b02410478d766ddcae746b51
+
 
 
 
