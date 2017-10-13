@@ -2111,6 +2111,19 @@ https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649678216&idx=3&sn=074bba
 
 
 
+20171012:
+从零开始：深度学习软件环境安装指南（基于 Ubuntu 和英伟达 GPU）
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731550&idx=1&sn=0ad49b4f74046456d806655b36659ba8
+
+
+
+20171013:
+教程 | 详解如何使用Keras实现Wassertein GAN
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731623&idx=3&sn=613f739fb333adb51db877f0000c5698
+
+
+
+
 
 
 
