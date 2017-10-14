@@ -2123,6 +2123,15 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731623&idx=3&sn=613f73
 
 
 
+20171014:
+如何从TensorFlow迁移到PyTorch
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494224&idx=4&sn=c296ae63e4472320f108ed1f8b4bcd34
+
+手把手教你使用TensorFlow生成对抗样本 | 附源码
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494288&idx=1&sn=2af337360624820346667aa215ac8fa4
+
+《小王爱迁移》系列之七：负迁移（Negative Transfer）
+https://zhuanlan.zhihu.com/p/30108427
 
 
 
