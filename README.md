@@ -2136,6 +2136,13 @@ https://zhuanlan.zhihu.com/p/30108427
 
 
 
+20171015:
+教程 | 利用达尔文的理论学习遗传算法
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731659&idx=3&sn=b3f6e3ea45f30dc85d6df7551b34ead5
+
+
+
+
 
 
 
