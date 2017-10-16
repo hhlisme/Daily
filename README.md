@@ -2142,7 +2142,9 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731659&idx=3&sn=b3f6e3
 
 
 
-
+20171016:
+机器之心GitHub项目：GAN完整理论推导与实现，Perfect！
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731540&idx=1&sn=193457603fe11b89f3d298ac1799b9fd
 
 
 
