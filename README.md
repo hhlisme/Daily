@@ -2149,6 +2149,47 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731540&idx=1&sn=193457
 
 
 
+20171017:
+适合入门的8个趣味机器学习项目（附教程和数据源）
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494193&idx=2&sn=d21e17b2e4c1f1c0a952ea75b613f3f3
+
+干货｜一文全解深度学习中的卷积
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494133&idx=4&sn=b1a97e29f1e520d4d87e02b80515c8ca
+
+反向传播神经网络极简入门
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494133&idx=5&sn=50a402f782a7787ceb8c6ad6479b626e
+
+干货| PyTorch相比TensorFlow，存在哪些自身优势？
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494119&idx=2&sn=b194b4fd3d4e1a327b08de2ae2a8ba9b
+
+Jupyter Notebook的快捷键
+http://blog.csdn.net/u010414589/article/details/72888038
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
