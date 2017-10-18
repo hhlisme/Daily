@@ -2166,7 +2166,15 @@ Jupyter Notebook的快捷键
 http://blog.csdn.net/u010414589/article/details/72888038
 
 
+20171018:
+自然语言处理领域重要论文&资源全索引（机器之心）
+https://zhuanlan.zhihu.com/p/30138012
 
+Neural Networks and Deep Learning（一）
+https://zhuanlan.zhihu.com/p/29761482
+
+机器学习经典算法优缺点总结
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667127&idx=1&sn=623e4fe03d1694ef275a401f8f3abc96
 
 
 
