@@ -2179,6 +2179,16 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667127&idx=1&sn=623e4f
 
 
 
+20171019:
+PyTorch 合辑 | 国庆特辑（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666909&idx=1&sn=d7307b117dbdeea6bde9250ea0949ad8
+
+GANs合辑 | 国庆特辑（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666905&idx=1&sn=2198e2f47fb33c4c25dcbf5878ef0623
+
+从DL到Hinton到GANs再到PyTorch，这里全都有了！| 国庆特辑巨无霸 · 最终回（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666913&idx=1&sn=651db4550874e23b679dabaf0299fd29
+
 
 
 
