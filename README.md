@@ -2192,6 +2192,13 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666913&idx=1&sn=651db4
 
 
 
+20171020:
+【回顾】搜狗研究员讲解基于深度学习的语音分离（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650666943&idx=1&sn=456c0c12674e52a4bdc2e488b7376c21
+
+【回顾】深度学习在语音生成问题上的典型应用（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667107&idx=4&sn=3ae0c1f1d88d095b3baac858a6cb067a
+
 
 
 
