@@ -2203,6 +2203,20 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667107&idx=4&sn=3ae0c1
 
 
 
+20171021:
+关于GAN的知乎专栏---学术兴趣小组
+https://zhuanlan.zhihu.com/academic-interests
+
+经典！构建你的第一个神经网络识别数字（keras）
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484189&idx=1&sn=c1d1dbbb24a489c249a3b60587ad0288
+
+用TensorFlow和TensorBoard从零开始构建ConvNet（CNN）
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484170&idx=1&sn=65e9d4e32619e1a86fa43d9b2c91a78f
+
+最全的DNN概述论文：详解前馈、卷积和循环神经网络技术
+https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484100&idx=1&sn=549f8353b8d7e7cee9ca628368dba51c
+
+
 
 
 
