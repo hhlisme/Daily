@@ -2220,6 +2220,15 @@ https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484100&idx=1&sn=549f83
 
 
 
+20171022:
+深度学习必备手册（上）---阿里云云栖社区
+https://zhuanlan.zhihu.com/p/30264305
+
+
+找寻史上最XX总冠军---数据分析NBA（python绘图非常好，可以学习）
+https://www.kesci.com/apps/home/project/599f7cfec8d2787da4d54eeb
+
+
 
 
 
