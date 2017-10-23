@@ -2231,7 +2231,12 @@ https://www.kesci.com/apps/home/project/599f7cfec8d2787da4d54eeb
 
 
 
+20171023:
+左手用R右手Python系列——模拟登陆教务系统
+https://mp.weixin.qq.com/s?__biz=MzA3Njc0NzA0MA==&mid=2653191838&idx=1&sn=07fef80f4c9c02776d528bbcdf8dff2e
 
+【DRL教程学习笔记01】AlphaGo Zero核心技术- 深度强化学习简介
+https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247484602&idx=3&sn=4ec849facb5814fcf356efb7740fcc18
 
 
 
