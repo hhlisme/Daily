@@ -2242,6 +2242,10 @@ https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247484602&idx=3&sn=4ec849
 
 
 
+20171024:
+【干货】Ian Goodfellow ICCV2017演讲：解读GAN的原理与应用（下载）
+https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652006671&idx=3&sn=a974d4ed1865f9d66e219928a1f4f9dd
+
 
 
 
