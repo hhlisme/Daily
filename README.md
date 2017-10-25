@@ -2248,7 +2248,12 @@ https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652006671&idx=3&sn=a974d4
 
 
 
+20171025:
+Kaggle亚马逊比赛冠军专访：利用标签相关性来处理分类问题
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667437&idx=1&sn=608430a98567584cbe5810b3b4bad4e1
 
+PyTorch初探迁移学习
+https://zhuanlan.zhihu.com/p/30315331
 
 
 
