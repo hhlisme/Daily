@@ -2258,6 +2258,16 @@ https://zhuanlan.zhihu.com/p/30315331
 
 
 
+20171026:
+【榜单】机器学习&深度学习近三年被引最多论文 Top 20，图像识别、GAN等（附下载）
+https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247484040&idx=1&sn=a99da6668820eee5038fe7db050e39ed
+
+
+
+
+
+
+
 
 
 
