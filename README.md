@@ -2264,6 +2264,31 @@ https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247484040&idx=1&sn=a99da6
 
 
 
+20171027:
+【博客存档】拍拍贷风控预测比赛分享（含代码）
+https://zhuanlan.zhihu.com/p/30487081
+
+Deep Learning解读合辑 | 国庆特辑（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=503183187&idx=1&sn=cf18a77ef1249b589c89e23e0ddcae9e
+
+重磅！Google内部Python Notebook工具Colab对外开放
+https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494600&idx=2&sn=912719685eded6292ac676b784ba66bc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
