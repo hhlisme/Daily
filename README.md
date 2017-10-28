@@ -2277,6 +2277,15 @@ https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247494600&idx=2&sn=912719
 
 
 
+20171028:
+理解情感?：从 Keras 移植到 pyTorch
+https://cloud.tencent.com/community/article/806548
+
+终于盼来了Hinton的Capsule新论文，它能开启深度神经网络的新时代吗？
+https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247487853&idx=1&sn=80035222fce4dd4e72bff984684cda91
+
+TensorFlow-Tutorials（nlintz的GitHub）
+https://github.com/nlintz/TensorFlow-Tutorials
 
 
 
