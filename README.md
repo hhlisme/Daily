@@ -2290,6 +2290,16 @@ https://github.com/nlintz/TensorFlow-Tutorials
 
 
 
+20171029:
+【回顾】深度学习处理架构的演进（AI研习社，视频）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667374&idx=4&sn=0fd888dd9c8ab4f53d2a65adba71eac1
+
+第 29 期 · 分享回顾 | 生成式对抗网络在文本生成中的探索（AI研习社，视频）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667553&idx=3&sn=af169f7dbf7f151512758097ae6c1277
+
+【回顾】基于 LSTM-RNN 的语音声学建模技术（AI研习社，视频）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667648&idx=3&sn=5afdf112b66f084e4812111c50134cba
+
 
 
 
