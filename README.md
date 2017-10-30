@@ -2294,13 +2294,24 @@ https://github.com/nlintz/TensorFlow-Tutorials
 【回顾】深度学习处理架构的演进（AI研习社，视频）
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667374&idx=4&sn=0fd888dd9c8ab4f53d2a65adba71eac1
 
-第 29 期 · 分享回顾 | 生成式对抗网络在文本生成中的探索（AI研习社，视频）
+第29期·分享回顾 | 生成式对抗网络在文本生成中的探索（AI研习社，视频）
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667553&idx=3&sn=af169f7dbf7f151512758097ae6c1277
 
 【回顾】基于 LSTM-RNN 的语音声学建模技术（AI研习社，视频）
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667648&idx=3&sn=5afdf112b66f084e4812111c50134cba
 
 
+
+
+20171030:
+终于，Geoffrey Hinton那篇备受关注的Capsule论文公开了（机器之心）
+https://zhuanlan.zhihu.com/p/30521353
+
+全文翻译Hinton那篇备受关注的Capsule论文（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667648&idx=1&sn=7f64ee3135cf383bf956a4c24a96467a
+
+基于深度学习的医疗影像论文汇总（Deep Learning Papers on Medical Image Analysis）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667374&idx=2&sn=a659bb105adb6fe887f1652baead6b50
 
 
 
