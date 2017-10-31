@@ -2317,7 +2317,12 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667374&idx=2&sn=a659bb
 
 
 
+20171031:
+GAN生成的结果多样性不足怎么办？那就再添一个鉴别器！
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667389&idx=1&sn=243e25f812828099d315f9246e1285a6
 
+生成式对抗网络GAN有哪些最新的发展？ | 2分钟读论文
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667553&idx=1&sn=bf83ba16f4bb2ae257dc04c86d5ffdf4
 
 
 
