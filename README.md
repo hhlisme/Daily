@@ -2324,7 +2324,14 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667389&idx=1&sn=243e25
 生成式对抗网络GAN有哪些最新的发展？ | 2分钟读论文
 https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667553&idx=1&sn=bf83ba16f4bb2ae257dc04c86d5ffdf4
 
+强化学习在生成对抗网络文本生成中扮演的角色（Role of RL in Text Generation by GAN）（上）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667553&idx=2&sn=7863bc100f6548f24dc046e3681c5ab4
 
+强化学习在生成对抗网络文本生成中扮演的角色（Role of RL in Text Generation by GAN）（下）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667618&idx=2&sn=8f4a7e23bfc9f569bb43603170ac5fac
+
+要让 GAN 生成想要的样本，可控生成对抗网络可能会成为你的好帮手
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667648&idx=2&sn=b963394f56e7cc8a62cd1b446476e461
 
 
 
