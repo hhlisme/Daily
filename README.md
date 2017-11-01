@@ -2336,6 +2336,30 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667648&idx=2&sn=b96339
 
 
 
+20171101:
+前海征信“好信杯”大数据算法竞赛 - H&M队【附源码】（迁移学习）
+https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931295&idx=1&sn=0abd38b782979298b732c8383e5a76ff
+
+前海征信“好信杯”大数据算法竞赛 - 天线宝宝团队【附源码】（迁移学习）
+https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931311&idx=1&sn=b2a8b3b9f0cc9377b2b4a1894d2a2503
+
+深度 | 从Boosting到Stacking，概览集成学习的方法与性能
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730238&idx=2&sn=18239d7ea90de70c939d704f3f8482d8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
