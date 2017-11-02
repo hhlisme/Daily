@@ -2349,6 +2349,10 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650730238&idx=2&sn=18239d
 
 
 
+20171102:
+基于Python的交互式可视化工具Dash
+https://mp.weixin.qq.com/s?__biz=MzAwOTgzMDk5Ng==&mid=2650834295&idx=1&sn=0812a827ddf6958c85d4a49c6a31db15
+
 
 
 
