@@ -2361,7 +2361,18 @@ https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667663&idx=1&sn=fc82f8
 
 
 
+20171104:
+Deep Learning（深度学习）学习笔记整理系列
+https://qiaochenglei.cn/607.html
 
+弱校本科生算法岗春招实习历程——面经篇
+https://zhuanlan.zhihu.com/p/27472069
+
+Deep Learning（深度学习）各种资料网址
+https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391785&idx=1&sn=17b2b2da6693ae020fc921392ee80eb8 
+
+BAT机器学习面试1000题系列（第1~10题）(七月在线)
+https://zhuanlan.zhihu.com/p/30301789
 
 
 
