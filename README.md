@@ -2376,6 +2376,9 @@ https://zhuanlan.zhihu.com/p/30301789
 
 
 
+20171104:
+Geoffrey Hinton的“胶囊理论” 多语言实现代码、效果、论文解读
+https://mp.weixin.qq.com/s?__biz=MzA5MDMwMTIyNQ==&mid=2649292437&idx=1&sn=435f7e946a15d37823f559b2058b3dd6
 
 
 
