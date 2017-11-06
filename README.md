@@ -2382,5 +2382,18 @@ https://mp.weixin.qq.com/s?__biz=MzA5MDMwMTIyNQ==&mid=2649292437&idx=1&sn=435f7e
 
 
 
+20171105:
+ResearchGo:研究生活第一帖——文献检索与管理
+https://zhuanlan.zhihu.com/p/22323250
+
+从标题到写作流程：写好一篇论文的十条基本原则
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732524&idx=1&sn=72ee2160fc63eb024c4f60d2d36f84a3
+
+自然语言处理领域重要论文&资源全索引
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650731918&idx=1&sn=7111f61b6e537387b88ee7bcf6ebb339
+
+斯坦福博士韩松毕业论文：面向深度学习的高效方法与硬件
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732013&idx=1&sn=ab57c42c27c364630ae750f13926f006
+
 
 
