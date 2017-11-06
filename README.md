@@ -2397,3 +2397,31 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732013&idx=1&sn=ab57c4
 
 
 
+
+20171106：
+教程 | 用于金融时序预测的神经网络：可改善移动平均线经典策略
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732184&idx=4&sn=b523a8971c9d0c6e886a777aa1603364
+
+生成对抗网络综述：从架构到训练技巧，看这篇论文就够了
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732216&idx=1&sn=b1801e5604bb3c2d3442e7bc016a54df
+
+在TensorFlow中对比两大生成模型：VAE与GAN
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732235&idx=1&sn=175f32560f961ad0221bc05b867a0275
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
