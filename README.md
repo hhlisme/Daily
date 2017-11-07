@@ -2411,6 +2411,26 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732235&idx=1&sn=175f32
 
 
 
+20171107:
+学界 | 一文概览卷积神经网络中的类别不均衡问题
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732561&idx=5&sn=055de7889a256c86815baefefd16a213
+
+离散优化代替反向传播：Pedro Domingos提出深度学习新方向
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732724&idx=1&sn=50dc0a632446c456d490a8f010a14c09
+
+先读懂CapsNet架构然后用TensorFlow实现，这应该是最详细的教程了
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732855&idx=1&sn=87319e9390200f24dfd2faff4d7d364a
+
+
+
+
+
+
+
+
+
+
+
 
 
 
