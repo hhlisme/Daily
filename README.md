@@ -2425,7 +2425,9 @@ https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732855&idx=1&sn=87319e
 
 
 
-
+20171108:
+40行代码搞定女友日常问候微信机器人
+https://zhuanlan.zhihu.com/p/30807541
 
 
 
