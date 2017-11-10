@@ -2436,6 +2436,14 @@ https://zhuanlan.zhihu.com/p/30878884
 
 
 
+20171110:
+数据缺失的坑，无监督学习这样帮你补了
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651654365&idx=1&sn=97793b042aa3491b7320dedc9e6e7613
+
+NLP入门+实战必读：一文教会你最常见的10种自然语言处理技术（附代码）
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651654394&idx=1&sn=43fd18421a5c9940d00120ec48543964
+
+
 
 
 
