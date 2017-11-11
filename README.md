@@ -2448,6 +2448,22 @@ https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651654394&idx=1&sn=43fd18
 
 
 
+20171111:
+CS231n(斯坦福大学深度视觉识别课) 2017 今天正式开课！双语字幕版独家上线！（AI研习社）
+https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668055&idx=1&sn=45bf8941b12f0cd6e49a6e1c5ae6ff79
+
+良心GitHub项目：各种机器学习任务的顶级结果（论文）汇总---（NLP,机器翻译,文本分类,自然语言推理,问答,命名实体识别,计算机视觉,语音）
+https://zhuanlan.zhihu.com/p/30918081
+
+
+传奇NLP攻城狮成长之路（一）(hhl:基于PyTorch深度学习框架)
+https://zhuanlan.zhihu.com/p/30866872
+
+
+
+
+
+
 
 
 
