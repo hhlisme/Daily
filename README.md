@@ -2462,6 +2462,26 @@ https://zhuanlan.zhihu.com/p/30866872
 
 
 
+20171112:
+欧阳老师带领特征工程之小白初探(天池)
+https://tianchi.aliyun.com/competition/videoStream.html?postsId=2849#postsId=2849
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
