@@ -2466,7 +2466,21 @@ https://zhuanlan.zhihu.com/p/30866872
 欧阳老师带领特征工程之小白初探(天池)
 https://tianchi.aliyun.com/competition/videoStream.html?postsId=2849#postsId=2849
 
+keras中最常用深度学习的API（云栖社区）
+https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658356115&idx=1&sn=f0d68dcc89232c9ba357a29af027688f
 
+TensorFlow MNIST高级学习（Python爱好者社区）
+https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247484884&idx=1&sn=761b62f9336c71cb8375077cf26fa5ed
+
+
+
+
+20171113:
+数据科学竞赛大神Eureka（pengyan）的kggle主页
+https://www.kaggle.com/pengyan/competitions
+
+【网红直播】天池大神【天音】的辛酸竞赛路
+https://mp.weixin.qq.com/s?__biz=MzAwNjM1ODkxNQ==&mid=2650887704&idx=1&sn=06c3f4c0e7306864130c101ab9167167
 
 
 
