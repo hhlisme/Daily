@@ -2485,7 +2485,15 @@ https://mp.weixin.qq.com/s?__biz=MzAwNjM1ODkxNQ==&mid=2650887704&idx=1&sn=06c3f4
 
 
 
+20171114:
+TensorFlow练习22: 手写汉字识别(斗大的熊猫)
+http://blog.topspeedsnail.com/archives/10897
 
+利用 Keras 下的 LSTM 进行情感分析
+http://blog.csdn.net/william_2015/article/details/72978387
+
+卷积神经网络实战（可视化部分）——使用keras识别猫咪
+https://yq.aliyun.com/articles/73544
 
 
 
