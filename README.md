@@ -9,8 +9,8 @@
 
 
 *20171115:
->网贷平台贷款数据分析
->>https://zhuanlan.zhihu.com/p/28342576
+网贷平台贷款数据分析
+>https://zhuanlan.zhihu.com/p/28342576
 
 >荣技大数据专栏
 >>https://zhuanlan.zhihu.com/c_78517875
