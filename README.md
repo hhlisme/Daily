@@ -10,13 +10,13 @@
 
 *20171115:
 >网贷平台贷款数据分析
->https://zhuanlan.zhihu.com/p/28342576
+>>https://zhuanlan.zhihu.com/p/28342576
 
-荣技大数据专栏
-https://zhuanlan.zhihu.com/c_78517875
+>荣技大数据专栏
+>>https://zhuanlan.zhihu.com/c_78517875
 
-干货｜7步掌握基于Keras的深度学习！
-https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247495070&idx=3&sn=cde83a1c006417e53a9cc1aafef2eca7
+>干货｜7步掌握基于Keras的深度学习！
+>>https://mp.weixin.qq.com/s?__biz=MzA4NzE1NzYyMw==&mid=2247495070&idx=3&sn=cde83a1c006417e53a9cc1aafef2eca7
 
 
 
