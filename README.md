@@ -8,11 +8,28 @@
 ----
 
 
+20171119:<br>
+【持续更新】机器学习特征工程实用技巧大全(来自知乎:光喻)
+>https://zhuanlan.zhihu.com/p/26444240
+
+
+如何爬取摩拜单车位置信息？（知乎）
+>https://www.zhihu.com/question/53141781/answer/260874988
+
+《羞羞的铁拳》好不好看 8万观众说了算——文本情感分析(机器学习)
+>https://zhuanlan.zhihu.com/p/30785455
+
+Kaggle HousePrice : LB 0.11666（排名前１５％）, 用搭积木的方式（一，原理）
+>https://zhuanlan.zhihu.com/p/30888967
+
 
 
 20171118:<br>
 双非渣硕的算法学习、求职路，获得百度SP、京东SP
 >https://zhuanlan.zhihu.com/p/31141727
+
+TensorFlowNews(一个学TensorFlow的网站，包含教程、实战、资源等)
+>http://www.tensorflownews.com/
 
 
 
