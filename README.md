@@ -8,6 +8,25 @@
 ----
 
 
+
+20171120:<br>
+计算广告论文、学习资料、业界分享（王喆）
+>https://github.com/wzhe06/Ad-papers
+
+从LeNet-5到DenseNet（知乎:山隹木又）
+>https://zhuanlan.zhihu.com/p/31006686
+
+Discuz验证码识别（编码篇）-写给程序员的TensorFlow教程
+>https://zhuanlan.zhihu.com/p/31063843
+
+Progressive Growing GANs简介+PyTorch复现
+>https://zhuanlan.zhihu.com/p/30637133
+
+NIPS 2017最佳论文出炉：CMU「冷扑大师」不完美信息博弈研究获奖
+>https://zhuanlan.zhihu.com/p/31102090
+
+
+
 20171119:<br>
 【持续更新】机器学习特征工程实用技巧大全(来自知乎:光喻)
 >https://zhuanlan.zhihu.com/p/26444240
