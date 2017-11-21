@@ -9,6 +9,16 @@
 
 
 
+
+20171121:<br>
+把深度学习作为自己的硕士课题，有什么可以做的？
+>https://www.zhihu.com/question/27393375/answer/36607524
+
+NIPS 2017最佳论文出炉：CMU「冷扑大师」不完美信息博弈研究获奖
+>https://zhuanlan.zhihu.com/p/31102090
+
+
+
 20171120:<br>
 计算广告论文、学习资料、业界分享（王喆）
 >https://github.com/wzhe06/Ad-papers
