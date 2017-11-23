@@ -10,6 +10,17 @@
 
 
 
+
+
+20171123:<br>
+机器学习中，有哪些特征选择的工程方法？
+>https://www.zhihu.com/question/28641663
+
+用 TensorFlow 追踪千年隼号
+>https://zhuanlan.zhihu.com/p/31247372
+
+
+
 20171122:<br>
 《小王爱迁移》系列之九：开放集迁移学习(Open Set Domain Adaptation)
 >https://zhuanlan.zhihu.com/p/31230331
