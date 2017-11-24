@@ -10,6 +10,16 @@
 
 
 
+20171124:
+即时配送的ETA问题之亿级样本特征构造实践<br>
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747129&idx=1&sn=2b985b3a923bf1163d3771fddc83a742
+
+计算机视觉中，有哪些比较好的目标跟踪算法？（上）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668260&idx=1&sn=8f98b0bafc4c68cfd1d3b2f7d8eaaa9c
+
+计算机视觉中，有哪些比较好的目标跟踪算法？（下）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668271&idx=1&sn=655dfc42fb761efa25db79050001c305
+
 
 
 20171123:<br>
