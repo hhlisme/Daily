@@ -10,8 +10,15 @@
 
 
 
-20171124:
-即时配送的ETA问题之亿级样本特征构造实践<br>
+20171125:<br>
+实战 | 这是一个转型AI的励志故事，从非科班到拿下阿里云栖一等奖，他经历的坑足够你学习100天
+>https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247490676&idx=1&sn=6f46c9ac208bfaa705ad2b20daa8b83f
+
+
+
+
+20171124:<br>
+即时配送的ETA问题之亿级样本特征构造实践
 >https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747129&idx=1&sn=2b985b3a923bf1163d3771fddc83a742
 
 计算机视觉中，有哪些比较好的目标跟踪算法？（上）
