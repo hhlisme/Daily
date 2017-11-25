@@ -14,6 +14,8 @@
 实战 | 这是一个转型AI的励志故事，从非科班到拿下阿里云栖一等奖，他经历的坑足够你学习100天
 >https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247490676&idx=1&sn=6f46c9ac208bfaa705ad2b20daa8b83f
 
+【机器学习】回归分析、过拟合、分类（人工智能爱好者社区）
+>https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247485608&idx=1&sn=d067ec0d9723dfcd1493a6b7f595b0c7
 
 
 
