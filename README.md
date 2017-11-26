@@ -1616,9 +1616,6 @@ Selenium的各种操作介绍（通过浏览器抓取信息）
 
 
 
-20170523:<br>
-我爬了某宝上4000+网店只为了告诉你中国人最爱喝什么绿茶
->https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483893&idx=1&sn=b961e0932a5fccab29622b5cff4462ee
 
 
 20170524:<br>
@@ -1628,4 +1625,26 @@ Selenium的各种操作介绍（通过浏览器抓取信息）
 【智慧中国杯】金融赛冠军分享，含PPT源文件
 >https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247485008&idx=1&sn=ff0ba8045f9eadf4fdbb88d114356e94
 
-智慧中国杯答
+智慧中国杯答辩分享素材汇总，涵盖交通、教育、金融三个方向解题思路和代码
+>https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247485029&idx=1&sn=01797f7f40c28a7638fe31a4007b10f1
+
+数据可视化分析工具汇总
+>https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247485057&idx=2&sn=2f12501e2ce85de45a5da2e11cc01dc8
+
+台大李宏毅347页PPT干货，机器学习及其深层与结构化
+>https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247485077&idx=1&sn=7046685c303f6c364cebce9adcd70c8b
+
+
+20170523:<br>
+我爬了某宝上4000+网店只为了告诉你中国人最爱喝什么绿茶
+>https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247483893&idx=1&sn=b961e0932a5fccab29622b5cff4462ee
+
+
+
+
+
+
+
+
+
+
