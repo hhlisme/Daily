@@ -9,6 +9,11 @@
 <br>
 <br>
 
+<br>20171127:
+京东JIMI用户未来意图预测技术揭秘
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247486924&idx=4&sn=c7e35cf119efdfe700ba980ff5c1272f
+
+
 20171126:<br>
 【推荐】xLearn：一款专门针对大规模稀疏数据的机器学习库
 >https://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649678422&idx=1&sn=c9358187bc28f9959bfa4b341031174c
@@ -1641,6 +1646,12 @@ Selenium的各种操作介绍（通过浏览器抓取信息）
 
 
 
+20170522:<br>
+一个小案例，教你如何从数据抓取、数据清洗到数据可视化(R语言地图包)
+>https://zhuanlan.zhihu.com/p/26988792
+
+量化交易&机器学习干货精选---聚宽君
+>https://zhuanlan.zhihu.com/p/26928195
 
 
 
