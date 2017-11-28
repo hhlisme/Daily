@@ -9,7 +9,18 @@
 <br>
 <br>
 
-<br>20171127:
+
+20171128:<br>
+2016 年有哪些好的 Python 机器学习开源项目？（马超的回答，xLearn库）
+>https://www.zhihu.com/question/53054072/answer/265301167
+
+国内外自然语言处理(NLP)研究组
+>http://blog.csdn.net/wangxinginnlp/article/details/44890553
+
+
+
+
+20171127:<br>
 京东JIMI用户未来意图预测技术揭秘
 >https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247486924&idx=4&sn=c7e35cf119efdfe700ba980ff5c1272f
 
