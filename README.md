@@ -10,6 +10,14 @@
 <br>
 
 
+20171129:<br>
+300万摩拜单车出行记录数据,预测骑行目的地
+>https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391893&idx=1&sn=474c6b4c2441e5eb75f6bec2437e12d9
+
+知乎看山杯夺冠记
+>https://zhuanlan.zhihu.com/p/28923961
+
+
 20171128:<br>
 2016 年有哪些好的 Python 机器学习开源项目？（马超的回答，xLearn库）
 >https://www.zhihu.com/question/53054072/answer/265301167
