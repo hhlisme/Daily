@@ -10,6 +10,12 @@
 <br>
 
 
+20171130:<br>
+优化：一种将grid-search速度提升10倍的方法
+>http://www.jianshu.com/p/798c5de306e6
+
+
+
 20171129:<br>
 300万摩拜单车出行记录数据,预测骑行目的地
 >https://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652391893&idx=1&sn=474c6b4c2441e5eb75f6bec2437e12d9
