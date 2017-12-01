@@ -10,6 +10,24 @@
 <br>
 
 
+
+
+
+
+
+20171201:<br>
+六种改进均未超越原版：谷歌新研究对GAN现状提出质疑
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733968&idx=1&sn=9865a384a576a524746765aa142900a5
+
+手动调参慢，随机搜索浪费资源？Deepmind异步优化算法PBT解决神经网络痛点
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668316&idx=2&sn=3085d525c1f6f2bb67979f10e2dee36e
+
+论文阅读与实现--CTPN(可以关注该博客：http://slade-ruan.me/）
+>http://slade-ruan.me/2017/10/22/text-detection-ctpn/
+
+
+
+
 20171130:<br>
 优化：一种将grid-search速度提升10倍的方法
 >http://www.jianshu.com/p/798c5de306e6
