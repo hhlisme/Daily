@@ -11,6 +11,13 @@
 
 
 
+20171203:<br>
+自我代码提升之随机森林
+>https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247485031&idx=1&sn=1834b66afff0c3e464138ec98cd4b9f8
+
+详解特征工程与推荐系统及其实践
+>https://mp.weixin.qq.com/s?__biz=MzA3NTg2OTEyMg==&mid=2651931877&idx=1&sn=bcffbc20b209e5de6277f434648aede9
+
 
 20171202:<br>
 智能分析最佳实践——指标逻辑树
@@ -1231,3 +1238,13 @@ Python3中PyMongo的用法
 
 kmeans聚类理论篇K的选择（轮廓系数）
 >https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247483893&idx=1&sn=5bb57058c89ea442
+
+
+
+
+
+#可能是由于Github文本的篇幅所限，越早的内容可能会被覆盖。
+
+
+
+
