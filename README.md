@@ -9,6 +9,12 @@
 <br>
 <br>
 
+20171204:<br>
+图片数据集太少？Keras Image Data Augmentation 各参数详解
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668349&idx=2&sn=aeaffb61d8315fb138d288c93496f62b
+
+基于神经网络的实体识别和关系抽取联合学习 | PaperWeekly #54
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247486580&idx=1&sn=d4ceaab9f2d7f4d1cdf3b69ed43c5835
 
 
 20171203:<br>
