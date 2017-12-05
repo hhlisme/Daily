@@ -9,6 +9,19 @@
 <br>
 <br>
 
+
+20171205:<br>
+教程 | Kaggle网站流量预测任务第一名解决方案：从模型到代码详解时序预测
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734276&idx=2&sn=5ac3f59ced7f27b442e630c66a30ea8e
+
+开发 | Kaggle实战：这才是使用数据降维&可视化工具 HyperTools 的正确姿势!
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247485713&idx=4&sn=cdd8c410952115a05c5f4d8043f27e44
+
+学界 | GANs中的明星StarGAN：使用单一模型执行多个域的图像转换，GAN之父点赞
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247488402&idx=2&sn=bddce1f637199e25e6d2676bfad4910a
+
+
+
 20171204:<br>
 图片数据集太少？Keras Image Data Augmentation 各参数详解
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668349&idx=2&sn=aeaffb61d8315fb138d288c93496f62b
