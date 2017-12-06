@@ -11,6 +11,14 @@
 
 
 20171205:<br>
+Python 连接 MySQL 的几种姿势
+>https://zhuanlan.zhihu.com/p/31732617
+
+做AI必须要知道的十种深度学习方法
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668387&idx=2&sn=f4295059252409ad41a383fe2e7ccfbe
+
+
+20171205:<br>
 教程 | Kaggle网站流量预测任务第一名解决方案：从模型到代码详解时序预测
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734276&idx=2&sn=5ac3f59ced7f27b442e630c66a30ea8e
 
