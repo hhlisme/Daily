@@ -10,7 +10,13 @@
 <br>
 
 
-20171205:<br>
+20171207:<br>
+Lending Club 实战--利用Python创建申请评分卡
+>https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247485060&idx=1&sn=0c731277f0b4593de9dc5dac2dc67fef&
+
+
+
+20171206:<br>
 Python 连接 MySQL 的几种姿势
 >https://zhuanlan.zhihu.com/p/31732617
 
