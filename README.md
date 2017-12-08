@@ -9,6 +9,11 @@
 <br>
 <br>
 
+20171208:<br>
+如何看待机器学习中的"稳定性"？
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668428&idx=1&sn=b3a57d781d2fbcc15c1a2928ffd80a17
+
+
 
 20171207:<br>
 Lending Club 实战--利用Python创建申请评分卡
