@@ -9,6 +9,12 @@
 <br>
 <br>
 
+
+20171209:<br>
+【开车了】9个大数据竞赛思路分享(9个比赛7进top10)
+>http://blog.csdn.net/Bryan__/article/details/51713596
+
+
 20171208:<br>
 如何看待机器学习中的"稳定性"？
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668428&idx=1&sn=b3a57d781d2fbcc15c1a2928ffd80a17
