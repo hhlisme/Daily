@@ -10,6 +10,12 @@
 <br>
 
 
+20171210:<br>
+生成对抗网络（GANs）最新家谱：为你揭秘GANs的前世今生
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655086&idx=1&sn=311a633e19b5f1b935a3f71105b050ba
+
+
+
 20171209:<br>
 【开车了】9个大数据竞赛思路分享(9个比赛7进top10)
 >http://blog.csdn.net/Bryan__/article/details/51713596
