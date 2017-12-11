@@ -10,6 +10,13 @@
 <br>
 
 
+
+20171211:<br>
+Geffory Hinton的“胶囊”里到底装的什么“药”？
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247486856&idx=1&sn=3b57430fc11ec8567b64f1f4df921e70
+
+
+
 20171210:<br>
 生成对抗网络（GANs）最新家谱：为你揭秘GANs的前世今生
 >https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655086&idx=1&sn=311a633e19b5f1b935a3f71105b050ba
