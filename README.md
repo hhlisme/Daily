@@ -11,6 +11,15 @@
 
 
 
+20171212:<br>
+爬虫学习阶段性总结（知乎:王加鑫）
+>https://zhuanlan.zhihu.com/p/31897095
+
+一文掌握机器学习算法工程师技术栈（知乎:张相於）
+>https://zhuanlan.zhihu.com/p/31915033
+
+
+
 20171211:<br>
 Geffory Hinton的“胶囊”里到底装的什么“药”？
 >https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247486856&idx=1&sn=3b57430fc11ec8567b64f1f4df921e70
