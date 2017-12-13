@@ -10,6 +10,25 @@
 <br>
 
 
+20171213:<br>
+史上最全神经网络结构图画图工具介绍，没有之一！
+>https://zhuanlan.zhihu.com/p/31920000
+
+从零开始学人工智能(10)--Python · 神经网络（三*）· 网络
+>https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247485725&idx=1&sn=b2a442755455f345911a0a93217764be
+
+入门 | 了解神经网络，你需要知道的名词都在这里
+>https://mp.weixin.qq.com/s?__biz=MzI1NTcxNjcyNg==&mid=2247484324&idx=1&sn=9ba3f1b391c74b9be85c80d5ffa3c82d
+
+从零开始：教你如何训练神经网络
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734516&idx=1&sn=97750fa6b84ecdf97f3d0363d1d94ae3
+
+徒手实现CNN：综述论文详解卷积网络的数学本质
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733476&idx=1&sn=322794d996a905d1599677f166d9b640
+
+
+
+
 
 20171212:<br>
 爬虫学习阶段性总结（知乎:王加鑫）
