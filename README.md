@@ -10,6 +10,27 @@
 <br>
 
 
+
+20171214:<br>
+kaggle案例：员工离职预测（附学习视频，邬书豪）
+>https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651057235&idx=1&sn=d451e9908d31555bcc1fd6785cb6ba8b
+
+为什么XGBoost在机器学习竞赛中表现如此卓越？
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732958&idx=1&sn=234f0aa7992d2435a266bab96c9f4a2a
+
+从遗传算法到OpenAI新方向：进化策略工作机制全解
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733110&idx=1&sn=4ad8d8183de6db854de9c67646ad8600
+
+构建强化学习系统，你需要先了解这些背景知识
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733208&idx=1&sn=0655e1c11c5e89efec7e8d32b77e0931
+
+
+
+
+
+
+
+
 20171213:<br>
 史上最全神经网络结构图画图工具介绍，没有之一！
 >https://zhuanlan.zhihu.com/p/31920000
