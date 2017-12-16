@@ -9,8 +9,13 @@
 <br>
 <br>
 
-20171215:
-today 
+20171215:<br>
+深度 | 详解可视化利器t-SNE算法：数无形时少直觉
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733235&idx=2&sn=6b9572da8fec231a908018f76a6de380
+
+可视化语音分析：深度对比Wavenet、t-SNE和PCA等算法
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734197&idx=1&sn=f383b76a4b9b86af138832e9e7d14903
+
 
 20171214:<br>
 kaggle案例：员工离职预测（附学习视频，邬书豪）
