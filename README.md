@@ -9,6 +9,19 @@
 <br>
 <br>
 
+
+20171216:<br>
+深度 | 一文概述2017年深度学习NLP重大进展与趋势
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734670&idx=2&sn=f31497f57e8f2ce73d8af9f36c5be13c
+
+仅需15分钟，使用OpenCV+Keras轻松破解验证码
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734670&idx=1&sn=60cdf724b9cbd3497c116e3e5418809c
+
+
+
+
+
+
 20171215:<br>
 深度 | 详解可视化利器t-SNE算法：数无形时少直觉
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650733235&idx=2&sn=6b9572da8fec231a908018f76a6de380
