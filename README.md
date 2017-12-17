@@ -10,6 +10,15 @@
 <br>
 
 
+20171217:<br>
+[比赛记录] 主流机器学习模型模板代码+经验分享[xgb, lgb, Keras, LR]
+>http://blog.csdn.net/leyounger/article/details/78667538
+
+请问人工神经网络中的activation function的作用具体是什么？为什么ReLu要好过于tanh和sigmoid function?（知乎）
+>https://www.zhihu.com/question/29021768
+
+
+
 20171216:<br>
 深度 | 一文概述2017年深度学习NLP重大进展与趋势
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734670&idx=2&sn=f31497f57e8f2ce73d8af9f36c5be13c
