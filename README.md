@@ -9,6 +9,13 @@
 <br>
 <br>
 
+20171218:<br>
+分享一波关于做 Kaggle 比赛，Jdata，天池的经验，看完我这篇就够了。
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668579&idx=1&sn=db4d90712979c7dbb4e1f168eea0fc79
+
+
+
+
 
 20171217:<br>
 [比赛记录] 主流机器学习模型模板代码+经验分享[xgb, lgb, Keras, LR]
