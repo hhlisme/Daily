@@ -9,6 +9,17 @@
 <br>
 <br>
 
+
+
+20171219:<br>
+京东金融全球数据探索中国赛区结果出炉，「猪脸识别」距离商业化还有多远？
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668628&idx=1&sn=bc8f008460a0e15cc9dc14e098f341e3
+
+
+
+
+
+
 20171218:<br>
 分享一波关于做 Kaggle 比赛，Jdata，天池的经验，看完我这篇就够了。
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668579&idx=1&sn=db4d90712979c7dbb4e1f168eea0fc79
