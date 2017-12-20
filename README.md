@@ -11,10 +11,29 @@
 
 
 
+20171220:<br>
+R----ggplot2包介绍学习(内容挺全)
+>https://www.cnblogs.com/nxld/p/6059603.html
+
+机器学习之特征选择
+>https://www.cnblogs.com/nolonely/p/6435083.html
+
+2017摩拜杯算法挑战赛 第三名团队解决方案
+>https://zhuanlan.zhihu.com/p/32151090
+
+
+
+
+
+
+
+
 20171219:<br>
 京东金融全球数据探索中国赛区结果出炉，「猪脸识别」距离商业化还有多远？
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668628&idx=1&sn=bc8f008460a0e15cc9dc14e098f341e3
 
+数据挖掘进阶：kaggle竞赛top代码分享
+>https://zhuanlan.zhihu.com/p/26309073
 
 
 
