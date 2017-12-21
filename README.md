@@ -9,6 +9,10 @@
 <br>
 <br>
 
+20171221:<br>
+Introduction的写作套路，你都Get到了吗？
+>https://mp.weixin.qq.com/s?__biz=MzA5OTg0MjcwMA==&mid=2654654226&idx=1&sn=041921ff4febb27a1eaa238c3bd03ccb
+
 
 
 20171220:<br>
