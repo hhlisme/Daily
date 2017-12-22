@@ -9,6 +9,18 @@
 <br>
 <br>
 
+20171222:<br>
+分享一波关于做Kaggle比赛，Jdata，天池的经验，看完我这篇就够了。
+>https://zhuanlan.zhihu.com/p/31230764
+
+关于机器学习，我总结了可能是目前最全面最无痛的入门路径和资源（ 小白AI之路）
+>https://mp.weixin.qq.com/s?__biz=MzU5ODE0NzU5NA==&mid=2247483735&idx=1&sn=770541a3783426e69ef0c319fdd61073
+
+XGBoost 中文文档发布，大佬们轻点踩 | ApacheCN
+>https://zhuanlan.zhihu.com/p/32199987
+
+
+
 20171221:<br>
 Introduction的写作套路，你都Get到了吗？
 >https://mp.weixin.qq.com/s?__biz=MzA5OTg0MjcwMA==&mid=2654654226&idx=1&sn=041921ff4febb27a1eaa238c3bd03ccb
