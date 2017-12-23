@@ -9,6 +9,18 @@
 <br>
 <br>
 
+
+20171223:<br>
+实现三遍决策树，你就会想出更快的算法！(知乎豆豆叶)
+>https://zhuanlan.zhihu.com/p/32076887
+
+用綫性規劃去計算句子之間的相似度
+>https://zhuanlan.zhihu.com/p/32242768
+
+
+
+
+
 20171222:<br>
 分享一波关于做Kaggle比赛，Jdata，天池的经验，看完我这篇就够了。
 >https://zhuanlan.zhihu.com/p/31230764
