@@ -10,6 +10,19 @@
 <br>
 
 
+20171224:<br>
+首战Kaggle之实战教学
+>https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247485182&idx=1&sn=569424e56c283a3c75751575030dfc86
+
+盘点深度学习一年来在文本、语音和视觉等方向的进展，看强化学习如何无往而不利
+>https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247491981&idx=1&sn=c9d6f9837722103d9f513b0bb8ec282e
+
+什么？你了解二手车市场？（含爬虫代码）
+>https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247485182&idx=2&sn=ca18240651762673302879fa18b3e21e
+
+
+
+
 20171223:<br>
 实现三遍决策树，你就会想出更快的算法！(知乎豆豆叶)
 >https://zhuanlan.zhihu.com/p/32076887
