@@ -9,6 +9,17 @@
 <br>
 <br>
 
+20171225:<br>
+百度寒假实习生面经（机器学习岗）
+>https://zhuanlan.zhihu.com/p/32199059
+
+GAN做图像翻译的一点总结
+>https://zhuanlan.zhihu.com/p/32294630
+
+一份数学小白也能读懂的「马尔可夫链蒙特卡洛方法」入门指南
+>https://zhuanlan.zhihu.com/p/32319959
+
+
 
 20171224:<br>
 首战Kaggle之实战教学
