@@ -9,6 +9,12 @@
 <br>
 <br>
 
+20171226:<br>
+Kaggle Titanic 生存预测 -- 详细流程吐血梳理（知乎:大树先生）
+>https://zhuanlan.zhihu.com/p/31743196
+
+
+
 20171225:<br>
 百度寒假实习生面经（机器学习岗）
 >https://zhuanlan.zhihu.com/p/32199059
