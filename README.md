@@ -9,6 +9,17 @@
 <br>
 <br>
 
+20171227:<br>
+爬虫技术的门道，这篇文章总结的最全
+>https://zhuanlan.zhihu.com/p/31706577
+
+数据分析 - 美国金融科技公司Prosper的风险评分分析
+>https://mp.weixin.qq.com/s?__biz=MzI1MDcxMjE5Mg==&mid=2247483669&idx=1&sn=daabf2fc3601a348a6b96bfc6a622165
+
+
+
+
+
 20171226:<br>
 Kaggle Titanic 生存预测 -- 详细流程吐血梳理（知乎:大树先生）
 >https://zhuanlan.zhihu.com/p/31743196
