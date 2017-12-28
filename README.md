@@ -9,6 +9,20 @@
 <br>
 <br>
 
+20171228:<br>
+用户贷款风险预测之Top10初体验
+>http://blog.csdn.net/sb19931201/article/details/56315689
+
+机器学习-->python常用可视化技巧
+>http://blog.csdn.net/mr_tyting/article/details/73196119
+
+Kaggle大神带你上榜单Top2%：点击预测大赛纪实（下）
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655781&idx=1&sn=3cf841ca023387f74b36999cdf093cdb
+
+
+
+
+
 20171227:<br>
 爬虫技术的门道，这篇文章总结的最全
 >https://zhuanlan.zhihu.com/p/31706577
