@@ -9,6 +9,19 @@
 <br>
 <br>
 
+
+20171229:<br>
+用Python实现BP神经网络（附代码,七月在线）
+>https://zhuanlan.zhihu.com/p/32458271
+
+你都用 Python 来做什么？（用python写爬虫下载P***hub上的电影，张子浩的回答）
+>https://www.zhihu.com/question/20799742/answer/285160547
+
+
+
+
+
+
 20171228:<br>
 用户贷款风险预测之Top10初体验
 >http://blog.csdn.net/sb19931201/article/details/56315689
