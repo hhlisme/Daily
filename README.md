@@ -10,7 +10,8 @@
 <br>
 
 20171230:<br>
-
+Kaggle HousePrice:LB 0.11666(前15%),用搭积木的方式(3.实践-训练、调参和Stacking)(知乎王勇）
+>https://zhuanlan.zhihu.com/p/32445437
 
 
 
