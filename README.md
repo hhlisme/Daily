@@ -9,6 +9,35 @@
 <br>
 <br>
 
+
+20180101:<br>
+教程 | 理解XGBoost机器学习模型的决策过程
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734959&idx=2&sn=93882c4f286880d7db364ba7b33dd6ce
+
+资源 | XGBoost 中文文档开放：上去就是一把梭
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735126&idx=4&sn=87981d70be4a864483c51e0d535cce1e
+
+教程 | 如何用Docker成为更高效的数据科学家？
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735018&idx=4&sn=82759b19c393f46ff780ce08b5000088
+
+前沿 | 利用遗传算法优化神经网络：Uber提出深度学习训练新方式
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735095&idx=4&sn=5d33ab2a083e49ad63fd73a1e982a650
+
+
+
+
+20171231:<br>
+教程 | 如何使用Keras集成多个卷积网络并实现共同预测
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734699&idx=2&sn=7aea11805597957bf5ffbafba37a27aa
+
+教程 | 如何使用TensorFlow实现音频分类任务
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734720&idx=3&sn=99630a01419899d4769ee8ae4bf1c520
+
+从传统方法到深度学习，人脸关键点检测方法综述
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734809&idx=1&sn=f5dd841fb56b668dbc4dc4c2a668c195
+
+
+
 20171230:<br>
 Kaggle HousePrice:LB 0.11666(前15%),用搭积木的方式(3.实践-训练、调参和Stacking)(知乎王勇）
 >https://zhuanlan.zhihu.com/p/32445437
