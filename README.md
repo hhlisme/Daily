@@ -10,6 +10,13 @@
 <br>
 
 
+20180102:<br>
+评分卡模型构建介绍
+>https://zhuanlan.zhihu.com/p/27770760
+
+数据切割（分箱，离散化）及woe、iv值计算的python代码分享
+>https://zhuanlan.zhihu.com/p/32265553
+
 20180101:<br>
 教程 | 理解XGBoost机器学习模型的决策过程
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734959&idx=2&sn=93882c4f286880d7db364ba7b33dd6ce
