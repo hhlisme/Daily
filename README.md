@@ -10,6 +10,16 @@
 <br>
 
 
+20180103:<br>
+自我发掘爬虫实战1：宅男女神网妹子图片批量抓取，分类保存到本地和MongoDB数据库
+>https://zhuanlan.zhihu.com/p/31421316
+
+盘点深度学习一年来在文本、语音和视觉等方向的进展，看强化学习如何无往而不利
+>https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247491981&idx=1&sn=c9d6f9837722103d9f513b0bb8ec282e
+
+行业应用 | 自然语言理解如何解放金融从业者
+>https://zhuanlan.zhihu.com/p/32201875
+
 20180102:<br>
 评分卡模型构建介绍
 >https://zhuanlan.zhihu.com/p/27770760
