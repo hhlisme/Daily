@@ -10,6 +10,18 @@
 <br>
 
 
+20180104:<br>
+【精心解读】关于Jupyter Notebook的28个技巧
+>https://zhuanlan.zhihu.com/p/32600329
+
+【精选干货】2017年12月份机器学习排名前10名文章（论文+代码）
+>https://zhuanlan.zhihu.com/p/32600161
+
+【解读】2017年ML/NLP论文发表情况
+>https://zhuanlan.zhihu.com/p/32599773
+
+
+
 20180103:<br>
 自我发掘爬虫实战1：宅男女神网妹子图片批量抓取，分类保存到本地和MongoDB数据库
 >https://zhuanlan.zhihu.com/p/31421316
