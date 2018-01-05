@@ -10,6 +10,10 @@
 <br>
 
 
+20180105:<br>
+【干货】--手把手教你完成文本情感分类
+>https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651057369&idx=2&sn=a8f152d88cbf821edb5de0ae348f6b6d
+
 20180104:<br>
 【精心解读】关于Jupyter Notebook的28个技巧
 >https://zhuanlan.zhihu.com/p/32600329
