@@ -10,6 +10,10 @@
 <br>
 
 
+20180108:<br>
+信用评分模型中的滚动率分析
+>https://mp.weixin.qq.com/s?__biz=MzI2MDA3NjQwOA==&mid=2653212697&idx=1&sn=05c9a2d890c47e16ee878c89bac8678e
+
 
 
 20180107:<br>
