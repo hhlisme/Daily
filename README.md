@@ -9,6 +9,17 @@
 <br>
 <br>
 
+20180109:<br>
+动手写机器学习算法：K-Means聚类算法
+>https://zhuanlan.zhihu.com/p/32776800
+
+机器学习算法实践-Platt SMO和遗传算法优化SVM
+>https://zhuanlan.zhihu.com/p/30173372
+
+爱奇艺个性化推荐排序实践
+>https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA==&mid=2247483872&idx=1&sn=db0fbb2bec0d4e68593f1b9bfc20a8b5
+
+
 
 20180108:<br>
 信用评分模型中的滚动率分析
