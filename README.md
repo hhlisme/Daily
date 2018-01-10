@@ -9,6 +9,15 @@
 <br>
 <br>
 
+20180110:<br>
+把深度学习作为自己的硕士课题，有什么可以做的？
+>https://www.zhihu.com/question/27393375/answer/36607524
+
+R语言数据清洗实战——高效list解析方案
+>https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651057415&idx=1&sn=9c1c7deacd2606064eda6090122a425e
+
+
+
 20180109:<br>
 动手写机器学习算法：K-Means聚类算法
 >https://zhuanlan.zhihu.com/p/32776800
