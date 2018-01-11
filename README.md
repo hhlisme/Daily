@@ -9,6 +9,19 @@
 <br>
 <br>
 
+
+20180111：<br>
+斯坦福完全可解释深度神经网络：你需要用决策树搞点事
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735975&idx=1&sn=af91c24d8b0d058f35ac8b1ea65a0ea9
+
+一文读懂「Attention is All You Need」| 附代码实现
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247486960&idx=1&sn=1b4b9d7ec7a9f40fa8a9df6b6f53bbfb
+
+
+
+
+
+
 20180110:<br>
 把深度学习作为自己的硕士课题，有什么可以做的？
 >https://www.zhihu.com/question/27393375/answer/36607524
