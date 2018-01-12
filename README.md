@@ -9,6 +9,11 @@
 <br>
 <br>
 
+20180112:<br>
+Kaggle大神带你上榜单Top2%：点击预测大赛纪实（下）
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655781&idx=1&sn=3cf841ca023387f74b36999cdf093cdb
+
+
 
 20180111：<br>
 斯坦福完全可解释深度神经网络：你需要用决策树搞点事
