@@ -9,6 +9,18 @@
 <br>
 <br>
 
+
+20180113:<br>
+每个Kaggle冠军的获胜法门：揭秘Python中的模型集成
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736180&idx=1&sn=4e26c6a0b3c72fd82809ce94b476c55a
+
+互联网征信中的信用评分模型——基于用户在线简历数据
+>https://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650240783&idx=1&sn=9c7bfe14bdcc87f0ec0eff6bd109ddf8
+
+
+
+
+
 20180112:<br>
 Kaggle大神带你上榜单Top2%：点击预测大赛纪实（下）
 >https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655781&idx=1&sn=3cf841ca023387f74b36999cdf093cdb
