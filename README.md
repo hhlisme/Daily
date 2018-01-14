@@ -10,6 +10,17 @@
 <br>
 
 
+20180114:<br>
+从机器学习谈起
+>https://mp.weixin.qq.com/s?__biz=MzI2NjA3NTc4Ng==&mid=2652079207&idx=1&sn=04a0703b05d7537a9eb2c8ea3ca457fa
+
+xgboost的原理没你想像的那么难
+>https://www.jianshu.com/p/7467e616f227
+
+提高驾驶技术：用GAN去除(爱情)动作片中的马赛克和衣服
+>https://zhuanlan.zhihu.com/p/27199954
+
+
 20180113:<br>
 每个Kaggle冠军的获胜法门：揭秘Python中的模型集成
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736180&idx=1&sn=4e26c6a0b3c72fd82809ce94b476c55a
