@@ -10,6 +10,15 @@
 <br>
 
 
+20180115:<br>
+Tensorflow中learning rate decay的奇技淫巧
+>https://zhuanlan.zhihu.com/p/32923584
+
+AAAI 2018 | 南京大学提出用于聚类的最优间隔分布机
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650735935&idx=4&sn=d4da5646afdb9de7b8891bdcf02e98ce
+
+
+
 20180114:<br>
 从机器学习谈起
 >https://mp.weixin.qq.com/s?__biz=MzI2NjA3NTc4Ng==&mid=2652079207&idx=1&sn=04a0703b05d7537a9eb2c8ea3ca457fa
