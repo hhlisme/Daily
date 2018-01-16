@@ -10,6 +10,11 @@
 <br>
 
 
+20180116:<br>
+机器学习之特征选择
+>https://www.cnblogs.com/nolonely/p/6435083.html
+
+
 20180115:<br>
 Tensorflow中learning rate decay的奇技淫巧
 >https://zhuanlan.zhihu.com/p/32923584
