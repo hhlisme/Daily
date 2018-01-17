@@ -9,6 +9,14 @@
 <br>
 <br>
 
+20180117:<br>
+单样本学习（One shot learning）和孪生网络（Siamese Network）简介
+>https://zhuanlan.zhihu.com/p/29058453
+
+教程 | 如何优雅而高效地使用Matplotlib实现数据可视化
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736232&idx=4&sn=3332215f55785b316965f1c004d74508
+
+
 
 20180116:<br>
 机器学习之特征选择
