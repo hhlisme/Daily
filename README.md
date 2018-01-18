@@ -9,6 +9,21 @@
 <br>
 <br>
 
+
+20180118:<br>
+入门 | 从遗传算法到强化学习，一文介绍五大生物启发式学习算法
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736276&idx=4&sn=7918365b4b7de6544944189ee43f5fab
+
+学界 | 谷歌大脑提出Adversarial Spheres：从简单流形探讨对抗性样本的来源
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736232&idx=5&sn=466a31fd21af0fe9fa91b0e1dc6fa3f7
+
+入门 | 想实现DCGAN？从制作一张门票谈起！
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736232&idx=2&sn=04b1deed56d718decdf271f166d209e2
+
+
+
+
+
 20180117:<br>
 单样本学习（One shot learning）和孪生网络（Siamese Network）简介
 >https://zhuanlan.zhihu.com/p/29058453
