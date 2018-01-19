@@ -9,6 +9,10 @@
 <br>
 <br>
 
+20180119:<br>
+Python三大评分卡之行为评分卡
+>https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247485355&idx=1&sn=683aa76ab99ed7321ea01c149b83aeb7
+
 
 20180118:<br>
 入门 | 从遗传算法到强化学习，一文介绍五大生物启发式学习算法
