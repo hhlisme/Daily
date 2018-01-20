@@ -9,6 +9,16 @@
 <br>
 <br>
 
+
+
+20180120:<br>
+跟繁琐的命令行说拜拜！Gerapy分布式爬虫管理框架来袭！
+>https://zhuanlan.zhihu.com/p/33117192
+
+
+
+
+
 20180119:<br>
 Python三大评分卡之行为评分卡
 >https://mp.weixin.qq.com/s?__biz=MzI5NDY1MjQzNA==&mid=2247485355&idx=1&sn=683aa76ab99ed7321ea01c149b83aeb7
