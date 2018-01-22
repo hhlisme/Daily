@@ -9,6 +9,14 @@
 <br>
 <br>
 
+20180122:<br>
+啤酒和尿布的故事是真的吗（关联分析）
+>https://mp.weixin.qq.com/s?__biz=MzIwNjU2NDcyMg==&mid=2247484084&idx=1&sn=314f3162ae04a7335f9a65929651a3b6
+
+还在用PCA降维？快学学大牛最爱的t-SNE算法吧（附Python/R代码）
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651656490&idx=1&sn=2d261af429e87be2240f3c2f133474e6
+
+
 
 20180121:<br>
 评分卡模型构建介绍
