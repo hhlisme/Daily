@@ -9,6 +9,23 @@
 <br>
 <br>
 
+20180123:<br>
+R语言金融波动率建模|基于SGED分布的变参数ARIMA+EARCH动态预测模型的研究
+>https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651057491&idx=1&sn=ad380aba4b1a78d4e8898e7be75af808
+
+干货 | 如何在NLP领域干成第一件事？
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247488959&idx=2&sn=231637701bb9cad90cddc80fb59c9be2
+
+GANs 造假领衔，看 2018 最具落地潜力的 9 大 AI 技术趋势
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247489179&idx=1&sn=622a79f5d016687c7438c8054666cd5d
+
+学界 | 从ICLR2017被拒论文谈起：行走在GAN的Latent Space
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247489180&idx=2&sn=897bea690a84921d401a3b4ee5ca6983
+
+
+
+
+
 20180122:<br>
 啤酒和尿布的故事是真的吗（关联分析）
 >https://mp.weixin.qq.com/s?__biz=MzIwNjU2NDcyMg==&mid=2247484084&idx=1&sn=314f3162ae04a7335f9a65929651a3b6
