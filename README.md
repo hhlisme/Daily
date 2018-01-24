@@ -9,6 +9,19 @@
 <br>
 <br>
 
+
+20180124:<br>
+【2018展望Top10】GAN应用落地，NLP急需突破
+>https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011186&idx=3&sn=63dc532ef61eb2481344d34224124c14
+
+EM算法的九层境界：?Hinton和Jordan理解的EM算法
+>https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652010007&idx=4&sn=8abd041d3b1c5918ed7c4f9a981284e3
+
+【干货】3万字剖析强化学习在电商环境下应用
+>https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652011375&idx=3&sn=6e06c0156de277dee39c02e8420d7111
+
+
+
 20180123:<br>
 R语言金融波动率建模|基于SGED分布的变参数ARIMA+EARCH动态预测模型的研究
 >https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651057491&idx=1&sn=ad380aba4b1a78d4e8898e7be75af808
