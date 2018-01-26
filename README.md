@@ -9,6 +9,15 @@
 <br>
 <br>
 
+
+20180126:<br>
+就喜欢看综述论文：情感分析中的深度学习
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736673&idx=1&sn=d3c880d5a11a0865f5a4b0990c306344
+
+深度学习在文本分类中的应用
+>https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247486054&idx=1&sn=713b0cb002bf0f5ac216203dafc2e5ec
+
+
 20180125:<br>
 爬虫小工具-copyheader
 >https://zhuanlan.zhihu.com/p/33237247
