@@ -10,6 +10,13 @@
 <br>
 
 
+20180127:<br>
+基于Python预测股价的那些人那些坑，请认真看完！【系列52】
+>https://zhuanlan.zhihu.com/p/33297567
+
+BAT1000题精选 | RNN是怎么从单层网络一步步构造的
+>https://zhuanlan.zhihu.com/p/33259234
+
 20180126:<br>
 就喜欢看综述论文：情感分析中的深度学习
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736673&idx=1&sn=d3c880d5a11a0865f5a4b0990c306344
