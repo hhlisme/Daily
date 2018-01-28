@@ -10,6 +10,15 @@
 <br>
 
 
+20180128:<br>
+Facebook如何运用机器学习进行亿级用户数据处理
+>https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247492743&idx=1&sn=70b557cdf190e76f911cb7e11e86f989
+
+电力AI大赛|机器学习处理流程、特征工程，模型设计实例
+>https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247486056&idx=1&sn=a8cc5f30ecfb9b2c95874349830f0839
+>http://www.cnblogs.com/csj007523/p/8310763.html
+
+
 20180127:<br>
 基于Python预测股价的那些人那些坑，请认真看完！【系列52】
 >https://zhuanlan.zhihu.com/p/33297567
