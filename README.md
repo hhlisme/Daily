@@ -10,6 +10,14 @@
 <br>
 
 
+20180129:<br>
+微软亚洲研究院论文解读：GAN在网络特征学习中的应用（PPT+视频）
+>https://zhuanlan.zhihu.com/p/33227420
+
+N问广告ctr预估
+>https://zhuanlan.zhihu.com/p/33372485
+
+
 20180128:<br>
 Facebook如何运用机器学习进行亿级用户数据处理
 >https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247492743&idx=1&sn=70b557cdf190e76f911cb7e11e86f989
