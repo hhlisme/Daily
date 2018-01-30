@@ -10,6 +10,11 @@
 <br>
 
 
+20180130:<br>
+500款各领域机器学习数据集,总有一个是你要找的
+>https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247486065&idx=2&sn=2a4188a9513315278e3681b3fcc1194e
+
+
 20180129:<br>
 微软亚洲研究院论文解读：GAN在网络特征学习中的应用（PPT+视频）
 >https://zhuanlan.zhihu.com/p/33227420
