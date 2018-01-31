@@ -10,6 +10,14 @@
 <br>
 
 
+
+
+20180131:<br>
+关于sklearn中的决策树是否应该用one-hot编码？(柯国霖等人的回答)
+>https://www.zhihu.com/question/266195966/answer/306104444
+
+
+
 20180130:<br>
 500款各领域机器学习数据集,总有一个是你要找的
 >https://mp.weixin.qq.com/s?__biz=MzI0OTQyNzEzMQ==&mid=2247486065&idx=2&sn=2a4188a9513315278e3681b3fcc1194e
