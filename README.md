@@ -9,6 +9,13 @@
 <br>
 <br>
 
+20180132:<br>
+互联网广告综述之点击率特征工程
+>http://blog.csdn.net/mytestmy/article/details/19088827
+
+2017年度最值得读的AI论文 | NLP篇 (PaperWeekly)
+>https://zhuanlan.zhihu.com/p/33469791
+
 
 
 
