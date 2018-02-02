@@ -9,7 +9,23 @@
 <br>
 <br>
 
-20180132:<br>
+
+
+20180202:
+2017秋招面试总结：计算机视觉/深度学习算法
+https://zhuanlan.zhihu.com/p/33020995
+
+大佬面试总结：图像处理/CV/ML/DL到HR面
+https://zhuanlan.zhihu.com/p/32981626
+
+《我的PaddlePaddle学习之路》笔记四——自定义图像数据集的识别
+http://blog.csdn.net/qq_33200967/article/details/79095265
+
+
+
+
+
+20180201:<br>
 互联网广告综述之点击率特征工程
 >http://blog.csdn.net/mytestmy/article/details/19088827
 
