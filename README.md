@@ -9,17 +9,30 @@
 <br>
 <br>
 
+20180203:<br>
+爬虫进阶教程：百万英雄答题辅助系统
+>http://cuijiahua.com/blog/2018/01/spider_3.html
+
+Python3网络爬虫(八)：爱奇艺等主流视频网站的VIP视频破解(在线观看+视频下载)
+>http://blog.csdn.net/c406495762/article/details/71334633
+
+Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解等
+>https://github.com/Jack-Cherish/python-spider
+
+爱湃森2017年度Python榜单
+>https://annual2017.pycourses.com/
 
 
-20180202:
+
+20180202:<br>
 2017秋招面试总结：计算机视觉/深度学习算法
-https://zhuanlan.zhihu.com/p/33020995
+>https://zhuanlan.zhihu.com/p/33020995
 
 大佬面试总结：图像处理/CV/ML/DL到HR面
-https://zhuanlan.zhihu.com/p/32981626
+>https://zhuanlan.zhihu.com/p/32981626
 
 《我的PaddlePaddle学习之路》笔记四——自定义图像数据集的识别
-http://blog.csdn.net/qq_33200967/article/details/79095265
+>http://blog.csdn.net/qq_33200967/article/details/79095265
 
 
 
