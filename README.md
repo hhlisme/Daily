@@ -9,6 +9,15 @@
 <br>
 <br>
 
+20180205:<br>
+机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
+>https://github.com/ty4z2008/Qix/blob/master/dl.md
+
+数据挖掘竞赛的套路就在这里了，看完本文全明白！
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669620&idx=2&sn=158af9884aa6ef5d7a4317d3fff2ad09
+
+
+
 20180204:<br>
 《小王爱迁移》系列之零：迁移学习领域著名学者和研究机构
 >https://zhuanlan.zhihu.com/p/30685086
