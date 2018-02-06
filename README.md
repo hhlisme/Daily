@@ -9,6 +9,14 @@
 <br>
 <br>
 
+201805206:<br>
+算法工程师养成实录：学习准备+实习+秋招总结
+>https://zhuanlan.zhihu.com/p/32215970
+
+非科班野路子的2018秋招算法工程师面经：面试实录+人生经验
+>https://zhuanlan.zhihu.com/p/31217804
+
+
 20180205:<br>
 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
 >https://github.com/ty4z2008/Qix/blob/master/dl.md
