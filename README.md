@@ -10,6 +10,11 @@
 <br>
 
 
+20180208:<br>
+数据城堡社区（包含竞赛思路和竞赛代码）
+>http://www.dcjingsai.com/common/bbs/topicIndex.html
+
+
 20180207:<br>
 手把手：我的深度学习模型训练好了，然后要做啥？
 >https://zhuanlan.zhihu.com/p/33665078
