@@ -10,6 +10,11 @@
 <br>
 
 
+20180209:<br>
+薅资本主义羊毛，用Google免费GPU
+>https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247493706&idx=1&sn=7474e40d5fe9968cbc79fc35b3c220f4
+
+
 20180208:<br>
 数据城堡社区（包含竞赛思路和竞赛代码）
 >http://www.dcjingsai.com/common/bbs/topicIndex.html
