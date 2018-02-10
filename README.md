@@ -9,6 +9,13 @@
 <br>
 <br>
 
+20180210:<br>
+如何写好一篇高质量的IEEE/ACM Transaction级别的计算机科学论文?
+>https://www.zhihu.com/question/22790506/answer/316005175
+
+春节囤货清单 | 15篇近期值得读的AI论文
+>https://zhuanlan.zhihu.com/p/33729052
+
 
 20180209:<br>
 薅资本主义羊毛，用Google免费GPU
