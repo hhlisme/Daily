@@ -9,6 +9,16 @@
 <br>
 <br>
 
+20180211:<br>
+机器学习顶级论文及实现（附地址及简介）
+>https://zhuanlan.zhihu.com/p/33720111
+
+YJango：TensorFlow高层API Custom Estimator建立CNN+RNN的演示
+>https://zhuanlan.zhihu.com/p/33681224
+
+
+
+
 20180210:<br>
 如何写好一篇高质量的IEEE/ACM Transaction级别的计算机科学论文?
 >https://www.zhihu.com/question/22790506/answer/316005175
