@@ -9,6 +9,15 @@
 <br>
 <br>
 
+
+20180212:<br>
+浪叫兽的竞赛经验总结
+>https://zhuanlan.zhihu.com/p/33740042
+
+干货 | 请收下这份2018学习清单：150个最好的机器学习，NLP和Python教程 
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247489462&idx=4&sn=096557b4a98560528d65a30a47ac037d
+
+
 20180211:<br>
 机器学习顶级论文及实现（附地址及简介）
 >https://zhuanlan.zhihu.com/p/33720111
