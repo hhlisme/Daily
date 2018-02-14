@@ -10,6 +10,20 @@
 <br>
 
 
+20180214:<br>
+Kaggle大神带你上榜单Top2%：点击预测大赛纪实（上）
+http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655512&idx=1&sn=51e6d799c195d60fa99ffe5e5c82d5a6
+
+Kaggle大神带你上榜单Top2%：点击预测大赛纪实（下）
+http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655781&idx=1&sn=3cf841ca023387f74b36999cdf093cdb
+
+
+
+20180213:<br>
+视频 | 从原理到代码，Hinton的胶囊网络该怎么用？（附代码）
+>http://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247489699&idx=3&sn=17ccda7285baa5b7356724cea58cf5c1
+
+
 20180212:<br>
 浪叫兽的竞赛经验总结
 >https://zhuanlan.zhihu.com/p/33740042
