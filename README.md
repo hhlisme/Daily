@@ -9,13 +9,16 @@
 <br>
 <br>
 
+20180215:<br>
+机器学习、数据挖掘 如何进阶成为大神？
+>https://www.zhihu.com/question/37256015/answer/318634686
 
 20180214:<br>
 Kaggle大神带你上榜单Top2%：点击预测大赛纪实（上）
-http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655512&idx=1&sn=51e6d799c195d60fa99ffe5e5c82d5a6
+>http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655512&idx=1&sn=51e6d799c195d60fa99ffe5e5c82d5a6
 
 Kaggle大神带你上榜单Top2%：点击预测大赛纪实（下）
-http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655781&idx=1&sn=3cf841ca023387f74b36999cdf093cdb
+>http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655781&idx=1&sn=3cf841ca023387f74b36999cdf093cdb
 
 
 
