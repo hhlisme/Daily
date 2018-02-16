@@ -9,6 +9,21 @@
 <br>
 <br>
 
+
+
+
+
+
+
+20180216:<br>
+15大领域，50篇文章，2018年应当这样学习机器学习
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247492885&idx=1&sn=d41903ad3f45394eefd12d943a4847f6
+
+如何在NLP领域干成第一件事
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247492885&idx=2&sn=d0ba63dc82ceb53d3a7c34113be4ba06
+
+
+
 20180215:<br>
 机器学习、数据挖掘 如何进阶成为大神？
 >https://www.zhihu.com/question/37256015/answer/318634686
