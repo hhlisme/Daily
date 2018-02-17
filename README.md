@@ -11,6 +11,12 @@
 
 
 
+20180217:<br>
+绝密 | 机器学习老手不会轻易告诉你的12件事儿
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247493088&idx=1&sn=73f0808c11e98158010faa7348eb20aa
+
+如何快速理解GAN？这里有一篇最直观的解读
+https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247493117&idx=2&sn=a9118d70b4aa50be81e47b9c32655371
 
 
 
