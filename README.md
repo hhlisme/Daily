@@ -10,6 +10,13 @@
 <br>
 
 
+20180218:<br>
+经典 | 深度学习的7大实用技巧
+>https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247493151&idx=1&sn=9b0a03e949f61c42b883695ff62dc07e
+
+深度 | 机器学习中的模型评价、模型选择及算法选择
+>https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247493266&idx=1&sn=d4ca3d3eaba6a1d4c8f1801622f14aa2
+
 
 20180217:<br>
 绝密 | 机器学习老手不会轻易告诉你的12件事儿
