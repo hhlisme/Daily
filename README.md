@@ -9,6 +9,14 @@
 <br>
 <br>
 
+20180219:<br>
+机器学习面试干货精讲
+>https://zhuanlan.zhihu.com/p/32877396
+
+2017年，机器之心贡献过的开源项目
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650738018&idx=1&sn=924c5a619bfe34d04073f7dc407b74db
+
+
 
 20180218:<br>
 经典 | 深度学习的7大实用技巧
