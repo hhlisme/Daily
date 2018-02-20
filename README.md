@@ -9,6 +9,18 @@
 <br>
 <br>
 
+
+20180220:<br>
+房屋价格数据采集与分析
+http://blog.csdn.net/zbc1090549839/article/details/54692147
+
+TensorFlow和深度学习入门教程（TensorFlow and deep learning without a PhD）
+http://blog.csdn.net/xummgg/article/details/69214366
+
+数据科学家需要了解的5大聚类算法
+https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658356887&idx=1&sn=8ed54bca7fc19e34c574b56e50c3dbd7
+
+
 20180219:<br>
 机器学习面试干货精讲
 >https://zhuanlan.zhihu.com/p/32877396
