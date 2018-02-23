@@ -11,7 +11,8 @@
 
 
 20180222:<br>
-未完待续
+Python XGBoost算法代码实现和筛选特征应用
+>https://zhuanlan.zhihu.com/p/33931960
 
 
 
