@@ -9,6 +9,11 @@
 <br>
 <br>
 
+20180223:<br>
+基于XGBoost的量化金融实战【系列53】
+>https://zhuanlan.zhihu.com/p/33948430
+
+
 
 20180222:<br>
 Python XGBoost算法代码实现和筛选特征应用
