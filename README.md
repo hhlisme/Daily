@@ -9,6 +9,15 @@
 <br>
 <br>
 
+20180224:<br>
+数据科学家效率提升必备技巧之Jupyter Notebook篇
+>https://zhuanlan.zhihu.com/p/33696082
+
+SOHU图文匹配竞赛-方案分享
+>https://zhuanlan.zhihu.com/p/27425379
+
+
+
 20180223:<br>
 基于XGBoost的量化金融实战【系列53】
 >https://zhuanlan.zhihu.com/p/33948430
