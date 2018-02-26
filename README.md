@@ -9,6 +9,17 @@
 <br>
 <br>
 
+20180226:<br>
+同时处理不同类型的问题时，机器学习模型应该想什么
+>https://zhuanlan.zhihu.com/p/29932095
+
+
+20180225:<br>
+用户增长怎么做 - 我在Uber和摩拜的实战经验
+>https://zhuanlan.zhihu.com/p/33905485
+
+
+
 20180224:<br>
 数据科学家效率提升必备技巧之Jupyter Notebook篇
 >https://zhuanlan.zhihu.com/p/33696082
