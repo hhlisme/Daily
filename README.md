@@ -9,6 +9,15 @@
 <br>
 <br>
 
+
+20180227:<br>
+有哪些牛逼的简历模板？
+>https://www.zhihu.com/question/26265144
+
+把深度学习作为自己的硕士课题，有什么可以做的？
+>https://www.zhihu.com/question/27393375
+
+
 20180226:<br>
 同时处理不同类型的问题时，机器学习模型应该想什么
 >https://zhuanlan.zhihu.com/p/29932095
