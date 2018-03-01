@@ -9,6 +9,20 @@
 <br>
 <br>
 
+
+20180301:<br>
+历史最全GAN网络及其各种变体整理（附论文及代码实现）
+>https://zhuanlan.zhihu.com/p/34016536
+
+8个步骤，上手解决90%的 NLP 问题
+>https://zhuanlan.zhihu.com/p/34120684
+
+学习了！谷歌今日上线基于TensorFlow的机器学习速成课程（中文版）
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650738445&idx=1&sn=b2dbe3aa45c253e37b4a81a0ba3dc4a0
+
+
+
+
 20180228:<br>
 聊聊机器学习中的那些树
 >https://zhuanlan.zhihu.com/p/33987488
@@ -1342,24 +1356,4 @@ xgboost特征选择
 
 20171008:<br>
 香港科技大学PyTorch四日速成教程
->https://github.com/hunkim/PyTorchZeroToAll
-
-香港科技大学TensorFlow课件分享
->https://zhuanlan.zhihu.com/p/29936078
-
-
-
-20171007:<br>
-这是一份你们需要的Windows版深度学习软件安装指南
->https://zhuanlan.zhihu.com/p/29903472
-
-
-
-20171006；
-《R语言实战》第四部分第十八章-处理缺失数据的高级方法学习笔记
->https://zhuanlan.zhihu.com/p/28056007
-
-
-
-20171005:<br>
-干货｜如何用FPGA加
+>https://github.com/hu
