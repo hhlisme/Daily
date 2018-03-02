@@ -10,6 +10,14 @@
 <br>
 
 
+20180302:<br>
+400分钟！零基础入门机器学习教程限时领取！！！（天池）
+>https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.100065.5490641.3.31fe67b78Xsib5&postsId=1515
+
+基于变量KS最大化的分箱方案
+>https://zhuanlan.zhihu.com/p/33742183
+
+
 20180301:<br>
 历史最全GAN网络及其各种变体整理（附论文及代码实现）
 >https://zhuanlan.zhihu.com/p/34016536
