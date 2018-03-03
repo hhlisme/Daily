@@ -10,6 +10,19 @@
 <br>
 
 
+20180303:<br>
+搞机器学习要哪些技能（机器学习入门）
+>https://segmentfault.com/a/1190000005356857
+
+信用卡“坏账”客户分析（kaggle数据）
+>https://mp.weixin.qq.com/s?__biz=MzI2MjE3OTA1MA==&mid=2247484779&idx=1&sn=4dbd56ce51f07a52ec219cfa12faa482
+
+智慧航空AI大赛-阿里云算法大赛总结 第一赛季总结
+>http://www.cnblogs.com/TextEditor/p/7267307.html
+
+
+
+
 20180302:<br>
 400分钟！零基础入门机器学习教程限时领取！！！（天池）
 >https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.100065.5490641.3.31fe67b78Xsib5&postsId=1515
