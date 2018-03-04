@@ -10,6 +10,12 @@
 <br>
 
 
+
+20180304:<br>
+神经网络学习与TensorFlow实践
+>https://zhuanlan.zhihu.com/mBrain
+
+
 20180303:<br>
 搞机器学习要哪些技能（机器学习入门）
 >https://segmentfault.com/a/1190000005356857
