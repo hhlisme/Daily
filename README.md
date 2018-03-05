@@ -11,6 +11,19 @@
 
 
 
+20180305:<br>
+吴恩达导师Michael I.Jordan学术演讲：如何有效避开鞍点（视频+PPT）
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651657898&idx=1&sn=1d67fa6ed40fa06ad1b35256d8482f22
+
+Kaggle大神带你上榜单Top2%：点击预测大赛纪实（上）
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655512&idx=1&sn=51e6d799c195d60fa99ffe5e5c82d5a6
+
+Kaggle大神带你上榜单Top2%：点击预测大赛纪实（下）
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651655781&idx=1&sn=3cf841ca023387f74b36999cdf093cdb
+
+
+
+
 20180304:<br>
 神经网络学习与TensorFlow实践
 >https://zhuanlan.zhihu.com/mBrain
