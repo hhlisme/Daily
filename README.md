@@ -10,6 +10,16 @@
 <br>
 
 
+
+20180307:<br>
+深度学习大讲堂推出免费AI课程
+>https://zhuanlan.zhihu.com/p/34287459
+
+南京大学周志华教授综述论文：弱监督学习
+>https://zhuanlan.zhihu.com/p/34270286
+
+
+
 20180306:<br>
 终于！Keras官方中文版文档正式发布了
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650738741&idx=1&sn=d4ba0d9f640676c11f9a0682ed9816fa
