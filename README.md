@@ -12,6 +12,14 @@
 
 
 
+20180309:<br>
+深度学习这么火，快看如何使用TensorFlow基础函数构建信号回测！
+>https://zhuanlan.zhihu.com/p/34233208
+
+春节期间，你错过了这些开源论文 | Paper + Code 清单
+>https://zhuanlan.zhihu.com/p/34245934
+
+
 20180308:<br>
 论文解读 | 基于神经网络的知识推理
 >https://zhuanlan.zhihu.com/p/34344467
