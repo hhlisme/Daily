@@ -12,6 +12,12 @@
 
 
 
+
+20180310:<br>
+简单实用的pandas技巧：如何将内存占用降低90%
+>https://zhuanlan.zhihu.com/p/34420427
+
+
 20180309:<br>
 深度学习这么火，快看如何使用TensorFlow基础函数构建信号回测！
 >https://zhuanlan.zhihu.com/p/34233208
