@@ -13,6 +13,15 @@
 
 
 
+20180311:<br>
+GBDT、XGBoost、LightGBM 的使用及参数调优
+>https://www.jianshu.com/p/0fe45d4e9542
+
+这是一份优美的信息图，吴恩达点赞的deeplearning.ai课程总结
+>https://zhuanlan.zhihu.com/p/34346816
+
+
+
 20180310:<br>
 简单实用的pandas技巧：如何将内存占用降低90%
 >https://zhuanlan.zhihu.com/p/34420427
