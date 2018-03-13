@@ -11,6 +11,15 @@
 <br>
 
 
+20180313:<br>
+天涯明月笙（mtianyan）的github，介绍Django，flask等网站搭建，爬虫等项目
+>https://github.com/mtianyan
+
+Python 3 & Keras 实现基于神经网络的交通流预测
+>https://www.jianshu.com/p/1d1c5adf43c6
+
+
+
 20180312:<br>
 产品经理面试习题大汇总
 >https://zhuanlan.zhihu.com/p/23948793
