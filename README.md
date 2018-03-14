@@ -11,6 +11,17 @@
 <br>
 
 
+20180314:<br>
+机器学习模型设计五要素
+>https://zhuanlan.zhihu.com/p/27783413
+
+DeepFM: A Factorization-Machine based Neural Network for CTR Prediction, IJCAI 2017
+>https://zhuanlan.zhihu.com/p/27999355
+
+
+
+
+
 20180313:<br>
 天涯明月笙（mtianyan）的github，介绍Django，flask等网站搭建，爬虫等项目
 >https://github.com/mtianyan
