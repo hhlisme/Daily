@@ -10,6 +10,18 @@
 <br>
 <br>
 
+20180315:<br>
+特征工程：机器学习中的特征与标签自然语言化
+>https://zhuanlan.zhihu.com/p/29394867
+
+同时处理不同类型的问题时，机器学习模型应该想什么
+>https://zhuanlan.zhihu.com/p/29932095
+
+Mercari Price 比赛分享——语言不仅是算法和公式而已
+>https://zhuanlan.zhihu.com/p/33987753
+
+
+
 
 20180314:<br>
 机器学习模型设计五要素
