@@ -45,8 +45,7 @@ http://mlwave.com/human-ensemble-learning/
 实验楼产品---Python实战
 http://blog.csdn.net/shiyanlou_chenshi/article/details/52807629
 
-第一期分享到这里
---------------------------------------------------------------------------------------------------------------
+
 
 
 建模那点事儿——方法篇（作者：陈丹奕 ）
@@ -1327,3 +1326,11 @@ https://zhuanlan.zhihu.com/p/27625233?utm_source=wechat_session&utm_medium=socia
 20170631:
 从零开始写Python爬虫
 https://zhuanlan.zhihu.com/Ehco-python
+
+
+
+
+第一期分享到这里
+--------------------------------------------------------------------------------------------------------------
+
+
