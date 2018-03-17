@@ -11,6 +11,16 @@
 <br>
 
 
+
+20180317:<br>
+从起源到具体算法，这是一份适合所有人读的深度学习综述论文
+>https://zhuanlan.zhihu.com/p/34463497
+
+文本分析相关各种文档提取授权
+>https://github.com/NLPIR-team/NLPIR/tree/master/License/license%20for%20a%20month
+
+
+
 20180316:<br>
 互联网产品的盈利模式，你了解多少？
 >http://www.woshipm.com/pmd/959335.html
