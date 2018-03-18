@@ -11,6 +11,34 @@
 <br>
 
 
+20180318:<br>
+CCF O2O优惠券使用预测第一名资料及代码
+>https://github.com/wepe/O2O-Coupon-Usage-Forecast
+
+CCF-农产品价格预测线上第5，决赛答辩逆袭为第1名的团队
+>https://github.com/ziminghuang/futuredata-ccf2016
+
+CCF-农产品价格预测第二名代码
+>https://github.com/xing89qs/CCF_Product
+
+2016CCF-客户用电异常行为分析
+>https://github.com/AbnerYang/2016CCF-StateGrid
+
+2016CCF-SouGou-大数据精准营销下的用户画像精准识别
+>https://github.com/AbnerYang/2016CCF-SouGou
+>https://github.com/dhdsjy/2016_CCFsougou2
+>https://github.com/prozhuchen/2016CCF-sougou
+>https://github.com/coderSkyChen/2016CCF_BDCI_Sougou
+
+联通用户轨迹赛题
+>https://github.com/xuguanggen/2016CCF-unicom
+
+百度云魅族深度学习应用大赛
+>https://github.com/ypwhs/baiduyun_deeplearning_competition
+
+天池 商场中精确定位用户所在店铺
+>https://github.com/hrwhisper/LocationAtMall
+
 
 20180317:<br>
 从起源到具体算法，这是一份适合所有人读的深度学习综述论文
