@@ -10,6 +10,14 @@
 <br>
 <br>
 
+20180319:<br>
+从起源到具体算法，这是一份适合所有人读的深度学习综述论文
+>https://zhuanlan.zhihu.com/p/34463497
+
+首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛（代码）
+>https://github.com/zlxy9892/DC_hbc
+
+
 
 20180318:<br>
 CCF O2O优惠券使用预测第一名资料及代码
