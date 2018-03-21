@@ -10,6 +10,19 @@
 <br>
 <br>
 
+20180321:<br>
+K-means算法及文本聚类实践
+>http://www.cnblogs.com/fengfenggirl/p/k-means.html
+
+学界 | 胶囊网络是如何克服卷积神经网络的这些缺点的？
+>https://zhuanlan.zhihu.com/p/34619520
+
+使用Keras进行深度学习：（一）Keras 入门
+>https://zhuanlan.zhihu.com/p/34597052
+
+
+
+
 20180320:<br>
 用于数据挖掘的聚类算法有哪些，各有何优势？
 >https://www.zhihu.com/question/34554321
