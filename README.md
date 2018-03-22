@@ -10,6 +10,17 @@
 <br>
 <br>
 
+20180322:<br>
+每天数百亿用户行为数据，美团点评怎么实现秒级转化分析？
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747755&idx=1&sn=fe6288c9ce334ad88d89d16fbfe5f045
+
+一文彻底搞懂BP算法：原理推导+数据演示+项目实战（上篇）
+>https://mp.weixin.qq.com/s/LazepY3DUH3UL_MgV5UeJQ
+
+使用Keras进行深度学习：（二）CNN讲解及实践
+>https://zhuanlan.zhihu.com/p/34822375
+
+
 20180321:<br>
 K-means算法及文本聚类实践
 >http://www.cnblogs.com/fengfenggirl/p/k-means.html
