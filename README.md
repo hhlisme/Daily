@@ -10,6 +10,14 @@
 <br>
 <br>
 
+20180323:<br>
+如何对用户进行聚类分析？(微调的回答）
+>https://www.zhihu.com/question/19982667/answer/347473295
+
+从结构到性能，一文概述XGBoost、Light GBM和CatBoost的同与不同
+>https://zhuanlan.zhihu.com/p/34698733
+
+
 20180322:<br>
 每天数百亿用户行为数据，美团点评怎么实现秒级转化分析？
 >https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747755&idx=1&sn=fe6288c9ce334ad88d89d16fbfe5f045
