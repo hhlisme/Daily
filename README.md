@@ -10,6 +10,13 @@
 <br>
 <br>
 
+20180324:<br>
+用户画像—打用户行为标签
+>https://zhuanlan.zhihu.com/p/34804615
+
+比你更了解你，浅谈用户画像
+>https://zhuanlan.zhihu.com/p/27126412
+
 20180323:<br>
 如何对用户进行聚类分析？(微调的回答）
 >https://www.zhihu.com/question/19982667/answer/347473295
