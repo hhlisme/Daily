@@ -10,6 +10,14 @@
 <br>
 <br>
 
+20180325:<br>
+R语言 | 关联规则 （包含可视化实现）
+>https://blog.csdn.net/gjwang1983/article/details/45015203
+
+基于 Keras 预测航班延误
+>https://mp.weixin.qq.com/s?__biz=MzI3NTA0MzM1OQ==&mid=2651615418&idx=1&sn=c10fb20de0c7e92965e8bf695b0dfa2f
+
+
 20180324:<br>
 用户画像—打用户行为标签
 >https://zhuanlan.zhihu.com/p/34804615
