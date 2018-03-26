@@ -10,6 +10,16 @@
 <br>
 <br>
 
+
+20180326:<br>
+干货丨Kaggle Mercari Price比赛分享，语言不仅是算法和公式而已
+>https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247484737&idx=1&sn=ea440bc8446c5bf75201b550eb2afccf
+
+美女队长“人机写作巅峰对决”数据竞赛夺冠干货分享
+>https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247484689&idx=1&sn=faafa4c9649567b091b3a98d465480f8
+
+
+
 20180325:<br>
 R语言 | 关联规则 （包含可视化实现）
 >https://blog.csdn.net/gjwang1983/article/details/45015203
