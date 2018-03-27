@@ -11,6 +11,12 @@
 <br>
 
 
+20180327:<br>
+有哪些比较好的做异常值检测的方法？
+>https://www.zhihu.com/question/38066650
+
+
+
 20180326:<br>
 干货丨Kaggle Mercari Price比赛分享，语言不仅是算法和公式而已
 >https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247484737&idx=1&sn=ea440bc8446c5bf75201b550eb2afccf
