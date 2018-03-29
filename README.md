@@ -1,15 +1,28 @@
 
 
-# Daily 何红亮每日学习“日记” 
+# Daily 何红亮每日学习“日记”  
 
     这是何红亮同学保存每日记录的地方，GitHub上的第一个目录。
     在这里，我将记录每天自己看到的有收获的文章。比如：机器学习、数据挖掘、数据竞赛、Python进阶及有关数据及建模方面内容。
     在数据科学的道路上，能够慢慢进步和成长！
     如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
+    Keywords: data mining  machine learning  deep learning
 ----
 <br>
 <br>
+20180329:<br>
+美团“猜你喜欢”深度学习排序模型实践
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747804&idx=1&sn=883777ca375475ff894a446bf41cf7bc
+
+美团外卖骑手背后的AI技术
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747804&idx=2&sn=78dc773bf4f34a93a59af4d6bc7840f7
+
+
 20180328:<br>
+keras实现深度学习模型 进行文本分类
+>https://github.com/lytforgood/TextClassification
+
+
 
 20180327:<br>
 有哪些比较好的做异常值检测的方法？
