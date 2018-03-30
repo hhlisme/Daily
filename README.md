@@ -6,10 +6,18 @@
     在这里，我将记录每天自己看到的有收获的文章。比如：机器学习、数据挖掘、数据竞赛、Python进阶及有关数据及建模方面内容。
     在数据科学的道路上，能够慢慢进步和成长！
     如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
-    Keywords: data mining  machine learning  deep learning
+    <br>Keywords: data mining  machine learning  deep learning
 ----
 <br>
 <br>
+
+20180330:<br>
+人工智能最受欢迎的十大TED演讲
+>https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247486529&idx=1&sn=d6136a4558f5152fa2e989b885731838
+
+教程|用人工智能帮你找论文
+>https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247486619&idx=1&sn=189ef30579aa1810a6396cfc9574be40
+
 20180329:<br>
 美团“猜你喜欢”深度学习排序模型实践
 >https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651747804&idx=1&sn=883777ca375475ff894a446bf41cf7bc
