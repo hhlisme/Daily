@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180331:<br>
+深入FFM原理与实践
+>https://tech.meituan.com/deep-understanding-of-ffm-principles-and-practices.html
+
+
+
 20180330:<br>
 人工智能最受欢迎的十大TED演讲
 >https://mp.weixin.qq.com/s?__biz=MzIwMTgwNjgyOQ==&mid=2247486529&idx=1&sn=d6136a4558f5152fa2e989b885731838
