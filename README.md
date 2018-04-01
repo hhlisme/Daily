@@ -12,6 +12,18 @@
 <br>
 
 
+
+20180401:<br>
+超快速！10分钟入门Keras指南
+>https://zhuanlan.zhihu.com/p/34461956
+
+使用Keras进行深度学习：（二）CNN讲解及实践
+>https://zhuanlan.zhihu.com/p/34822375
+
+深度学习--Lenet-5基本结构及keras实现
+>https://zhuanlan.zhihu.com/p/31612931
+
+
 20180331:<br>
 深入FFM原理与实践
 >https://tech.meituan.com/deep-understanding-of-ffm-principles-and-practices.html
