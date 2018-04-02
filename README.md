@@ -12,6 +12,10 @@
 <br>
 
 
+20180402:<br>
+通过kaggle比赛学习机器学习文本分类方法
+>https://zhuanlan.zhihu.com/p/34899693
+
 
 20180401:<br>
 超快速！10分钟入门Keras指南
