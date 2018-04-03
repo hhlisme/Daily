@@ -12,6 +12,11 @@
 <br>
 
 
+20180403:<br>
+卷积的发展历程，原理和基于 TensorFlow 的实现
+>https://zhuanlan.zhihu.com/p/35226876
+
+
 20180402:<br>
 通过kaggle比赛学习机器学习文本分类方法
 >https://zhuanlan.zhihu.com/p/34899693
