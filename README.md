@@ -11,6 +11,15 @@
 <br>
 <br>
 
+20180404:<br>
+【NSR特别专题】香港科技大学杨强：多任务学习概述
+>https://mp.weixin.qq.com/s?__biz=MzAxNDcxMzMxMw==&mid=2652667323&idx=1&sn=c4a0c93ea60334febc9ad26f3800e942
+
+如何走近深度学习人脸识别？你需要这篇超长综述 | 附开源代码
+>https://zhuanlan.zhihu.com/p/35295839
+
+
+
 
 20180403:<br>
 卷积的发展历程，原理和基于 TensorFlow 的实现
