@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180405:<br>
+A curated list of resources for Chinese NLP 中文自然语言处理相关资料
+>https://github.com/crownpku/Awesome-Chinese-NLP
+
+
+
 20180404:<br>
 【NSR特别专题】香港科技大学杨强：多任务学习概述
 >https://mp.weixin.qq.com/s?__biz=MzAxNDcxMzMxMw==&mid=2652667323&idx=1&sn=c4a0c93ea60334febc9ad26f3800e942
