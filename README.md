@@ -12,6 +12,14 @@
 <br>
 
 
+20180406:<br>
+阿里新突破！自主创新的下一代匹配&推荐技术：任意深度学习+树状全库检索
+>https://yq.aliyun.com/articles/572353
+
+新型RNN：将层内神经元相互独立以提高长程记忆 | CVPR 2018论文解读
+>https://zhuanlan.zhihu.com/p/35328410
+
+
 20180405:<br>
 A curated list of resources for Chinese NLP 中文自然语言处理相关资料
 >https://github.com/crownpku/Awesome-Chinese-NLP
