@@ -11,6 +11,13 @@
 <br>
 <br>
 
+20180407:<br>
+DataFrame数据格式转换成FFM格式
+>https://github.com/luohangtong/DataFrame2FFM
+
+Pandas Dataframe to libsvm format:有什么方便的方法吗？
+>https://www.zhihu.com/question/39038261/answer/108336665
+
 
 20180406:<br>
 阿里新突破！自主创新的下一代匹配&推荐技术：任意深度学习+树状全库检索
