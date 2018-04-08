@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20180408:<br>
+用户在线广告点击行为预测的深度学习模型
+>https://blog.csdn.net/xiewenbo/article/details/52038493
+
 20180407:<br>
 DataFrame数据格式转换成FFM格式
 >https://github.com/luohangtong/DataFrame2FFM
