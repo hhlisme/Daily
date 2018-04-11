@@ -12,6 +12,12 @@
 <br>
 
 
+20180411:<br>
+手把手：用Python搭建一个加密货币交易模拟器，不用投钱就能玩
+>https://zhuanlan.zhihu.com/p/35507218
+
+
+
 20180410:<br>
 深度学习在CTR预估中的应用
 >https://zhuanlan.zhihu.com/p/35484389
