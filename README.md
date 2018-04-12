@@ -12,6 +12,11 @@
 <br>
 
 
+20180412:<br>
+【Kaggle金融时间预测相关比赛整理】Dataset, Model and Winner's Solution
+>https://zhuanlan.zhihu.com/p/35363444
+
+
 20180411:<br>
 手把手：用Python搭建一个加密货币交易模拟器，不用投钱就能玩
 >https://zhuanlan.zhihu.com/p/35507218
