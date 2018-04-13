@@ -12,6 +12,12 @@
 <br>
 
 
+20180413:<br>
+Python数据挖掘与机器学习，快速掌握聚类算法和关联分析
+>https://mp.weixin.qq.com/s?__biz=MzI1NDE1MDk2Mg==&mid=2247485013&idx=1&sn=6190c9dd7479bd2a2e97bbf27b3ea85c
+
+
+
 20180412:<br>
 【Kaggle金融时间预测相关比赛整理】Dataset, Model and Winner's Solution
 >https://zhuanlan.zhihu.com/p/35363444
