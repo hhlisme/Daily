@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180415:<br>
+【爬虫军火库】如何优雅地复制请求头
+>https://mp.weixin.qq.com/s?__biz=MzI0OTEwOTk5MA==&mid=2648498823&idx=1&sn=c7833b78e7ff30ab329c4b5b4c6c4462
+
+
+
 20180414:<br>
 ICASSP 2018 | 阿里巴巴论文提出针对影视作品的语音情感识别信息融合框架
 >https://zhuanlan.zhihu.com/p/35532054
