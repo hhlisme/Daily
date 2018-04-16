@@ -12,6 +12,21 @@
 <br>
 
 
+20180416:<br>
+用 Keras 搭建 GAN：图像去模糊中的应用（附代码）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670680&idx=1&sn=6dd0f7e1fc8b041ea590d615531053be
+
+阿里巴巴 WSDM Cup 2018 夺得第二名，获奖论文全解读
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670113&idx=1&sn=38670db51afc04464f410761ba6f50cc
+
+Github 项目推荐 | GAN 的 Keras 实现案例集合 —— Keras-GAN
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669978&idx=3&sn=d7ee5d09bee8731fb1552791ee19f46b
+
+混合整数规划/离散优化的精确算法--分支定界法及优化求解器
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669938&idx=1&sn=25ec13864509192e4b18856b234ccb40
+
+
+
 20180415:<br>
 【爬虫军火库】如何优雅地复制请求头
 >https://mp.weixin.qq.com/s?__biz=MzI0OTEwOTk5MA==&mid=2648498823&idx=1&sn=c7833b78e7ff30ab329c4b5b4c6c4462
