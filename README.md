@@ -11,6 +11,21 @@
 <br>
 <br>
 
+20180417:<br>
+Google Brain 团队 Hugo Larochelle 教授「Neural Networks」课程合辑！
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669909&idx=1&sn=bfeb7c1bbf97e4ad4dcb027ccdd4148a
+
+代码+实战：TensorFlow Estimator of Deep CTR —— DeepFM/NFM/AFM/FNN/PNN
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669888&idx=1&sn=5fa4955db5fdb0a6f3b6c8e5893cf7df
+
+视频 | 从原理到代码，Hinton 的胶囊网络该怎么用？（附代码）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670011&idx=3&sn=273e2f5e33cc0994c46496b894e82aa6
+
+从 Encoder 到 Decoder 实现 Seq2Seq 模型
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669840&idx=1&sn=15e09738a64e1f8054e1db5b4f9360b4
+
+
+
 
 20180416:<br>
 用 Keras 搭建 GAN：图像去模糊中的应用（附代码）
