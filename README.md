@@ -11,6 +11,21 @@
 <br>
 <br>
 
+
+20180418:<br>
+深度学习在文本分类中的应用
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669100&idx=1&sn=1e82bd46dd189f8124a124ea50e89431
+
+Kaggle Titanic 生存预测比赛超完整笔记（上）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668442&idx=1&sn=c26382573e26c52c27355917019b758a
+
+Kaggle Titanic 生存预测比赛超完整笔记（中）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668479&idx=1&sn=cd0f1df7f7b6d0c522d8db19455afb40
+
+Kaggle Titanic 生存预测比赛超完整笔记（下）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668486&idx=1&sn=e8149bb902d7692ea7dcd7721b136ad7
+
+
 20180417:<br>
 Google Brain 团队 Hugo Larochelle 教授「Neural Networks」课程合辑！
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669909&idx=1&sn=bfeb7c1bbf97e4ad4dcb027ccdd4148a
