@@ -12,6 +12,14 @@
 <br>
 
 
+20180419:<br>
+【回顾】从传统算法走向神经网络（视频讲解）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668271&idx=3&sn=da64ffd251aea27935242998f47f7c92
+
+神经网络中容易被忽视的基础知识
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667791&idx=1&sn=6f5fb4786ab8d8050827dffa77c3a012
+
+
 20180418:<br>
 深度学习在文本分类中的应用
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669100&idx=1&sn=1e82bd46dd189f8124a124ea50e89431
