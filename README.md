@@ -12,6 +12,17 @@
 <br>
 
 
+20180420:<br>
+如何用自组织映射 (SOM) 解决旅行商问题 (TSP)
+>https://zhuanlan.zhihu.com/p/34121865
+
+数据分析秘籍在这里：Kaggle 六大比赛最全面解析（上）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670710&idx=1&sn=d75a077506c72eb5ba5d59c063cc0dda
+
+数据分析秘籍在这里：Kaggle 六大比赛最全面解析（下）
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670719&idx=2&sn=27610e82a69ad97320afb754065b2a1f
+
+
 20180419:<br>
 【回顾】从传统算法走向神经网络（视频讲解）
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650668271&idx=3&sn=da64ffd251aea27935242998f47f7c92
