@@ -11,6 +11,15 @@
 <br>
 <br>
 
+20180421:<br>
+如何准备机器学习工程师的面试？
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667647&idx=1&sn=142c2aa04e2af0f700a0c8bce08c1de0
+
+数据挖掘竞赛的套路就在这里了，看完本文全明白！
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650669620&idx=2&sn=158af9884aa6ef5d7a4317d3fff2ad09
+
+
+
 
 20180420:<br>
 如何用自组织映射 (SOM) 解决旅行商问题 (TSP)
