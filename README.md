@@ -11,6 +11,17 @@
 <br>
 <br>
 
+
+
+20180422:<br>
+如何用Python批量提取PDF文本内容？
+>https://mp.weixin.qq.com/s?__biz=MzIyODI1MzYyNA==&mid=2653540360&idx=1&sn=efe357c982f934f9c29e03ec660f2d45
+
+如何用Python和机器学习训练中文文本情感分类模型？
+>https://mp.weixin.qq.com/s?__biz=MzIyODI1MzYyNA==&mid=2653540357&idx=1&sn=72ccd564cc109f3f0b831af6a62e48c9
+
+
+
 20180421:<br>
 如何准备机器学习工程师的面试？
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650667647&idx=1&sn=142c2aa04e2af0f700a0c8bce08c1de0
