@@ -12,6 +12,15 @@
 <br>
 
 
+20180423:<br>
+数据不足如何用深度学习 by Mike Bernico
+>https://www.bilibili.com/video/av22445154/?redirectFrom=h5
+
+深度学习领域引用量前10篇论文（附下载地址）
+>https://zhuanlan.zhihu.com/p/36017938
+
+
+
 
 20180422:<br>
 如何用Python批量提取PDF文本内容？
