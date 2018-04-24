@@ -12,6 +12,14 @@
 <br>
 
 
+20180424:<br>
+如何通过“统计学检验”来对比机器学习算法性能
+>https://www.zhihu.com/question/27306416/answer/372241948
+
+感动！有人将吴恩达的视频课程做成了文字版
+>https://mp.weixin.qq.com/s?__biz=MzAwNDI4ODcxNA==&mid=2652247185&idx=1&sn=438cb51af718432cb44b3581ce37ab75
+
+
 20180423:<br>
 数据不足如何用深度学习 by Mike Bernico
 >https://www.bilibili.com/video/av22445154/?redirectFrom=h5
