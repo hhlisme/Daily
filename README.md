@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180426:<br>
+主流CTR预估模型的演化及对比
+>https://zhuanlan.zhihu.com/p/35465875
+
+
+
 20180425:<br>
 【干货】京东金融信贷需求预测竞赛，我曾经这样的思考过
 >https://mp.weixin.qq.com/s?__biz=MzI5ODQxMTk5MQ==&mid=2247484917&idx=1&sn=16cf9b89e69b781c978c9bce3a2870af
