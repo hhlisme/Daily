@@ -12,6 +12,13 @@
 <br>
 
 
+20180427:<br>
+这些资源你肯定需要！超全的GAN PyTorch+Keras实现集合
+>https://zhuanlan.zhihu.com/p/36058049
+
+
+
+
 20180426:<br>
 主流CTR预估模型的演化及对比
 >https://zhuanlan.zhihu.com/p/35465875
