@@ -10,7 +10,11 @@
 ----
 <br>
 <br>
-20180428
+20180428:<br>
+SciHub桌面版官方发布页面暨Sci-Hub最新可用网址（20180427更新）
+https://zhuanlan.zhihu.com/p/31809890
+
+
 
 20180427:<br>
 这些资源你肯定需要！超全的GAN PyTorch+Keras实现集合
