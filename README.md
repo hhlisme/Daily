@@ -10,9 +10,21 @@
 ----
 <br>
 <br>
+
+
+20180429:<br>
+使用sklearn做单机特征工程
+>http://www.cnblogs.com/jasonfreak/p/5448385.html
+
+特征选择 (feature_selection)
+>https://www.cnblogs.com/stevenlk/p/6543628.html
+
+机器学习之特征选择
+>https://www.cnblogs.com/nolonely/p/6435083.html
+
 20180428:<br>
 SciHub桌面版官方发布页面暨Sci-Hub最新可用网址（20180427更新）
-https://zhuanlan.zhihu.com/p/31809890
+>https://zhuanlan.zhihu.com/p/31809890
 
 
 
