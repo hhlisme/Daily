@@ -11,6 +11,15 @@
 <br>
 <br>
 
+20180430:<br>
+产品经理如何进行竞品分析？
+>https://www.zhihu.com/question/23601989/answer/376642573
+
+生成对抗网络（GAN）
+>https://zhuanlan.zhihu.com/p/34287744
+
+
+
 
 20180429:<br>
 使用sklearn做单机特征工程
