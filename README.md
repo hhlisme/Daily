@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20180501:<br>
+面试笔试整理3：深度学习机器学习面试问题准备（必会）
+>https://blog.csdn.net/woaidapaopao/article/details/77806273
+
+
+
 20180430:<br>
 产品经理如何进行竞品分析？
 >https://www.zhihu.com/question/23601989/answer/376642573
