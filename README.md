@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20180502:<br>
+如何写一篇科技论文
+>https://zhuanlan.zhihu.com/p/34761704
+
+
+
 20180501:<br>
 面试笔试整理3：深度学习机器学习面试问题准备（必会）
 >https://blog.csdn.net/woaidapaopao/article/details/77806273
