@@ -11,6 +11,20 @@
 <br>
 <br>
 
+20180503:<br>
+你的论文能否中顶会？这篇分析同行评审结果的论文可帮助你
+>https://zhuanlan.zhihu.com/p/36324468
+
+拨开深度学习的迷雾：训练一个性能优秀的深度模型
+>https://zhuanlan.zhihu.com/p/36347673
+
+2018腾讯广告算法大赛FFM baseline 0.731
+>https://zhuanlan.zhihu.com/p/36302396
+
+
+
+
+
 20180502:<br>
 如何写一篇科技论文
 >https://zhuanlan.zhihu.com/p/34761704
