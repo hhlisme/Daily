@@ -12,6 +12,11 @@
 <br>
 
 
+20180505:<br>
+机器学习中如何融合多种特征或分类方法？（微调的回答）
+>https://www.zhihu.com/question/24598447/answer/383717513
+
+
 20180504:<br>
 sklearn入门系列三：数据预处理、模型评估、模型融合（主讲人BRYAN）
 >https://tianchi.aliyun.com/forum/videoStream.html?spm=5176.11409386.0.0.328b311f647pfD&postsId=4962#postsId=4962
