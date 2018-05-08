@@ -12,6 +12,11 @@
 <br>
 
 
+20180508:<br>
+kaggle Talking Data 广告欺诈检测竞赛 top 1%方案分享
+>https://zhuanlan.zhihu.com/p/36580283
+
+
 20180507:<br>
 面试必备 | 排序算法的Python实现
 >https://zhuanlan.zhihu.com/p/36419582
