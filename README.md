@@ -12,6 +12,12 @@
 <br>
 
 
+
+20180509:<br>
+「融合」机器学习模型：一种提升预测能力的方法
+>https://zhuanlan.zhihu.com/p/33589222
+
+
 20180508:<br>
 kaggle Talking Data 广告欺诈检测竞赛 top 1%方案分享
 >https://zhuanlan.zhihu.com/p/36580283
