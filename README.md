@@ -12,6 +12,10 @@
 <br>
 
 
+20180510:<br>
+Sklearn 与 TensorFlow 机器学习实用指南（书）
+>https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF/tree/dev/docs
+
 
 20180509:<br>
 「融合」机器学习模型：一种提升预测能力的方法
