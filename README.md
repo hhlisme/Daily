@@ -12,6 +12,18 @@
 <br>
 
 
+20180511:<br>
+十面阿里，七面头条，六个Offer，春招结束
+>https://zhuanlan.zhihu.com/p/36636356
+
+如何通过梯度检验帮助实现反向传播
+>https://zhuanlan.zhihu.com/p/36648831
+
+用户画像之标签聚类
+>https://zhuanlan.zhihu.com/p/29002395
+
+
+
 20180510:<br>
 Sklearn 与 TensorFlow 机器学习实用指南（书）
 >https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF/tree/dev/docs
