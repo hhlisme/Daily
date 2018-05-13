@@ -12,6 +12,12 @@
 <br>
 
 
+20180513:<br>
+Kaggle冠军冲顶经验分享：怎样11步搞定机器学习竞赛？
+>https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247498296&idx=6&sn=a2e6d0e539299eee2891a93f4c97b13c
+
+
+
 20180512:<br>
 2018春季校园招聘笔经面经合集：数据分析岗
 >https://zhuanlan.zhihu.com/p/36689662
