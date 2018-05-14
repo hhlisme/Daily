@@ -12,6 +12,11 @@
 <br>
 
 
+20180514:<br>
+Kaggle 大神 Eureka 的高手进阶之路
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670135&idx=1&sn=8b5fe7b489772bbf5575b4d94b7be08d
+
+
 20180513:<br>
 Kaggle冠军冲顶经验分享：怎样11步搞定机器学习竞赛？
 >https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247498296&idx=6&sn=a2e6d0e539299eee2891a93f4c97b13c
