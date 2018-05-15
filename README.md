@@ -12,6 +12,15 @@
 <br>
 
 
+20180515:<br>
+[天池阿里妈妈搜索广告转化预测]参赛分享|附R代码
+>https://zhuanlan.zhihu.com/p/36784736
+
+【天池-算法入门】sklearn入门系列三：数据预处理、模型评估、模型融合
+>https://tianchi.aliyun.com/forum/videoStream.html?spm=5176.11409386.0.0.328b311f647pfD&postsId=4962#postsId=4962
+
+
+
 20180514:<br>
 Kaggle 大神 Eureka 的高手进阶之路
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670135&idx=1&sn=8b5fe7b489772bbf5575b4d94b7be08d
