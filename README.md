@@ -12,6 +12,19 @@
 <br>
 
 
+
+
+20180516:<br>
+Must Know！ 数据科学家们必须知道的 5 种聚类算法
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670292&idx=1&sn=2bfd99e74b6e4f656ea6f84a47a51ae7
+
+如何构建商品定价模型？Mercari Price Suggestion Challenge 最佳方案出炉
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670353&idx=1&sn=539b46f43496b8f9cdb05dd04b88d37c
+
+Kaggle 商品销量预测季军方案出炉，应对时间序列问题有何妙招
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670404&idx=1&sn=f751b8835f4e37173551bfd65b43d193
+
+
 20180515:<br>
 [天池阿里妈妈搜索广告转化预测]参赛分享|附R代码
 >https://zhuanlan.zhihu.com/p/36784736
