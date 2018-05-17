@@ -12,6 +12,20 @@
 <br>
 
 
+20180517:<br>
+Kaggle 恶意评论(toxic comment classification)分类 top 1 %方案
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670619&idx=1&sn=ea66bc6e42a1ce299306f72df88a0bfb
+
+kaggle | talkingdata广告反欺诈 top 4% 总结
+>https://zhuanlan.zhihu.com/p/36945368
+
+机器学习小白看过来，带你全面了解分类器评价指标
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670816&idx=1&sn=b5effa31f9c45d2df0eb2d5f7a4be0a5
+
+理解梯度下降法
+>https://zhuanlan.zhihu.com/p/36902908
+
+
 
 
 20180516:<br>
