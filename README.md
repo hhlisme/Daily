@@ -12,6 +12,11 @@
 <br>
 
 
+20180518:<br>
+为什么做机器学习的很少使用假设检验？（微调的回答）
+>https://www.zhihu.com/question/55420602/answer/394577531
+
+
 20180517:<br>
 Kaggle 恶意评论(toxic comment classification)分类 top 1 %方案
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650670619&idx=1&sn=ea66bc6e42a1ce299306f72df88a0bfb
