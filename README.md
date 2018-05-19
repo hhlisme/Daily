@@ -12,6 +12,11 @@
 <br>
 
 
+20180519:<br>
+一文带你理解Q-Learning的搜索策略
+>https://zhuanlan.zhihu.com/p/37048004
+
+
 20180518:<br>
 为什么做机器学习的很少使用假设检验？（微调的回答）
 >https://www.zhihu.com/question/55420602/answer/394577531
