@@ -12,6 +12,11 @@
 <br>
 
 
+20180520:<br>
+常用机器学习常用算法优点及缺点总结
+>https://zhuanlan.zhihu.com/p/36928215
+
+
 20180519:<br>
 一文带你理解Q-Learning的搜索策略
 >https://zhuanlan.zhihu.com/p/37048004
