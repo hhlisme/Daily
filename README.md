@@ -13,6 +13,11 @@
 
 
 
+20180522:<br>
+马尔可夫链蒙特卡罗算法（MCMC）及python实现
+>https://zhuanlan.zhihu.com/p/37121528
+
+
 20180521:<br>
 循环神经网络综述 -语音识别与自然语言处理的利器（上篇）
 >https://zhuanlan.zhihu.com/p/37036777
