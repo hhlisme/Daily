@@ -13,6 +13,14 @@
 
 
 
+20180523:<br>
+一文简述多种无监督聚类算法的Python实现
+>https://zhuanlan.zhihu.com/p/37152132
+
+推荐系统遇上深度学习(十)--GBDT+LR融合方案实战
+>https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247483933&idx=1&sn=514472ac10955647fdead331275e4083
+
+
 20180522:<br>
 马尔可夫链蒙特卡罗算法（MCMC）及python实现
 >https://zhuanlan.zhihu.com/p/37121528
