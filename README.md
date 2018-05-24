@@ -12,6 +12,14 @@
 <br>
 
 
+20180524:<br>
+兜哥出品 <一本开源的NLP入门书籍>
+>https://github.com/duoergun0729/nlp
+
+小姐姐的游戏运营面经分享：腾讯+阿里
+>https://zhuanlan.zhihu.com/p/37142126
+
+
 
 20180523:<br>
 一文简述多种无监督聚类算法的Python实现
