@@ -12,6 +12,14 @@
 <br>
 
 
+20180525:<br>
+你想要的Python面试都在这里了【315+道题】
+>https://zhuanlan.zhihu.com/p/37215216
+
+Python进行微信公众号开发
+>https://zhuanlan.zhihu.com/p/37229184
+
+
 20180524:<br>
 兜哥出品 <一本开源的NLP入门书籍>
 >https://github.com/duoergun0729/nlp
