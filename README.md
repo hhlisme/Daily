@@ -12,6 +12,12 @@
 <br>
 
 
+20180526:<br>
+非线性特征提取和模型堆叠
+>https://zhuanlan.zhihu.com/p/37313922
+
+
+
 20180525:<br>
 你想要的Python面试都在这里了【315+道题】
 >https://zhuanlan.zhihu.com/p/37215216
