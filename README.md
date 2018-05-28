@@ -12,6 +12,13 @@
 <br>
 
 
+
+20180528:<br>
+深度 | 蚂蚁金服DASFAA论文带你深入了解GBDT模型
+>https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247484910&idx=1&sn=f517eb0226e3f75a52497fd7682a2d1a
+
+
+
 20180527:<br>
 一人署名！清华特奖得主、姚班本科生乔明达ICML 2018论文提出协作学习的鲁棒性方法
 >https://zhuanlan.zhihu.com/p/37351944
