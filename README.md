@@ -12,6 +12,12 @@
 <br>
 
 
+20180530:<br>
+进化计算在深度学习中的应用 | 附多篇论文解读
+>https://zhuanlan.zhihu.com/p/37493469
+
+
+
 20180529:<br>
 你“听”过这些经典排序算法吗？
 >https://zhuanlan.zhihu.com/p/37430943
