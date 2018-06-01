@@ -12,6 +12,16 @@
 <br>
 
 
+20180601:<br>
+CVPR 2018：阿里提出新零样本学习方法，有效解决偏置问题
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247488722&idx=1&sn=78ff581bd26c28f2721688bee9c0a39b
+
+仅使用NumPy完成卷积神经网络CNN的搭建（附Python代码）
+>https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658357398&idx=1&sn=1c4fe04f915cb14fb222563469f1b8ff
+
+
+
+
 20180531:<br>
 如何靠数据分析“上位”？——一位银行业务分析专家的实践
 >https://zhuanlan.zhihu.com/p/37483791
