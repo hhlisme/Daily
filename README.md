@@ -12,6 +12,14 @@
 <br>
 
 
+20180602:<br>
+Ubuntu16.04+Ananconda3+CUDA+CUDNN+Tensorflow-gpu配置教程
+>https://zhuanlan.zhihu.com/p/37569310
+
+CVPR 2018 | 旷视科技人体姿态估计冠军论文——级联金字塔网络CPN
+>https://zhuanlan.zhihu.com/p/37582402
+
+
 20180601:<br>
 CVPR 2018：阿里提出新零样本学习方法，有效解决偏置问题
 >https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247488722&idx=1&sn=78ff581bd26c28f2721688bee9c0a39b
