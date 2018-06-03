@@ -11,6 +11,10 @@
 <br>
 <br>
 
+20180603:<br>
+走近流行强化学习算法：最优Q-Learning
+>https://zhuanlan.zhihu.com/p/37620639
+
 
 20180602:<br>
 Ubuntu16.04+Ananconda3+CUDA+CUDNN+Tensorflow-gpu配置教程
