@@ -11,6 +11,15 @@
 <br>
 <br>
 
+
+20180604:<br>
+CVPR 2018 | 牛津大学&Emotech首次严谨评估语义分割模型对对抗攻击的鲁棒性
+>https://zhuanlan.zhihu.com/p/37662586
+
+机器学习之环境配置（1）—win10/ubuntu18.04双系统+CUDA9.0+CUDNN7.0.5+tensorflow1.8
+>https://zhuanlan.zhihu.com/p/37651456
+
+
 20180603:<br>
 走近流行强化学习算法：最优Q-Learning
 >https://zhuanlan.zhihu.com/p/37620639
