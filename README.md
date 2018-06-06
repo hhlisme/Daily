@@ -12,6 +12,15 @@
 <br>
 
 
+
+20180606:<br>
+DenseNet：比ResNet更优的CNN模型
+>https://zhuanlan.zhihu.com/p/37189203
+
+16岁高中生夺冠Kaggle地标检索挑战赛！而且竟然是Kaggle老兵
+>https://zhuanlan.zhihu.com/p/37522227
+
+
 20180605:<br>
 深度森林第三弹：周志华组提出可做表征学习的多层梯度提升决策树
 >https://zhuanlan.zhihu.com/p/37727525?group_id=987401007302787072
