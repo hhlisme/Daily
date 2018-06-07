@@ -11,6 +11,13 @@
 <br>
 <br>
 
+20180607:<br>
+说说表示学习和mGBDT（multi-layered GBDT）
+>https://zhuanlan.zhihu.com/p/37712433
+
+推荐系统遇上深度学习(四)--多值离散特征的embedding解决方案
+>https://zhuanlan.zhihu.com/p/37522179
+
 
 
 20180606:<br>
