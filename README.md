@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20180608:<br>
+常用测试集带来过拟合？你真的能控制自己不根据测试集调参吗
+>https://zhuanlan.zhihu.com/p/37799067
+
+
+
 20180607:<br>
 说说表示学习和mGBDT（multi-layered GBDT）
 >https://zhuanlan.zhihu.com/p/37712433
