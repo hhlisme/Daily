@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20180609:<br>
+一文读懂如何用LSA、PSLA、LDA和lda2vec进行主题建模
+>https://zhuanlan.zhihu.com/p/37873878
+
 20180608:<br>
 常用测试集带来过拟合？你真的能控制自己不根据测试集调参吗
 >https://zhuanlan.zhihu.com/p/37799067
