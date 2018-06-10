@@ -11,6 +11,10 @@
 <br>
 <br>
 
+20180610:<br>
+深度学习模型的简单优化技巧
+>https://zhuanlan.zhihu.com/p/37918855
+
 
 20180609:<br>
 一文读懂如何用LSA、PSLA、LDA和lda2vec进行主题建模
