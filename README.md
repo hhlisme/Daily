@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20180611:<br>
+用人工蜂群算法求解k-分区聚类问题
+>https://zhuanlan.zhihu.com/p/37960107
+
+
+
 20180610:<br>
 深度学习模型的简单优化技巧
 >https://zhuanlan.zhihu.com/p/37918855
