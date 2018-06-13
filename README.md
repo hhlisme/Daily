@@ -11,6 +11,10 @@
 <br>
 <br>
 
+20180613:<br>
+模型评估——定量分析预测的质量
+>https://blog.csdn.net/hustqb/article/details/77922031
+
 
 20180612:<br>
 对抗攻击基础知识
