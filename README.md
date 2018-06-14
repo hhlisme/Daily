@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20180614:<br>
+推荐系统遇上深度学习(五)--Deep&Cross Network模型理论和实践
+>https://zhuanlan.zhihu.com/p/37522234
+
 20180613:<br>
 模型评估——定量分析预测的质量
 >https://blog.csdn.net/hustqb/article/details/77922031
