@@ -12,6 +12,14 @@
 <br>
 
 
+20180615:<br>
+Python爬虫基础练习(十) 验证码爬取+识别
+>https://zhuanlan.zhihu.com/p/38057424
+
+数据挖掘中常见的『异常检测』算法有哪些？
+>https://www.zhihu.com/question/280696035/answer/417665007
+
+
 20180614:<br>
 推荐系统遇上深度学习(五)--Deep&Cross Network模型理论和实践
 >https://zhuanlan.zhihu.com/p/37522234
