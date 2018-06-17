@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180617:<br>
+文本检测之PixelLink
+>https://zhuanlan.zhihu.com/p/38171172
+
+
 20180616:<br>
 粒子群优化算法(PSO)之基于离散化的特征选择(FS)（三）
 >https://zhuanlan.zhihu.com/p/37139588
