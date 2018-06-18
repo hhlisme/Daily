@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180618:<br>
+2018IJCAI-阿里妈妈广告搜索转化预测大赛/腾讯广告算法大赛总结
+>https://zhuanlan.zhihu.com/p/38202468
+
+
 20180617:<br>
 文本检测之PixelLink
 >https://zhuanlan.zhihu.com/p/38171172
