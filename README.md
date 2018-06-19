@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+
+20180619:<br>
+推荐系统遇上深度学习(六)--PNN模型理论和实践
+>https://zhuanlan.zhihu.com/p/37522266
+
+
 20180618:<br>
 2018IJCAI-阿里妈妈广告搜索转化预测大赛/腾讯广告算法大赛总结
 >https://zhuanlan.zhihu.com/p/38202468
