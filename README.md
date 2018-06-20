@@ -12,8 +12,12 @@
 <br>
 
 
+20180620:<br>
+TCRP风控管理师知识点：信贷&评分卡模型&授信
+https://zhuanlan.zhihu.com/p/38273688
 
-20180619:<br>
+
+>20180619:<br>
 推荐系统遇上深度学习(六)--PNN模型理论和实践
 >https://zhuanlan.zhihu.com/p/37522266
 
