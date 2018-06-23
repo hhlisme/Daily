@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180623:<br>
+Kaggle竞赛方案分享：如何分辨杂草和植物幼苗
+>https://zhuanlan.zhihu.com/p/38359300
+
+
 20180622:<br>
 Feature Tools：可自动构造机器学习特征的Python库
 >https://zhuanlan.zhihu.com/p/38349856
