@@ -11,6 +11,15 @@
 <br>
 <br>
 
+20180624:<br>
+用Python实现模拟登录正方教务系统抢课
+>https://zhuanlan.zhihu.com/p/38057708
+
+一文带你了解Python集合与基本的集合运算
+>https://zhuanlan.zhihu.com/p/38442300
+
+
+
 20180623:<br>
 Kaggle竞赛方案分享：如何分辨杂草和植物幼苗
 >https://zhuanlan.zhihu.com/p/38359300
