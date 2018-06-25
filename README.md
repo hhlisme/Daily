@@ -11,6 +11,15 @@
 <br>
 <br>
 
+20180625:<br>
+机器学习论文+代码大全，这个网站请收藏好（http://www.gitxiv.com/）
+>https://zhuanlan.zhihu.com/p/38468141
+
+2018腾讯广告算法大赛总结（Rank6）-模型篇
+>https://zhuanlan.zhihu.com/p/38443751
+
+
+
 20180624:<br>
 用Python实现模拟登录正方教务系统抢课
 >https://zhuanlan.zhihu.com/p/38057708
