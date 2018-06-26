@@ -11,6 +11,16 @@
 <br>
 <br>
 
+
+20180626:<br>
+Meta Learnjng：遗传算法与深度学习的火花（附github代码）
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247485732&idx=1&sn=902207ddfe145ab1a1b1900d8512b819
+
+推荐系统遇上深度学习(十八)--探秘阿里之深度兴趣网络(DIN)浅析及实现
+>https://mp.weixin.qq.com/s?__biz=MzI1MzY0MzE4Mg==&mid=2247484002&idx=1&sn=e88a5eeb1ead6f1650dbe1cbe5c1fd0f
+
+
+
 20180625:<br>
 机器学习论文+代码大全，这个网站请收藏好（http://www.gitxiv.com/）
 >https://zhuanlan.zhihu.com/p/38468141
