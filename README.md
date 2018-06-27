@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180627:<br>
+【重磅】基于深度学习的目标检测算法综述
+>https://zhuanlan.zhihu.com/p/36088972
+
+
 
 20180626:<br>
 Meta Learnjng：遗传算法与深度学习的火花（附github代码）
