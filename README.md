@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+
+20180628:<br>
+推荐系统遇上深度学习(九)--评价指标AUC原理及实践
+>https://zhuanlan.zhihu.com/p/37522326
+
+
 20180627:<br>
 【重磅】基于深度学习的目标检测算法综述
 >https://zhuanlan.zhihu.com/p/36088972
