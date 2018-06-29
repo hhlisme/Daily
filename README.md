@@ -13,6 +13,16 @@
 
 
 
+20180629:<br>
+【AI in 美团】深度学习在文本领域的应用
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651748157&idx=2&sn=1d5431961d4db29682b57daf169e3a81
+
+【AI in 美团】深度学习在OCR中的应用
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651748259&idx=2&sn=2e67dea28376f04dabcb6b5dd787a6e7
+
+
+
+
 20180628:<br>
 推荐系统遇上深度学习(九)--评价指标AUC原理及实践
 >https://zhuanlan.zhihu.com/p/37522326
