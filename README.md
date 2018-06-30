@@ -12,6 +12,11 @@
 <br>
 
 
+20180630:<br>
+attention模型方法综述
+>https://zhuanlan.zhihu.com/p/37835894
+
+
 
 20180629:<br>
 【AI in 美团】深度学习在文本领域的应用
