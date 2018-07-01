@@ -12,6 +12,11 @@
 <br>
 
 
+20180701:<br>
+机器学习算法面试小结
+>https://zhuanlan.zhihu.com/p/29677765
+
+
 20180630:<br>
 attention模型方法综述
 >https://zhuanlan.zhihu.com/p/37835894
