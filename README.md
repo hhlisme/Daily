@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180703:<br>
+当前训练神经网络最快的方式：AdamW优化算法+超级收敛
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650744672&idx=1&sn=969f9f655b6fa97baa79db079ec8eb18
+
+
+
 20180702:<br>
 自然语言十项全能：转化为问答的多任务学习
 >https://zhuanlan.zhihu.com/p/38467146
