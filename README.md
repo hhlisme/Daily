@@ -12,6 +12,15 @@
 <br>
 
 
+20180704:<br>
+如何在第一次天池比赛中进入Top 5%（一）来自[字节]
+>https://zhuanlan.zhihu.com/p/23845169
+
+如何在 Kaggle 首战中进入前 10% 来自[Wille]
+>https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/
+
+
+
 20180703:<br>
 当前训练神经网络最快的方式：AdamW优化算法+超级收敛
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650744672&idx=1&sn=969f9f655b6fa97baa79db079ec8eb18
