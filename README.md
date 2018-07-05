@@ -12,6 +12,14 @@
 <br>
 
 
+20180705:<br>
+机器学习算法地图
+>https://zhuanlan.zhihu.com/p/39020459
+
+【HFT系列】基于机器学习的动态高频限价订单簿框架（Tick数据）
+>https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653288278&idx=1&sn=73c6749fa89384391031c78a55768681
+
+
 20180704:<br>
 如何在第一次天池比赛中进入Top 5%（一）来自[字节]
 >https://zhuanlan.zhihu.com/p/23845169
