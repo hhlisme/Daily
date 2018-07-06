@@ -12,6 +12,14 @@
 <br>
 
 
+20180706:<br>
+CNN也能用于NLP任务，一文简述文本分类任务的7个模型
+>https://zhuanlan.zhihu.com/p/39054002
+
+2018腾讯社交算法大赛 Tencent2018_Lookalike_Rank7th
+>https://github.com/guoday/Tencent2018_Lookalike_Rank7th
+
+
 20180705:<br>
 机器学习算法地图
 >https://zhuanlan.zhihu.com/p/39020459
