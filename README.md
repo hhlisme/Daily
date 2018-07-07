@@ -12,6 +12,12 @@
 <br>
 
 
+
+20180707:<br>
+如何保证算法公正性？ICML 2018两篇获奖论文解读
+>https://zhuanlan.zhihu.com/p/39197413
+
+
 20180706:<br>
 CNN也能用于NLP任务，一文简述文本分类任务的7个模型
 >https://zhuanlan.zhihu.com/p/39054002
