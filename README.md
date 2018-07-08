@@ -13,6 +13,11 @@
 
 
 
+20180708:<br>
+入门Python神经机器翻译，这是一篇非常精简的实战指南
+>https://zhuanlan.zhihu.com/p/39265628
+
+
 20180707:<br>
 如何保证算法公正性？ICML 2018两篇获奖论文解读
 >https://zhuanlan.zhihu.com/p/39197413
