@@ -13,6 +13,15 @@
 
 
 
+
+20180709:<br>
+NLP领域的ImageNet时代：词嵌入已死，语言模型当立
+>https://zhuanlan.zhihu.com/p/39326211
+
+深度学习&CV方向｜腾讯优图、依图、百度面经分享
+>https://zhuanlan.zhihu.com/p/39334253
+
+
 20180708:<br>
 入门Python神经机器翻译，这是一篇非常精简的实战指南
 >https://zhuanlan.zhihu.com/p/39265628
