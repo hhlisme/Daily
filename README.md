@@ -12,6 +12,13 @@
 <br>
 
 
+20180710:<br>
+资源|Kaggle数据科学项目索引表，10大类93项，更新中
+>https://zhuanlan.zhihu.com/p/39422753
+
+下一个GAN？OpenAI提出可逆生成模型Glow
+>https://zhuanlan.zhihu.com/p/39407274
+
 
 
 20180709:<br>
