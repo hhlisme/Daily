@@ -12,6 +12,16 @@
 <br>
 
 
+20180711:<br>
+时间序列异常点检测算法
+>https://zhuanlan.zhihu.com/p/39453139
+
+生成式对抗网络模型综述
+>https://zhuanlan.zhihu.com/p/39398823
+
+
+
+
 20180710:<br>
 资源|Kaggle数据科学项目索引表，10大类93项，更新中
 >https://zhuanlan.zhihu.com/p/39422753
