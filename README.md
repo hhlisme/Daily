@@ -11,6 +11,17 @@
 <br>
 <br>
 
+
+
+20180713:<br>
+换脸效果媲美GAN！一文解析OpenAI流生成模型Glow
+>https://zhuanlan.zhihu.com/p/39676312
+
+[阿里]独家 | 一文读懂复杂网络（应用、模型和研究历史）
+>https://zhuanlan.zhihu.com/p/35705787
+
+
+
 20180712:<br>
 基于django开发的一个轻量级办公平台
 >https://zhuanlan.zhihu.com/p/38340557
