@@ -11,6 +11,14 @@
 <br>
 <br>
 
+20180714:<br>
+AI与区块链结合如果结合？这里有几个案例与一点方向思考
+>https://zhuanlan.zhihu.com/p/39714341
+
+特征金字塔网络FPN
+>https://zhuanlan.zhihu.com/p/39185919
+
+
 
 
 20180713:<br>
