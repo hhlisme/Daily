@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180715:
+Kaggle竞赛-房价预测（House Prices）小结(作者：Npein小林）
+https://zhuanlan.zhihu.com/p/39429689
+
+
+
 20180714:<br>
 AI与区块链结合如果结合？这里有几个案例与一点方向思考
 >https://zhuanlan.zhihu.com/p/39714341
