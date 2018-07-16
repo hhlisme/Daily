@@ -12,9 +12,13 @@
 <br>
 
 
-20180715:
+20180716:<br>
+教程 | 比Python快100倍，利用spaCy和Cython实现高速NLP项目
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650745273&idx=2&sn=bb811e34549e917a7734485e782a1309
+
+20180715:<br>
 Kaggle竞赛-房价预测（House Prices）小结(作者：Npein小林）
-https://zhuanlan.zhihu.com/p/39429689
+>https://zhuanlan.zhihu.com/p/39429689
 
 
 
