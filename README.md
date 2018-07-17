@@ -12,6 +12,15 @@
 <br>
 
 
+20180717:<br>
+Yann LeCun：学习世界模型，通向AI的下一步
+>https://zhuanlan.zhihu.com/p/39928037
+
+从FM推演各深度CTR预估模型(附代码)
+>https://blog.csdn.net/longxinchen_ml/article/details/81031736
+
+
+
 20180716:<br>
 教程 | 比Python快100倍，利用spaCy和Cython实现高速NLP项目
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650745273&idx=2&sn=bb811e34549e917a7734485e782a1309
