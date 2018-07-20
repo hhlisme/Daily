@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20180720:<br>
+推荐系统遇上深度学习(十六)--详解推荐系统中的常用评测指标
+>https://zhuanlan.zhihu.com/p/38875570
+
 20180719:<br>
 ICML 2018 | 模型层面的对偶学习
 >https://zhuanlan.zhihu.com/p/40115270
