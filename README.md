@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180722:<br>
+深度学习在CTR预估中的应用
+>https://zhuanlan.zhihu.com/p/35484389
+
+
+
 20180721:<br>
 一文读懂机器学习大杀器XGBoost原理
 >https://zhuanlan.zhihu.com/p/40129825
