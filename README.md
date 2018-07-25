@@ -11,6 +11,17 @@
 <br>
 <br>
 
+20180725:<br>
+2018腾讯广告算法大赛总结/0.772229/Rank11
+>https://zhuanlan.zhihu.com/p/38034501
+
+特征选择
+>https://zhuanlan.zhihu.com/p/32749489
+
+20180724:<br>
+数据挖掘和机器学习的面试问题
+>https://zhuanlan.zhihu.com/p/40559938
+
 20180723:<br>
 自己动手打造深度学习服务器
 >https://zhuanlan.zhihu.com/p/40365673
