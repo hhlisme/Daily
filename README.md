@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180726:<br>
+提供免费计算资源，开发平台AIStudio零门槛实现AI能力
+>https://zhuanlan.zhihu.com/p/40643178
+
+
 20180725:<br>
 2018腾讯广告算法大赛总结/0.772229/Rank11
 >https://zhuanlan.zhihu.com/p/38034501
