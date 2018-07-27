@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180727:<br>
+基于 Keras 用深度学习预测时间序列
+>https://www.cnblogs.com/xuruilong100/p/8413683.html
+
+
 20180726:<br>
 提供免费计算资源，开发平台AIStudio零门槛实现AI能力
 >https://zhuanlan.zhihu.com/p/40643178
