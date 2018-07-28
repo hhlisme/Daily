@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180728:<br>
+「干货」计算机视觉视频理解领域的经典方法和最新成果
+>https://www.toutiao.com/a6560486800022831629
+
+
 20180727:<br>
 基于 Keras 用深度学习预测时间序列
 >https://www.cnblogs.com/xuruilong100/p/8413683.html
