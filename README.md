@@ -11,6 +11,18 @@
 <br>
 <br>
 
+
+
+20180729:<br>
+最前沿：Meta Learning前沿进展扫描
+>https://zhuanlan.zhihu.com/p/40600485
+
+第二届腾讯广告算法大赛总结（Rank 9）
+>https://zhuanlan.zhihu.com/p/38499275
+
+
+
+
 20180728:<br>
 「干货」计算机视觉视频理解领域的经典方法和最新成果
 >https://www.toutiao.com/a6560486800022831629
