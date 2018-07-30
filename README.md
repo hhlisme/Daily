@@ -6,10 +6,16 @@
     在这里，我将记录每天自己看到的有收获的文章。比如：机器学习、数据挖掘、数据竞赛、Python进阶及有关数据及建模方面内容。
     在数据科学的道路上，能够慢慢进步和成长！
     如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
-    <br>Keywords: data mining  machine learning  deep learning
+    <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习）
 ----
 <br>
 <br>
+
+
+
+20180730:<br>
+终极指南：构建用于检测汽车损坏的Mask R-CNN模型
+>https://zhuanlan.zhihu.com/p/40896926
 
 
 
