@@ -12,6 +12,10 @@
 <br>
 
 
+20180731:<br>
+阿里音乐流行趋势预测大赛，赛后总结
+>https://www.cnblogs.com/xuancaoyy/p/5822755.html
+
 
 20180730:<br>
 终极指南：构建用于检测汽车损坏的Mask R-CNN模型
