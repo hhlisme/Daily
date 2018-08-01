@@ -12,6 +12,11 @@
 <br>
 
 
+20180801:<br>
+机器之心专访杨强教授：联邦迁移学习与金融领域的AI落地
+>https://zhuanlan.zhihu.com/p/41052548
+
+
 20180731:<br>
 阿里音乐流行趋势预测大赛，赛后总结
 >https://www.cnblogs.com/xuancaoyy/p/5822755.html
