@@ -12,6 +12,11 @@
 <br>
 
 
+20180802:<br>
+CVPR 2018：基于域适应弱监督学习的目标检测
+>https://zhuanlan.zhihu.com/p/41126114
+
+
 20180801:<br>
 机器之心专访杨强教授：联邦迁移学习与金融领域的AI落地
 >https://zhuanlan.zhihu.com/p/41052548
