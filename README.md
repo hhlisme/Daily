@@ -12,6 +12,12 @@
 <br>
 
 
+20180803:<br>
+CTR预估专栏 | Facebook经典模型LR+GBDT理论与实践
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247492002&idx=2&sn=625607e9bc58ff0d8aaa162494f82b64
+
+
+
 20180802:<br>
 CVPR 2018：基于域适应弱监督学习的目标检测
 >https://zhuanlan.zhihu.com/p/41126114
