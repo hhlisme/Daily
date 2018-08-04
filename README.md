@@ -12,6 +12,13 @@
 <br>
 
 
+
+20180804:<br>
+CTR预估算法演进
+>https://zhuanlan.zhihu.com/p/39530235
+
+
+
 20180803:<br>
 CTR预估专栏 | Facebook经典模型LR+GBDT理论与实践
 >https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247492002&idx=2&sn=625607e9bc58ff0d8aaa162494f82b64
