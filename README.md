@@ -12,6 +12,14 @@
 <br>
 
 
+20180806:<br>
+【干货合集】通俗理解kaggle比赛大杀器xgboost
+>https://zhuanlan.zhihu.com/p/41417638
+
+【干货合集】一文读懂特征工程
+>https://zhuanlan.zhihu.com/p/41156662
+
+
 20180805:<br>
 在机器学习的项目中，特征是如何被找出来的？
 >https://www.zhihu.com/question/41659582/answer/434804910
