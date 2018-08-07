@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180807:<br>
+对比学习用 Keras 搭建 CNN RNN 等常用神经网络
+>https://www.jianshu.com/p/9efae7a20493
+
+
 
 20180806:<br>
 【干货合集】通俗理解kaggle比赛大杀器xgboost
