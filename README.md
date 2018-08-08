@@ -11,6 +11,16 @@
 <br>
 <br>
 
+20180808:<br>
+称霸Kaggle的十大深度学习技巧
+>https://zhuanlan.zhihu.com/p/41379279
+
+47页PPT，用户画像架构、指标标签、ETL性能及案例一站通
+>https://zhuanlan.zhihu.com/p/41547953
+
+
+
+
 20180807:<br>
 对比学习用 Keras 搭建 CNN RNN 等常用神经网络
 >https://www.jianshu.com/p/9efae7a20493
