@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20180809:<br>
+推荐系统遇上深度学习(十八)-探秘阿里深度兴趣网络浅析及实现
+>https://zhuanlan.zhihu.com/p/38875771
+
+
+
 20180808:<br>
 称霸Kaggle的十大深度学习技巧
 >https://zhuanlan.zhihu.com/p/41379279
