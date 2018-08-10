@@ -11,6 +11,16 @@
 <br>
 <br>
 
+
+20180810:<br>
+GANs有嘻哈：一次学完10个GANs明星模型（附视频）
+>https://zhuanlan.zhihu.com/p/41722006
+
+《纯干货》2018-2019年国际AI会议最全信息整理分享
+>https://zhuanlan.zhihu.com/p/41695243
+
+
+
 20180809:<br>
 推荐系统遇上深度学习(十八)-探秘阿里深度兴趣网络浅析及实现
 >https://zhuanlan.zhihu.com/p/38875771
