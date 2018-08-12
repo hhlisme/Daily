@@ -11,7 +11,18 @@
 <br>
 <br>
 
-20180811:
+20180812:<br>
+自然语言处理是如何工作的？一步步教你构建 NLP 流水线
+>https://zhuanlan.zhihu.com/p/41850756
+
+
+
+20180811:<br>
+Julia 1.0 正式发布，这是新出炉的一份简单中文教程
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650746902&idx=1&sn=d3f55a745cc0575e888e060da19b46be
+
+
+
 20180810:<br>
 GANs有嘻哈：一次学完10个GANs明星模型（附视频）
 >https://zhuanlan.zhihu.com/p/41722006
