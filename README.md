@@ -11,6 +11,15 @@
 <br>
 <br>
 
+
+20180813:<br>
+入门 | 献给新手的深度学习综述
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650746791&idx=2&sn=6a9c81461f3ac4588e8d5de2d2c1ded9
+
+聊聊FFM在CTR预估中的应用
+>https://mp.weixin.qq.com/s?__biz=MzI0MjU1NTk3NA==&mid=2247484627&idx=1&sn=38bc163934af6002de928689f9abb74e
+
+
 20180812:<br>
 自然语言处理是如何工作的？一步步教你构建 NLP 流水线
 >https://zhuanlan.zhihu.com/p/41850756
