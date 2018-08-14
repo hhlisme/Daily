@@ -12,6 +12,12 @@
 <br>
 
 
+
+20180814:<br>
+算法/NLP/深度学习/机器学习面试笔记
+>https://github.com/imhuay/Interview_Notes-Chinese
+
+
 20180813:<br>
 入门 | 献给新手的深度学习综述
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650746791&idx=2&sn=6a9c81461f3ac4588e8d5de2d2c1ded9
