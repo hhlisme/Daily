@@ -13,6 +13,12 @@
 
 
 
+
+20180815:<br>
+网络表示学习综述：一文理解Network Embedding
+>https://zhuanlan.zhihu.com/p/42022918
+
+
 20180814:<br>
 算法/NLP/深度学习/机器学习面试笔记
 >https://github.com/imhuay/Interview_Notes-Chinese
