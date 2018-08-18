@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20180818:<br>
+纯技术干货|深度学习文本分类在支付宝安全风控上的应用
+>https://zhuanlan.zhihu.com/p/42215024
+
 20180817:<br>
 NLP通用模型诞生？一个模型搞定十大自然语言常见任务
 >https://mp.weixin.qq.com/s?__biz=MzIzNzA4NDk3Nw==&mid=2457736381&idx=1&sn=d8981b0e6ae24e392f392973e146ddc9
