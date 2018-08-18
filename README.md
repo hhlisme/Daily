@@ -11,10 +11,14 @@
 <br>
 <br>
 
-20180817待补充。
+20180817:<br>
+NLP通用模型诞生？一个模型搞定十大自然语言常见任务
+>https://mp.weixin.qq.com/s?__biz=MzIzNzA4NDk3Nw==&mid=2457736381&idx=1&sn=d8981b0e6ae24e392f392973e146ddc9
 
-20180816
 
+20180816:<br>
+美团O2O广告营销中的机器学习技术
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651748603&idx=1&sn=b09362d81941732e7d9c69f309a9e2e2
 
 20180815:<br>
 网络表示学习综述：一文理解Network Embedding
