@@ -11,6 +11,13 @@
 <br>
 <br>
 
+
+20180820:<br>
+2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
+>https://github.com/imhuay/Interview_Notes-Chinese
+
+
+
 20180819:<br>
 44页PPT详解R语言、时间序列与机器学习
 >https://zhuanlan.zhihu.com/p/42285498	
