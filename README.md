@@ -12,6 +12,11 @@
 <br>
 
 
+20180821:<br>
+2018腾讯广告算法大赛第三名开源代码 Tencent 2018 Advertisement Competition NO.3
+>https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
+
+
 20180820:<br>
 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记
 >https://github.com/imhuay/Interview_Notes-Chinese
