@@ -12,6 +12,15 @@
 <br>
 
 
+20180823:<br>
+吴恩达deeplearning.ai学完总结（来自知乎毛帅）
+>https://zhuanlan.zhihu.com/p/41161643
+
+当前训练神经网络最快的方式：AdamW优化算法+超级收敛
+>https://zhuanlan.zhihu.com/p/38945390
+
+
+
 
 20180822:<br>
 利用层次聚类算法进行基于基站定位数据的商圈分析
