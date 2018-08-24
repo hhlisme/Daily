@@ -12,6 +12,14 @@
 <br>
 
 
+20180824:<br>
+「特征工程」与「表示学习」
+>https://zhuanlan.zhihu.com/p/41521695
+
+比RNN快136倍！上交大提出SRNN，能做并行计算
+>https://zhuanlan.zhihu.com/p/42242327
+
+
 20180823:<br>
 吴恩达deeplearning.ai学完总结（来自知乎毛帅）
 >https://zhuanlan.zhihu.com/p/41161643
