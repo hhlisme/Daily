@@ -12,6 +12,11 @@
 <br>
 
 
+20180825:<br>
+腾讯广告算法赛Top4—SDD模型1—FM_keras
+>https://blog.csdn.net/ML_SDD/article/details/81702142
+
+
 20180824:<br>
 「特征工程」与「表示学习」
 >https://zhuanlan.zhihu.com/p/41521695
