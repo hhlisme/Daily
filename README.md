@@ -11,6 +11,15 @@
 <br>
 <br>
 
+20180827:<br>
+计算：XGBoost背后的数学原理
+>https://zhuanlan.zhihu.com/p/42489958
+
+20180826:<br>
+无法进入的领域: 树模型的失落
+>https://mp.weixin.qq.com/s?__biz=MzU2NjY2NzkzMA==&mid=2247483669&idx=1&sn=716dfb17ec29546ba3c53135918a9616
+
+
 
 20180825:<br>
 腾讯广告算法赛Top4—SDD模型1—FM_keras
