@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180828:<br>
+算法/NLP/深度学习/机器学习面试笔记
+>https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+
+
 20180827:<br>
 计算：XGBoost背后的数学原理
 >https://zhuanlan.zhihu.com/p/42489958
