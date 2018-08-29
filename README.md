@@ -11,6 +11,17 @@
 <br>
 <br>
 
+
+
+
+
+20180829:<br>
+机器学习实战|GBDT Xgboost LightGBM对比
+>https://zhuanlan.zhihu.com/p/43181861
+
+
+
+
 20180828:<br>
 算法/NLP/深度学习/机器学习面试笔记
 >https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
