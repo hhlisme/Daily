@@ -10,7 +10,7 @@
 ----
 <br>
 <br>
-
+20180831:
 
 20180830:<br>
 KDD Cup 2018 冠军「 first floor to eat latiao」：为什么取这个队名？因为大家都爱辣条
