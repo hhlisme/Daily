@@ -10,7 +10,18 @@
 ----
 <br>
 <br>
-20180831:
+
+
+20180901:<br>
+CCKS2018最佳论文：南京大学提出DSKG—知识图谱补全
+>https://zhuanlan.zhihu.com/p/42887475
+
+
+
+
+20180831:<br>
+十大深度学习热门论文（2018年版）
+>https://zhuanlan.zhihu.com/p/42509495
 
 20180830:<br>
 KDD Cup 2018 冠军「 first floor to eat latiao」：为什么取这个队名？因为大家都爱辣条
