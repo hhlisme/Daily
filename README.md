@@ -12,6 +12,12 @@
 <br>
 
 
+20180902:<br>
+深度学习中的Normalization模型
+>https://zhuanlan.zhihu.com/p/43200897
+
+
+
 20180901:<br>
 CCKS2018最佳论文：南京大学提出DSKG—知识图谱补全
 >https://zhuanlan.zhihu.com/p/42887475
