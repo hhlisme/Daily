@@ -12,6 +12,11 @@
 <br>
 
 
+20180903:<br>
+首战拿银总结--无套路的谈一谈kaggle比赛
+>https://zhuanlan.zhihu.com/p/43472504
+
+
 20180902:<br>
 深度学习中的Normalization模型
 >https://zhuanlan.zhihu.com/p/43200897
