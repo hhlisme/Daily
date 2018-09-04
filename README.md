@@ -12,6 +12,15 @@
 <br>
 
 
+
+20180904:<br>
+12种降维方法终极指南（含Python代码）
+>https://zhuanlan.zhihu.com/p/43225794
+
+均已拿offer｜19校招阿里腾讯华为美团算法岗面经
+>https://zhuanlan.zhihu.com/p/43638109
+
+
 20180903:<br>
 首战拿银总结--无套路的谈一谈kaggle比赛
 >https://zhuanlan.zhihu.com/p/43472504
