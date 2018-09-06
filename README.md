@@ -12,6 +12,11 @@
 <br>
 
 
+20180906:<br>
+CNN入门实战：我如何把准确率从86% 提高到99%（上）
+>https://zhuanlan.zhihu.com/p/43679939
+
+
 20180905:<br>
 Kaggle前1%经验：ML竞赛中常被忽视的特征工程技术
 >https://zhuanlan.zhihu.com/p/43691981
