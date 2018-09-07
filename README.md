@@ -12,6 +12,14 @@
 <br>
 
 
+20180907:<br>
+【DL笔记8】如果你愿意一层一层剥开CNN的心
+>https://zhuanlan.zhihu.com/p/42904109
+
+深度学习贝叶斯，这是一份密集的6天速成课程（视频与PPT）
+>https://zhuanlan.zhihu.com/p/43973060
+
+
 20180906:<br>
 CNN入门实战：我如何把准确率从86% 提高到99%（上）
 >https://zhuanlan.zhihu.com/p/43679939
