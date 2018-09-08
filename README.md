@@ -12,6 +12,11 @@
 <br>
 
 
+
+20180908:<br>
+ICML2018生成对抗网络论文评述
+>https://zhuanlan.zhihu.com/p/43874842
+
 20180907:<br>
 【DL笔记8】如果你愿意一层一层剥开CNN的心
 >https://zhuanlan.zhihu.com/p/42904109
