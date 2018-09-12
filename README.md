@@ -12,6 +12,17 @@
 <br>
 
 
+20180912:<br>
+CycleGAN原理以及代码全解析
+>https://zhuanlan.zhihu.com/p/37198143
+
+
+20180911:<br>
+用ARIMA构建时间序列模型（附Python 和R代码）
+>https://zhuanlan.zhihu.com/p/43771241
+
+
+
 20180910:<br>
 谷歌带来GAN入门神器：浏览器上运行的可视化工具GAN Lab
 >https://www.toutiao.com/a6599505914636534280
