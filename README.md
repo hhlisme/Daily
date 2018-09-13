@@ -12,6 +12,15 @@
 <br>
 
 
+20180913:<br>
+无需写代码！谷歌推出机器学习模型分析神器，代号What-If
+>https://zhuanlan.zhihu.com/p/44357475
+
+调参工要凉？微软重磅开源AutoML工具包NNI
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247492720&idx=1&sn=e6172b6ae7276845d37118a9ebe34527
+
+
+
 20180912:<br>
 CycleGAN原理以及代码全解析
 >https://zhuanlan.zhihu.com/p/37198143
