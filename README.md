@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20180916:<br>
+CNN入门实战：我如何把准确率从86% 提高到99%（中）
+>https://zhuanlan.zhihu.com/p/44219807
+
+
 20180915:<br>
 R语言之系统聚类（层次）分析之图谱形式完整版
 >https://blog.csdn.net/hhtnan/article/details/79281721
