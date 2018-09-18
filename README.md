@@ -11,6 +11,12 @@
 <br>
 <br>
 
+
+20180918:<br>
+变分自编码器VAE：一步到位的聚类方案
+>https://zhuanlan.zhihu.com/p/44808113
+
+
 20180917:<br>
 200种最佳机器学习教程汇总【史上最全】（阿里云云栖社区）
 >https://zhuanlan.zhihu.com/p/44710585
