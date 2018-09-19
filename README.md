@@ -12,6 +12,13 @@
 <br>
 
 
+20180919:<br>
+23种Pandas核心操作
+>https://zhuanlan.zhihu.com/p/43018099
+
+新手必看：生成对抗网络的初学者入门指导
+>https://zhuanlan.zhihu.com/p/44917088
+
 20180918:<br>
 变分自编码器VAE：一步到位的聚类方案
 >https://zhuanlan.zhihu.com/p/44808113
