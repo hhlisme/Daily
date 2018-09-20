@@ -12,6 +12,11 @@
 <br>
 
 
+20180920:<br>
+【AI in 美团】深度学习在美团搜索广告排序的应用实践
+>https://zhuanlan.zhihu.com/p/37823302
+
+
 20180919:<br>
 23种Pandas核心操作
 >https://zhuanlan.zhihu.com/p/43018099
