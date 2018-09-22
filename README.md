@@ -12,6 +12,11 @@
 <br>
 
 
+20180922:<br>
+MIT韩松团队：AutoML自动模型压缩，全面超越手工调参
+>https://zhuanlan.zhihu.com/p/44581463
+
+
 20180921:<br>
 机器学习与深度学习常见面试题（上）
 >https://zhuanlan.zhihu.com/p/45091568
