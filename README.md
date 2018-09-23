@@ -12,6 +12,18 @@
 <br>
 
 
+20180923:<br>
+CW-RNN 收益率时间序列回归
+>https://zhuanlan.zhihu.com/p/27104240
+
+RNN最大化条件概率参数模型预测时间序列
+>https://zhuanlan.zhihu.com/p/26434409
+
+NeuralGPU卷积与RNN结合超线性计算时间多因子时间序列预测
+>https://zhuanlan.zhihu.com/p/25757053
+
+
+
 20180922:<br>
 MIT韩松团队：AutoML自动模型压缩，全面超越手工调参
 >https://zhuanlan.zhihu.com/p/44581463
