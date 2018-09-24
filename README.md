@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20180924:<br>
+DataCastle-城市治理大数据应用创意方案赛 冠军代码
+>https://github.com/poteman/DataCastle-Urban-governance-competition
+
+
+
 
 20180923:<br>
 CW-RNN 收益率时间序列回归
