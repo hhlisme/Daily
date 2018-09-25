@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20180925:<br>
+Kaggle实战——点击率预估
+>https://blog.csdn.net/chengcheng1394/article/details/78940565
+
 20180924:<br>
 DataCastle-城市治理大数据应用创意方案赛 冠军代码
 >https://github.com/poteman/DataCastle-Urban-governance-competition
