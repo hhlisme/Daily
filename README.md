@@ -12,6 +12,11 @@
 <br>
 
 
+20180926:<br>
+[天池智慧交通预测挑战赛]新手向的时间序列预测解决方案-前Top2%
+>https://blog.csdn.net/ppp8300885/article/details/77934822
+
+
 20180925:<br>
 Kaggle实战——点击率预估
 >https://blog.csdn.net/chengcheng1394/article/details/78940565
