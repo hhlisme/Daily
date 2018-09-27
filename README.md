@@ -12,6 +12,12 @@
 <br>
 
 
+
+20180927:<br>
+<EYD与机器学习>：对抗攻击基础知识（十一）
+>https://zhuanlan.zhihu.com/p/45210478
+
+
 20180926:<br>
 [天池智慧交通预测挑战赛]新手向的时间序列预测解决方案-前Top2%
 >https://blog.csdn.net/ppp8300885/article/details/77934822
