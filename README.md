@@ -13,6 +13,11 @@
 
 
 
+
+20180928:<br>
+模型调优与模型融合(代码应用篇)
+>https://blog.csdn.net/qq_39422642/article/details/78566763
+
 20180927:<br>
 <EYD与机器学习>：对抗攻击基础知识（十一）
 >https://zhuanlan.zhihu.com/p/45210478
