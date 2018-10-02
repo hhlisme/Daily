@@ -13,6 +13,12 @@
 
 
 
+20181002:<br>
+超真实AI假照片，BigGAN
+>https://zhuanlan.zhihu.com/p/45718568
+
+最前沿：用模仿学习来学习增强学习
+>https://zhuanlan.zhihu.com/p/45845001
 
 
 20181001:<br>
