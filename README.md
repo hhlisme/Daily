@@ -12,6 +12,10 @@
 <br>
 
 
+20181003:<br>
+每个Kaggle冠军的获胜法门：揭秘Python中的模型集成
+>https://zhuanlan.zhihu.com/p/32949396
+
 
 20181002:<br>
 超真实AI假照片，BigGAN
