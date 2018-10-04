@@ -12,6 +12,11 @@
 <br>
 
 
+20181004:<br>
+PCA & Autoencoders通俗解析
+>https://zhuanlan.zhihu.com/p/45737420
+
+
 20181003:<br>
 每个Kaggle冠军的获胜法门：揭秘Python中的模型集成
 >https://zhuanlan.zhihu.com/p/32949396
