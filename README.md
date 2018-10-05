@@ -12,6 +12,11 @@
 <br>
 
 
+20181005:<br>
+【学界】第五章：Python代码之模型与Q-Learning
+>https://zhuanlan.zhihu.com/p/46018470
+
+
 20181004:<br>
 PCA & Autoencoders通俗解析
 >https://zhuanlan.zhihu.com/p/45737420
