@@ -12,6 +12,14 @@
 <br>
 
 
+20181006:<br>
+【学界】第六章：Python代码之蚁群算法部分
+>https://zhuanlan.zhihu.com/p/46068608
+
+ECCV2018 如何让RNN神经元拥有基础通用的注意力能力
+>https://zhuanlan.zhihu.com/p/43799786
+
+
 20181005:<br>
 【学界】第五章：Python代码之模型与Q-Learning
 >https://zhuanlan.zhihu.com/p/46018470
