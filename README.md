@@ -12,6 +12,15 @@
 <br>
 
 
+
+20181007:<br>
+【学界】第七章：Python代码之模块整合与主程序（知乎作者：小杨）
+>https://zhuanlan.zhihu.com/p/44357003
+
+kaggle | Machine Learning for Insights Challenge（知乎作者：Young）
+>https://zhuanlan.zhihu.com/p/45898896
+
+
 20181006:<br>
 【学界】第六章：Python代码之蚁群算法部分
 >https://zhuanlan.zhihu.com/p/46068608
