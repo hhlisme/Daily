@@ -13,6 +13,11 @@
 
 
 
+20181008:<br>
+kaggle | talkingdata广告反欺诈 top 4% 总结
+>https://zhuanlan.zhihu.com/p/36945368
+
+
 20181007:<br>
 【学界】第七章：Python代码之模块整合与主程序（知乎作者：小杨）
 >https://zhuanlan.zhihu.com/p/44357003
