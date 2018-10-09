@@ -13,6 +13,11 @@
 
 
 
+20181009:<br>
+从各种注意力机制窥探深度学习在NLP中的神威
+>https://zhuanlan.zhihu.com/p/46260179
+
+
 20181008:<br>
 kaggle | talkingdata广告反欺诈 top 4% 总结
 >https://zhuanlan.zhihu.com/p/36945368
