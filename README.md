@@ -11,6 +11,10 @@
 <br>
 <br>
 
+20181010:<br>
+NIPS 2018 | MIT等提出NS-VQA：结合深度学习与符号推理的视觉问答
+>https://zhuanlan.zhihu.com/p/46392910
+
 
 
 20181009:<br>
