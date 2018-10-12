@@ -11,6 +11,21 @@
 <br>
 <br>
 
+20181012:<br>
+深度学习、机器学习与NLP的前世今生
+>https://zhuanlan.zhihu.com/p/41583326
+
+
+20181011:<br>
+神经网络-标准神经网络（python3）
+>https://zhuanlan.zhihu.com/p/38065189
+
+神经网络-卷积神经网络（python3）
+>https://zhuanlan.zhihu.com/p/38176963
+
+
+
+
 20181010:<br>
 NIPS 2018 | MIT等提出NS-VQA：结合深度学习与符号推理的视觉问答
 >https://zhuanlan.zhihu.com/p/46392910
@@ -46,7 +61,7 @@ ECCV2018 如何让RNN神经元拥有基础通用的注意力能力
 20181005:<br>
 【学界】第五章：Python代码之模型与Q-Learning
 >https://zhuanlan.zhihu.com/p/46018470
-
+神经网络-标准神经网络（python3）
 
 20181004:<br>
 PCA & Autoencoders通俗解析
