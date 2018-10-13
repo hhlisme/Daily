@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20181013:<br>
+构建深度神经网络的一些实战建议-绝对的纯干货
+>https://zhuanlan.zhihu.com/p/46682252
+
+
+
 20181012:<br>
 深度学习、机器学习与NLP的前世今生
 >https://zhuanlan.zhihu.com/p/41583326
