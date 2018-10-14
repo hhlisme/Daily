@@ -11,6 +11,10 @@
 <br>
 <br>
 
+20181014:<br>
+基于深度学习的文字识别（3755个汉字）
+>https://www.cnblogs.com/skyfsm/p/8443107.html
+
 20181013:<br>
 构建深度神经网络的一些实战建议-绝对的纯干货
 >https://zhuanlan.zhihu.com/p/46682252
