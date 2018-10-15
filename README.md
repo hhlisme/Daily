@@ -11,6 +11,16 @@
 <br>
 <br>
 
+
+
+
+
+
+20181015:<br>
+论文笔记：图像数据增强之弹性形变（Elastic Distortions）
+>https://zhuanlan.zhihu.com/p/46833956
+
+
 20181014:<br>
 基于深度学习的文字识别（3755个汉字）
 >https://www.cnblogs.com/skyfsm/p/8443107.html
