@@ -12,7 +12,9 @@
 <br>
 
 
-
+20181016:<br>
+深度学习中的Lipschitz约束：泛化与生成模型
+>https://zhuanlan.zhihu.com/p/46924315
 
 
 
