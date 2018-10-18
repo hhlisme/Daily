@@ -12,6 +12,16 @@
 <br>
 
 
+
+20181018:<br>
+十大经典排序算法（动图演示，收藏好文）
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247489503&idx=1&sn=268936923992183fcefbb30f9698ada6
+
+深度学习中的Normalization模型
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247489568&idx=3&sn=16c7b17f50e3dc8744debc228dc3954b
+
+
+
 20181017:<br>
 经典论文复现：基于特征金字塔网络的人体姿态估计
 >https://zhuanlan.zhihu.com/p/46991726
