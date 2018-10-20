@@ -11,6 +11,12 @@
 <br>
 <br>
 
+
+20181020:<br>
+第二届智慧中国杯精品旅行服务成单预测 第二名比赛方案
+>https://github.com/Bifzivkar/Boutique-Travel-Services-Predict
+
+
 20181019:<br>
 【专家解读】狂破11项记录，谷歌年度最强NLP论文BERT模型到底强在哪里？
 >https://zhuanlan.zhihu.com/p/46880276
