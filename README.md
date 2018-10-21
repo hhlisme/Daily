@@ -12,6 +12,13 @@
 <br>
 
 
+
+20181021:<br>
+NLP应该如何学、如何教？斯坦福大学大牛Dan Jurafsky教授专访
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247489586&idx=2&sn=f8dc9511dcc0c1e13f0cf0fad79f0319
+
+
+
 20181020:<br>
 第二届智慧中国杯精品旅行服务成单预测 第二名比赛方案
 >https://github.com/Bifzivkar/Boutique-Travel-Services-Predict
