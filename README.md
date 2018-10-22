@@ -13,6 +13,11 @@
 
 
 
+20181022:<br>
+自然语言处理中的语言模型预训练方法
+>https://zhuanlan.zhihu.com/p/47342053
+
+
 20181021:<br>
 NLP应该如何学、如何教？斯坦福大学大牛Dan Jurafsky教授专访
 >https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247489586&idx=2&sn=f8dc9511dcc0c1e13f0cf0fad79f0319
