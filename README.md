@@ -13,6 +13,11 @@
 
 
 
+20181023:<br>
+Kaggle竞赛「找盐」冠军：价值5万美元的第一名方案出炉
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650750516&idx=1&sn=e2d1e4c29a71c94827532d88ad5b59be
+
+
 20181022:<br>
 自然语言处理中的语言模型预训练方法
 >https://zhuanlan.zhihu.com/p/47342053
