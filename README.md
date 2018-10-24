@@ -11,11 +11,18 @@
 <br>
 <br>
 
+20181024:<br>
+深度学习用于NLP(分词)中的论文及代码集锦
+>https://mp.weixin.qq.com/s?__biz=MzI0MjU1NTk3NA==&mid=2247485359&idx=1&sn=d986bdfe878bd0037ff03d31112fb89d
+
+
 
 
 20181023:<br>
 Kaggle竞赛「找盐」冠军：价值5万美元的第一名方案出炉
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650750516&idx=1&sn=e2d1e4c29a71c94827532d88ad5b59be
+
+
 
 
 20181022:<br>
