@@ -11,6 +11,12 @@
 <br>
 <br>
 
+
+20181025:<br>
+EMNLP 2018 | 从对话生成和文本风格转化看文本生成技术
+>https://zhuanlan.zhihu.com/p/47622150
+
+
 20181024:<br>
 深度学习用于NLP(分词)中的论文及代码集锦
 >https://mp.weixin.qq.com/s?__biz=MzI0MjU1NTk3NA==&mid=2247485359&idx=1&sn=d986bdfe878bd0037ff03d31112fb89d
