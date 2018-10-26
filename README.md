@@ -12,6 +12,15 @@
 <br>
 
 
+
+
+20181026:<br>
+中文文本分类：你需要了解的10项关键内容
+>https://zhuanlan.zhihu.com/p/47761862
+
+深度特征合成：自动化特征工程的运作机制
+>https://zhuanlan.zhihu.com/p/47746152
+
 20181025:<br>
 EMNLP 2018 | 从对话生成和文本风格转化看文本生成技术
 >https://zhuanlan.zhihu.com/p/47622150
