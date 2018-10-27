@@ -14,6 +14,14 @@
 
 
 
+20181027:<br>
+使用深度学习打造智能聊天机器人
+>https://blog.csdn.net/malefactor/article/details/51901115
+
+自己动手做聊天机器人 二十七-用深度学习来做自动问答的一般方法
+>http://www.shareditor.com/blogshow?blogId=104
+
+
 20181026:<br>
 中文文本分类：你需要了解的10项关键内容
 >https://zhuanlan.zhihu.com/p/47761862
