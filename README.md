@@ -13,6 +13,12 @@
 
 
 
+20181029:<br>
+NIPS 2018 | 行人重识别告别辅助姿势信息，商汤、中科大提出姿势无关的特征提取GAN
+>https://zhuanlan.zhihu.com/p/47954794
+
+
+
 20181028:<br>
 经典论文复现 | InfoGAN：一种无监督生成方法
 >https://zhuanlan.zhihu.com/p/47850287
