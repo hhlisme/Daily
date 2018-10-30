@@ -13,6 +13,15 @@
 
 
 
+
+20181030:<br>
+相关性≠因果：概率图模型和do-calculus
+>https://zhuanlan.zhihu.com/p/48054578
+
+<EYD与机器学习>迁移学习基础
+>https://zhuanlan.zhihu.com/p/47991650
+
+
 20181029:<br>
 NIPS 2018 | 行人重识别告别辅助姿势信息，商汤、中科大提出姿势无关的特征提取GAN
 >https://zhuanlan.zhihu.com/p/47954794
