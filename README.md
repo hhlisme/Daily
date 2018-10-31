@@ -13,6 +13,14 @@
 
 
 
+20181031:<br>
+ACL 2018论文解读 | 基于排序思想的弱监督关系抽取选种与降噪算法(张俊)
+>https://zhuanlan.zhihu.com/p/48049387
+
+经典论文复现 | ICML 2017大热论文：Wasserstein GAN
+>https://zhuanlan.zhihu.com/p/48115362
+
+
 
 20181030:<br>
 相关性≠因果：概率图模型和do-calculus
