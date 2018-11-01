@@ -13,6 +13,11 @@
 
 
 
+20181101:<br>
+一文概览用于图像分割的CNN
+>https://zhuanlan.zhihu.com/p/48106193
+
+
 20181031:<br>
 ACL 2018论文解读 | 基于排序思想的弱监督关系抽取选种与降噪算法(张俊)
 >https://zhuanlan.zhihu.com/p/48049387
