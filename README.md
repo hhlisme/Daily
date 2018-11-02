@@ -13,6 +13,16 @@
 
 
 
+
+20181102:<br>
+谷歌终于开源BERT代码：3 亿参数量，机器之心全面解读
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650751075&idx=2&sn=0a3ecd1af5f8549051760775e34db342
+
+美团大脑：知识图谱的建模方法及其应用
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749250&idx=1&sn=6f382206bed8d5e79999a8c957857ba5
+
+
+
 20181101:<br>
 一文概览用于图像分割的CNN
 >https://zhuanlan.zhihu.com/p/48106193
