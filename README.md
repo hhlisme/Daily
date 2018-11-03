@@ -12,6 +12,13 @@
 <br>
 
 
+20181103:<br>
+干货|饿了么推荐算法演进及在线学习实践
+>https://mp.weixin.qq.com/s?__biz=MzI3NTEyNTM4NQ==&mid=2649502705&idx=1&sn=7a7fbc3a39d9df0bbcc2bcb105aceb7b
+
+
+
+
 
 
 20181102:<br>
