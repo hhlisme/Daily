@@ -12,6 +12,17 @@
 <br>
 
 
+20181104:<br>
+收下这 16 篇最新论文，周会基本不用愁
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247492583&idx=1&sn=85ec5352079218745428d66ab8ee97d4
+
+深度特征合成：自动化特征工程的运作机制
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651664000&idx=1&sn=ae6dda80df6d6278ae33b7bf7fbadcd2
+
+
+
+
+
 20181103:<br>
 干货|饿了么推荐算法演进及在线学习实践
 >https://mp.weixin.qq.com/s?__biz=MzI3NTEyNTM4NQ==&mid=2649502705&idx=1&sn=7a7fbc3a39d9df0bbcc2bcb105aceb7b
