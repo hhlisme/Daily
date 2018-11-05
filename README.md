@@ -12,6 +12,15 @@
 <br>
 
 
+20181105:<br>
+分享一篇比较全面的AutoML综述
+>https://zhuanlan.zhihu.com/p/48642938
+
+腾讯PocketFlow中的模型压缩算法（一）剪枝篇
+>https://zhuanlan.zhihu.com/p/48420428
+
+
+
 20181104:<br>
 收下这 16 篇最新论文，周会基本不用愁
 >https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247492583&idx=1&sn=85ec5352079218745428d66ab8ee97d4
