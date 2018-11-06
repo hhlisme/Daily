@@ -12,6 +12,14 @@
 <br>
 
 
+
+20181106:<br>
+三年拿到斯坦福CS博士的创业者李纪为：AI如何赋能金融
+>https://zhuanlan.zhihu.com/p/48606594
+
+
+
+
 20181105:<br>
 分享一篇比较全面的AutoML综述
 >https://zhuanlan.zhihu.com/p/48642938
