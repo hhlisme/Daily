@@ -13,6 +13,13 @@
 
 
 
+20181107:<br>
+NIPS 2018 | 程序翻译新突破：UC伯克利提出树到树的程序翻译神经网络
+>https://zhuanlan.zhihu.com/p/48738352
+
+
+
+
 20181106:<br>
 三年拿到斯坦福CS博士的创业者李纪为：AI如何赋能金融
 >https://zhuanlan.zhihu.com/p/48606594
