@@ -11,6 +11,14 @@
 <br>
 <br>
 
+20181108:<br>
+TensorFlow系列专题（五）：BP算法原理
+>https://zhuanlan.zhihu.com/p/48976225
+
+NIPS 2018 | 南大周志华等人提出无组织恶意攻击检测算法UMA
+>https://zhuanlan.zhihu.com/p/48968937
+
+
 
 
 20181107:<br>
