@@ -11,6 +11,12 @@
 <br>
 <br>
 
+
+20181109:<br>
+收下这16篇最新论文，周会基本不用愁
+>https://zhuanlan.zhihu.com/p/48926605
+
+
 20181108:<br>
 TensorFlow系列专题（五）：BP算法原理
 >https://zhuanlan.zhihu.com/p/48976225
