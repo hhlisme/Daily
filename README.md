@@ -12,6 +12,14 @@
 <br>
 
 
+20181110:<br>
+WGAN-div：默默无闻的WGAN填坑者（附开源代码）
+>https://zhuanlan.zhihu.com/p/49046736
+
+推荐系统遇上深度学习(二十四)--深度兴趣进化网络DIEN原理及实战！
+>https://zhuanlan.zhihu.com/p/48601882
+
+
 20181109:<br>
 收下这16篇最新论文，周会基本不用愁
 >https://zhuanlan.zhihu.com/p/48926605
