@@ -12,6 +12,16 @@
 <br>
 
 
+20181111:<br>
+大白话讲解卷积神经网络工作原理
+>https://zhuanlan.zhihu.com/p/49184702
+
+强化学习从入门到放弃的资料
+>https://zhuanlan.zhihu.com/p/34918639
+
+
+
+
 20181110:<br>
 WGAN-div：默默无闻的WGAN填坑者（附开源代码）
 >https://zhuanlan.zhihu.com/p/49046736
