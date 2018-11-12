@@ -12,6 +12,11 @@
 <br>
 
 
+20181112:<br>
+手把手带你复现ICCV 2017经典论文—PyraNet
+>https://zhuanlan.zhihu.com/p/49088283
+
+
 20181111:<br>
 大白话讲解卷积神经网络工作原理
 >https://zhuanlan.zhihu.com/p/49184702
