@@ -12,6 +12,12 @@
 <br>
 
 
+20181113:<br>
+UC Berkeley提出变分判别器瓶颈，有效提高对抗学习平衡性
+>https://zhuanlan.zhihu.com/p/49473219
+
+
+
 20181112:<br>
 手把手带你复现ICCV 2017经典论文—PyraNet
 >https://zhuanlan.zhihu.com/p/49088283
