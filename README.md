@@ -12,6 +12,12 @@
 <br>
 
 
+
+20181114:<br>
+NIPS 2018：谷歌大脑提出简单、分布式概率编程，可用TPU大规模训练
+>https://zhuanlan.zhihu.com/p/49838701
+
+
 20181113:<br>
 UC Berkeley提出变分判别器瓶颈，有效提高对抗学习平衡性
 >https://zhuanlan.zhihu.com/p/49473219
