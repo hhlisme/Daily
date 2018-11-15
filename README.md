@@ -13,6 +13,11 @@
 
 
 
+20181115:<br>
+基于深度迁移学习进行时间序列分类
+>https://zhuanlan.zhihu.com/p/49920651
+
+
 20181114:<br>
 NIPS 2018：谷歌大脑提出简单、分布式概率编程，可用TPU大规模训练
 >https://zhuanlan.zhihu.com/p/49838701
