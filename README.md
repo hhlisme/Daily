@@ -12,6 +12,14 @@
 <br>
 
 
+20181116:<br>
+如何训练你的ResNet（一）：复现baseline，将训练时间从6分钟缩短至297秒
+>https://zhuanlan.zhihu.com/p/49742612
+
+【开源】最强NLP模型BERT的Pytorch实现，提供转换脚本
+>https://zhuanlan.zhihu.com/p/49469143
+
+
 
 20181115:<br>
 基于深度迁移学习进行时间序列分类
