@@ -12,6 +12,15 @@
 <br>
 
 
+20181117:<br>
+南开大学提出最新边缘检测与图像分割算法，精度刷新记录（附开源地址）
+>https://zhuanlan.zhihu.com/p/48300590
+
+原创 | 王欣：多维深耕打造数字化银行
+>https://mp.weixin.qq.com/s?__biz=MzI0Nzc3MTQyMw==&mid=2247487296&idx=1&sn=ae73bb76fdae12dc642ef59b2db5e3bf
+
+
+
 20181116:<br>
 如何训练你的ResNet（一）：复现baseline，将训练时间从6分钟缩短至297秒
 >https://zhuanlan.zhihu.com/p/49742612
