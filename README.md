@@ -12,6 +12,12 @@
 <br>
 
 
+20181118:<br>
+最全NLP反作弊攻略，从马蜂窝注水事件说起
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651664645&idx=1&sn=606c575b412c233273e615a610b4775d
+
+
+
 20181117:<br>
 南开大学提出最新边缘检测与图像分割算法，精度刷新记录（附开源地址）
 >https://zhuanlan.zhihu.com/p/48300590
