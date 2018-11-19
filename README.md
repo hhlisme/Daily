@@ -12,6 +12,11 @@
 <br>
 
 
+20181119:<br>
+ICLR 2019 | 有效稳定对抗模型训练过程，伯克利提出变分判别器瓶颈
+>https://zhuanlan.zhihu.com/p/50318422
+
+
 20181118:<br>
 最全NLP反作弊攻略，从马蜂窝注水事件说起
 >https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651664645&idx=1&sn=606c575b412c233273e615a610b4775d
