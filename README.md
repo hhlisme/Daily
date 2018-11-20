@@ -12,6 +12,13 @@
 <br>
 
 
+20181120:<br>
+pair2vec 基于复合词对嵌入加强跨句推理模型
+>https://zhuanlan.zhihu.com/p/49421365
+
+
+
+
 20181119:<br>
 ICLR 2019 | 有效稳定对抗模型训练过程，伯克利提出变分判别器瓶颈
 >https://zhuanlan.zhihu.com/p/50318422
