@@ -12,6 +12,12 @@
 <br>
 
 
+
+20181121:<br>
+美团大脑 | 知识图谱的建模方法及其应用
+>https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/83218579
+
+
 20181120:<br>
 pair2vec 基于复合词对嵌入加强跨句推理模型
 >https://zhuanlan.zhihu.com/p/49421365
