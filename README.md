@@ -11,7 +11,9 @@
 <br>
 <br>
 
-
+20181122:<br>
+一个完整的端到端机器学习项目
+>https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python
 
 20181121:<br>
 美团大脑 | 知识图谱的建模方法及其应用
