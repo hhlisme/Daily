@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20181123:<br>
+经典论文复现：基于标注策略的实体和关系联合抽取
+>https://zhuanlan.zhihu.com/p/50702914
+
 20181122:<br>
 一个完整的端到端机器学习项目
 >https://github.com/DeqianBai/Your-first-machine-learning-Project---End-to-End-in-Python
