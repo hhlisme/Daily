@@ -12,6 +12,11 @@
 <br>
 
 
+20181124:<br>
+DeepMind 重磅论文：通过奖励模型，让 AI 按照人类意图行事
+>https://zhuanlan.zhihu.com/p/50629150
+
+
 20181123:<br>
 经典论文复现：基于标注策略的实体和关系联合抽取
 >https://zhuanlan.zhihu.com/p/50702914
