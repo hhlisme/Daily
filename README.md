@@ -12,6 +12,14 @@
 <br>
 
 
+
+20181125:<br>
+机器学习专家：我在Kaggle竞赛排名前2%的秘诀
+>https://zhuanlan.zhihu.com/p/48927063
+
+
+
+
 20181124:<br>
 DeepMind 重磅论文：通过奖励模型，让 AI 按照人类意图行事
 >https://zhuanlan.zhihu.com/p/50629150
