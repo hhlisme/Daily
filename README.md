@@ -12,7 +12,13 @@
 <br>
 
 
-20181127:<br>
+20181128:<br>
+知识图谱论文整理（来自Pelhans）
+https://github.com/Pelhans/paper_list/tree/master/knowledge_graph
+
+
+
+>20181127:<br>
 当知识图谱遇上文本智能处理，会擦出怎样的火花？
 >https://zhuanlan.zhihu.com/p/48191132
 
