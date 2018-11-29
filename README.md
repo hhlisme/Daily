@@ -12,13 +12,18 @@
 <br>
 
 
+20181129:<br>
+美团餐饮娱乐知识图谱——美团大脑揭秘
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749520&idx=1&sn=e905e4ecefca3be58b46f59dcfb4b202
+
+
 20181128:<br>
 知识图谱论文整理（来自Pelhans）
-https://github.com/Pelhans/paper_list/tree/master/knowledge_graph
+>https://github.com/Pelhans/paper_list/tree/master/knowledge_graph
 
 
 
->20181127:<br>
+20181127:<br>
 当知识图谱遇上文本智能处理，会擦出怎样的火花？
 >https://zhuanlan.zhihu.com/p/48191132
 
