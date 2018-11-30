@@ -12,6 +12,16 @@
 <br>
 
 
+
+
+20181130:<br>
+这些“秘密武器”，让你轻松跻身Kaggle前2%
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651665068&idx=1&sn=f596ff694223e48c835b993be7e752bc
+
+AAAI 2019 | 半监督学习也能自动化？南大和第四范式提出Auto-SSL
+>https://mp.weixin.qq.com/s?__biz=MzAwMjM2Njg2Nw==&mid=2653146262&idx=1&sn=219a1336a55cae0858fffabb4bf7c91d
+
+
 20181129:<br>
 美团餐饮娱乐知识图谱——美团大脑揭秘
 >https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749520&idx=1&sn=e905e4ecefca3be58b46f59dcfb4b202
