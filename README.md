@@ -12,6 +12,11 @@
 <br>
 
 
+20181202:<br>
+NeurIPS 2018提前看：生物学与学习算法
+>https://zhuanlan.zhihu.com/p/51370635
+
+
 20181201:<br>
 七个不容易被发现的生成对抗网络（GAN）用例
 >https://zhuanlan.zhihu.com/p/48110854
