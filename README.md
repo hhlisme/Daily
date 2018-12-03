@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20181203:
+一文了解自然语言处理神经史<br>
+>https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658359117&idx=1&sn=936d1d788666ab39039ffdf7e44711e0
+
+
 
 20181202:<br>
 NeurIPS 2018提前看：生物学与学习算法
