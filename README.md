@@ -11,8 +11,14 @@
 <br>
 <br>
 
-20181203:
-一文了解自然语言处理神经史<br>
+
+20181204:<br>
+练手|常见30种NLP任务的练手项目
+>https://ai.yanxishe.com/page/blogDetail/9562
+
+
+20181203:<br>
+一文了解自然语言处理神经史
 >https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658359117&idx=1&sn=936d1d788666ab39039ffdf7e44711e0
 
 
