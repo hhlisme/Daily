@@ -12,6 +12,11 @@
 <br>
 
 
+20181205:<br>
+用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践
+>https://zhuanlan.zhihu.com/p/25928551
+
+
 20181204:<br>
 练手|常见30种NLP任务的练手项目
 >https://ai.yanxishe.com/page/blogDetail/9562
