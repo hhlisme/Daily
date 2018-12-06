@@ -12,6 +12,12 @@
 <br>
 
 
+
+
+20181206:<br>
+一文详解LDA主题模型
+>https://zhuanlan.zhihu.com/p/31470216
+
 20181205:<br>
 用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践
 >https://zhuanlan.zhihu.com/p/25928551
