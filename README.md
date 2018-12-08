@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20181208:<br>
+复现+改造：Hierarchical BiLSTM CNN for document-level sentiment classification
+>https://zhuanlan.zhihu.com/p/35606434
+
+
 20181207:<br>
 从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史
 >https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247486205&idx=1&sn=cda3258406551762f1f6c6f326b0b421
