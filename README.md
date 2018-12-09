@@ -6,13 +6,14 @@
     在这里，我将记录每天自己看到的有收获的文章。比如：数据挖掘、机器学习、深度学习、NLP、数据竞赛、Python进阶及有关数据及建模方面内容。
     在数据科学的道路上，能够慢慢进步和成长！
     如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
-    <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，自然语言处理）
+    <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，自然语言处理 NLP）
 ----
 <br>
 <br>
 
 
 20181209:<br>
+博客 | Tensorflow系列专题（十一）：RNN的应用及注意力模型
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650674337&idx=2&sn=711b3e1bb2d36e6734f9f1b275dcd4c2
 
 
