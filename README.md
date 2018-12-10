@@ -12,6 +12,12 @@
 <br>
 
 
+20181210:<br>
+自然语言处理中的深度迁移学习——文本预训练
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247504215&idx=1&sn=69e52af7d4b18e5f667c7ad031a8862e
+
+
+
 20181209:<br>
 博客 | Tensorflow系列专题（十一）：RNN的应用及注意力模型
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650674337&idx=2&sn=711b3e1bb2d36e6734f9f1b275dcd4c2
