@@ -12,6 +12,14 @@
 <br>
 
 
+20181211:<br>
+「回顾」自然语言处理中的多任务学习
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247486994&idx=1&sn=cc5868a3af3aba562463f74c2bcf8b3a
+
+
+
+
+
 20181210:<br>
 自然语言处理中的深度迁移学习——文本预训练
 >https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247504215&idx=1&sn=69e52af7d4b18e5f667c7ad031a8862e
