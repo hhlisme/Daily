@@ -11,6 +11,12 @@
 <br>
 <br>
 
+20181212:<br>
+「回顾」金融知识图谱的应用与探索
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247486838&idx=1&sn=e9fd6cb79e0814ad8ac6f71d0cee8b9b
+
+
+
 
 20181211:<br>
 「回顾」自然语言处理中的多任务学习
