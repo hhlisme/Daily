@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20181214:<br>
+推荐系统中的注意力机制——阿里深度兴趣网络（DIN）
+>https://zhuanlan.zhihu.com/p/51623339
+
 20181213:<br>
 近期知识图谱顶会论文推荐（附PaperWeekly解读）
 >https://zhuanlan.zhihu.com/p/52232316
