@@ -12,6 +12,13 @@
 <br>
 
 
+
+20181215:<br>
+Facebook开源NLP建模框架PyText，从论文到产品部署只需数天
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650753854&idx=2&sn=7768f2f5826c5ed68c1593641605979e
+
+
+
 20181214:<br>
 推荐系统中的注意力机制——阿里深度兴趣网络（DIN）
 >https://zhuanlan.zhihu.com/p/51623339
