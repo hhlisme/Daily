@@ -12,6 +12,11 @@
 <br>
 
 
+20181216:<br>
+YOCSEF「知识图谱」专题探索班成功举办，五大高校、三大企业共话知识图谱理论与未来
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247493585&idx=1&sn=996e479480d339f0dc32205399de86d4
+
+
 
 20181215:<br>
 Facebook开源NLP建模框架PyText，从论文到产品部署只需数天
