@@ -12,6 +12,15 @@
 <br>
 
 
+20181218:<br>
+谈谈我在自然语言处理入门的一些个人拙见(zenRRan)
+>https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247484527&idx=1&sn=627204c50b0ef9c6587eece083da48ba
+
+谈谈我在自然语言处理进阶上的一些个人拙见(zenRRan)
+>https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247485946&idx=1&sn=43e1217f59e5ac61a74b38823b6b4fac
+
+
+
 
 20181217:<br>
 【特征选择】feature-selector工具助你一臂之力
