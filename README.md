@@ -12,6 +12,11 @@
 <br>
 
 
+20181219:<br>
+RelSUE:知识图谱相关实体搜索 （WSDM’19 录用论文介绍）
+>http://ws.nju.edu.cn/blog/2018/11/wsdm19/
+
+
 20181218:<br>
 谈谈我在自然语言处理入门的一些个人拙见(zenRRan)
 >https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247484527&idx=1&sn=627204c50b0ef9c6587eece083da48ba
