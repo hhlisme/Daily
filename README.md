@@ -12,6 +12,12 @@
 <br>
 
 
+20181220:<br>
+LSTM原理与实践，原来如此简单
+>https://mp.weixin.qq.com/s?__biz=MzU0NDgwNzIwMQ==&mid=2247483784&idx=1&sn=f7a5eb0d34f459e10d2d8e7441edab26
+
+
+
 20181219:<br>
 RelSUE:知识图谱相关实体搜索 （WSDM’19 录用论文介绍）
 >http://ws.nju.edu.cn/blog/2018/11/wsdm19/
