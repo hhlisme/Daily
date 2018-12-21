@@ -12,6 +12,11 @@
 <br>
 
 
+20181221:<br>
+AAAI 2019 | 基于不同颗粒度语言联合训练的表示学习
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493792&idx=1&sn=ecf98a05b35b2b631f2956f86153f7ad
+
+
 20181220:<br>
 LSTM原理与实践，原来如此简单
 >https://mp.weixin.qq.com/s?__biz=MzU0NDgwNzIwMQ==&mid=2247483784&idx=1&sn=f7a5eb0d34f459e10d2d8e7441edab26
