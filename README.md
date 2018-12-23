@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20181223:<br>
+AAAI 2019：基于不同颗粒度语言联合训练的表示学习
+>https://zhuanlan.zhihu.com/p/52846190
+
+
 20181222:<br>
 NLP的游戏规则从此改写？从word2vec, ELMo到BERT（知乎：夕小瑶）
 >https://zhuanlan.zhihu.com/p/47488095
