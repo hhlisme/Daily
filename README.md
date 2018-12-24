@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+20181224:<br>
+[论文笔记]知识图谱关系学习模型综述
+>https://zhuanlan.zhihu.com/p/39719481
+
 20181223:<br>
 AAAI 2019：基于不同颗粒度语言联合训练的表示学习
 >https://zhuanlan.zhihu.com/p/52846190
