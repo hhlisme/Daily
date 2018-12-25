@@ -12,6 +12,14 @@
 <br>
 
 
+
+20181225:<br>
+深度学习目标检测系列：一文弄懂YOLO算法|附Python源码
+>https://zhuanlan.zhihu.com/p/52661111
+
+
+
+
 20181224:<br>
 [论文笔记]知识图谱关系学习模型综述
 >https://zhuanlan.zhihu.com/p/39719481
