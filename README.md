@@ -11,6 +11,10 @@
 <br>
 <br>
 
+20181227:<br>
+2018年AI、机器学习（NLP，计算机视觉，强化学习）技术概述及2019年发展趋势
+>https://mp.weixin.qq.com/s?__biz=MzUxNDMzMjgxNQ==&mid=2247487546&idx=1&sn=42f27c0bf34e3f4da8693c01870fa117
+
 
 20181226:<br>
 最小熵原理：“物以类聚”之从图书馆到词向量
