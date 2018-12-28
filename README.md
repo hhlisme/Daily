@@ -11,6 +11,11 @@
 <br>
 <br>
 
+20181228:<br>
+【图神经网络】清华大学孙茂松组一文综述 GNN
+>https://zhuanlan.zhihu.com/p/53319079
+
+
 20181227:<br>
 2018年AI、机器学习（NLP，计算机视觉，强化学习）技术概述及2019年发展趋势
 >https://mp.weixin.qq.com/s?__biz=MzUxNDMzMjgxNQ==&mid=2247487546&idx=1&sn=42f27c0bf34e3f4da8693c01870fa117
