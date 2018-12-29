@@ -11,6 +11,10 @@
 <br>
 <br>
 
+20181229:<br>
+技术动态 | 事理图谱，下一代知识图谱
+>https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247485332&idx=1&sn=e2c224e2f7adecedf71b4df3527ed4db
+
 20181228:<br>
 【图神经网络】清华大学孙茂松组一文综述 GNN
 >https://zhuanlan.zhihu.com/p/53319079
