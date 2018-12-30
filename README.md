@@ -11,6 +11,16 @@
 <br>
 <br>
 
+
+20181230:<br>
+推荐 | 掌握这些套路，你也能解决 90% 的 NLP 问题
+>https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486090&idx=1&sn=1b1da4b81aaff47c5cc4128a4e31889c
+
+强烈推荐的TensorFlow、Pytorch和Keras的样例资源（深度学习初学者必须收藏）
+>https://mp.weixin.qq.com/s?__biz=MzU1ODUyMTE5Nw==&mid=2247485177&idx=1&sn=49154c2abeb8b0e3719f909f99524901
+
+
+
 20181229:<br>
 技术动态 | 事理图谱，下一代知识图谱
 >https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247485332&idx=1&sn=e2c224e2f7adecedf71b4df3527ed4db
