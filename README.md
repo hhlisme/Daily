@@ -12,6 +12,11 @@
 <br>
 
 
+20181231:<br>
+深度CTR预估模型中的特征自动组合机制演化简史
+>https://zhuanlan.zhihu.com/p/52876883
+
+
 20181230:<br>
 推荐 | 掌握这些套路，你也能解决 90% 的 NLP 问题
 >https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486090&idx=1&sn=1b1da4b81aaff47c5cc4128a4e31889c
