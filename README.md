@@ -12,6 +12,10 @@
 
 
 
+20190102:<br>
+「回顾」机器学习与推荐系统实践
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247487291&idx=1&sn=53b384335cb124da689bc3e259f45f46
+
 
 
 
