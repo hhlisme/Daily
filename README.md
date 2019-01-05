@@ -12,6 +12,12 @@
 
 
 
+20190105:<br>
+你已经是个成熟的表格，该学会NLP了
+>https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247500854&idx=2&sn=1c95e13dc948a626b9ffa39a91d058e0
+
+
+
 20190104:<br>
 从信息瓶颈理论一瞥机器学习的“大一统理论”
 >https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247494028&idx=1&sn=75c2d19e68f919572fb86086d6e9b19d
