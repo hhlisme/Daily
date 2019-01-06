@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190106:<br>
+2018年，NLP研究与应用进展到什么水平了？
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247494662&idx=1&sn=54462c8100bbbf6bd1d99f12bb0be3df
+
+
+
+
 
 20190105:<br>
 你已经是个成熟的表格，该学会NLP了
