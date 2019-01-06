@@ -15,6 +15,9 @@
 2018年，NLP研究与应用进展到什么水平了？
 >https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247494662&idx=1&sn=54462c8100bbbf6bd1d99f12bb0be3df
 
+一文概述 2018 年深度学习 NLP 十大创新思路
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247493804&idx=1&sn=c597e5026edd3f98b85b9f2a6f2dcb39
+
 
 
 
