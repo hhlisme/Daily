@@ -11,6 +11,16 @@
 以下是2019年目录！<br>
 
 
+
+20190107:<br>
+初学者如何避免在序列预测问题中遇到的陷阱？
+>https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247486961&idx=1&sn=2fbf7eb3588b7322bf3e12d412ad8fd0
+
+遗珠之作？谷歌Quoc Le这篇NLP预训练模型论文值得一看
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755237&idx=4&sn=9f55bcfcb73fcac5541e922278e38624
+
+
+
 20190106:<br>
 2018年，NLP研究与应用进展到什么水平了？
 >https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247494662&idx=1&sn=54462c8100bbbf6bd1d99f12bb0be3df
