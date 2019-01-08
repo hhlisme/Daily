@@ -10,7 +10,10 @@
 
 以下是2019年目录！<br>
 
-20190108
+20190108:<br>
+图神经网络概述第三弹：来自IEEE Fellow的GNN综述
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755237&idx=1&sn=2dd0468552e69057681eec58fd265cbb
+
 
 20190107:<br>
 初学者如何避免在序列预测问题中遇到的陷阱？
