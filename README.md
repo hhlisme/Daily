@@ -10,6 +10,15 @@
 
 以下是2019年目录！<br>
 
+20190109:<br>
+研究综述 | 事件抽取及推理 (上)
+>https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651676681&idx=1&sn=42caea104b2e5df59710c2fea77dae86
+
+研究综述 | 事件抽取及推理 (下)
+>https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651676727&idx=1&sn=a8d1692583133b752f06699f1c0790c2
+
+
+
 20190108:<br>
 图神经网络概述第三弹：来自IEEE Fellow的GNN综述
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650755237&idx=1&sn=2dd0468552e69057681eec58fd265cbb
