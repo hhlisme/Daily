@@ -10,6 +10,19 @@
 
 以下是2019年目录！<br>
 
+
+20190111:<br>
+如何用Keras构建一个Encoder-Decoder模型
+>https://zhuanlan.zhihu.com/p/54657160
+
+
+
+20190110:<br>
+深度CTR预估模型中的特征自动组合机制演化简史
+>https://zhuanlan.zhihu.com/p/52876883
+
+
+
 20190109:<br>
 研究综述 | 事件抽取及推理 (上)
 >https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651676681&idx=1&sn=42caea104b2e5df59710c2fea77dae86
