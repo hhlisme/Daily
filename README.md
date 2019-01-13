@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 
+20190113:<br>
+放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较（作者：张俊林）
+>https://zhuanlan.zhihu.com/p/54743941
+
+
 20190112:<br>
 换个角度看GAN：另一种损失函数
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650754873&idx=3&sn=d646367b6abefd713a6c6d9d2630b2fb
