@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 
+20190114:<br>
+以虎嗅网4W+文章的文本挖掘为例，展现数据分析的一整套流程
+>https://zhuanlan.zhihu.com/p/52782063
+
+
 20190113:<br>
 放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较（作者：张俊林）
 >https://zhuanlan.zhihu.com/p/54743941
