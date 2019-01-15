@@ -11,6 +11,18 @@
 以下是2019年目录！<br>
 
 
+
+20190115:<br>
+不只有BERT！盘点2018年NLP令人激动的10大想法
+>https://zhuanlan.zhihu.com/p/53009094
+
+NLP预训练模型大集合！
+>https://zhuanlan.zhihu.com/p/53569058
+
+
+
+
+
 20190114:<br>
 以虎嗅网4W+文章的文本挖掘为例，展现数据分析的一整套流程
 >https://zhuanlan.zhihu.com/p/52782063
