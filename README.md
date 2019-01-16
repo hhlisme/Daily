@@ -12,6 +12,11 @@
 
 
 
+20190116:<br>
+Attention mechanisms on NLP
+>https://zhuanlan.zhihu.com/p/54491016
+
+
 20190115:<br>
 不只有BERT！盘点2018年NLP令人激动的10大想法
 >https://zhuanlan.zhihu.com/p/53009094
