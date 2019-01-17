@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190117:<br>
+大众点评搜索基于知识图谱的深度学习排序实践
+>https://tech.meituan.com/2019/01/17/dianping-search-deeplearning.html
+
+
+
 
 20190116:<br>
 Attention mechanisms on NLP
