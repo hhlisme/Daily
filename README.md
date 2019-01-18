@@ -11,6 +11,17 @@
 以下是2019年目录！<br>
 
 
+
+20190118:<br>
+赛尔原创 | 反讽识别综述
+>https://zhuanlan.zhihu.com/p/55212330
+
+文本分类实战--从TFIDF到深度学习（附代码）
+>https://blog.csdn.net/liuchonge/article/details/72614524
+
+
+
+
 20190117:<br>
 大众点评搜索基于知识图谱的深度学习排序实践
 >https://tech.meituan.com/2019/01/17/dianping-search-deeplearning.html
