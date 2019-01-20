@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190120:<br>
+免费自然语言处理(NLP)课程及教材分享
+>https://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&mid=2247485447&idx=1&sn=93deeaeb758c78af6a06e9d4efa79379
+
+
+
 20190119:<br>
 详解谷歌最强NLP模型BERT（理论+实战）
 >https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490161&idx=3&sn=25c3b79f79bc7de573dabf695b7ce36f
