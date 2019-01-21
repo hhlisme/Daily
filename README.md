@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190121:<br>
+ICLR2019少样本学习新思路：利用转导(Transductive)和标签传播
+>https://zhuanlan.zhihu.com/p/55111343
+
+
+
 20190120:<br>
 免费自然语言处理(NLP)课程及教材分享
 >https://mp.weixin.qq.com/s?__biz=MzIxNDgzNDg3NQ==&mid=2247485447&idx=1&sn=93deeaeb758c78af6a06e9d4efa79379
