@@ -10,6 +10,17 @@
 
 以下是2019年目录！<br>
 
+20190122:<br>
+论坛报告|肖仰华教授：大数据时代的知识工程与知识管理
+>https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651677164&idx=1&sn=e92c982dba5b614862e02626aafbb42d
+
+NLP 2018 Highlights
+>https://mp.weixin.qq.com/s?__biz=MzU5NzI5MDgzOA==&mid=2247483977&idx=1&sn=7919b5a14bb4938fcfdcb806f7eb73de
+
+
+
+
+
 
 20190121:<br>
 ICLR2019少样本学习新思路：利用转导(Transductive)和标签传播
