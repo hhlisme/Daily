@@ -10,6 +10,16 @@
 
 以下是2019年目录！<br>
 
+
+
+20190123:<br>
+从KDD 2018最佳论文看Airbnb实时搜索排序中的Embedding技巧
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247494488&idx=1&sn=452ac80c593a9b31252031eac38d0e01
+
+
+
+
+
 20190122:<br>
 论坛报告|肖仰华教授：大数据时代的知识工程与知识管理
 >https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651677164&idx=1&sn=e92c982dba5b614862e02626aafbb42d
