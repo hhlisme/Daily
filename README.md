@@ -13,6 +13,12 @@
 
 
 20190123:<br>
+如何到top5%？NLP文本分类和情感分析竞赛总结
+>https://zhuanlan.zhihu.com/p/54397748
+
+
+
+20190123:<br>
 从KDD 2018最佳论文看Airbnb实时搜索排序中的Embedding技巧
 >https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247494488&idx=1&sn=452ac80c593a9b31252031eac38d0e01
 
