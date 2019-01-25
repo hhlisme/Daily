@@ -11,6 +11,15 @@
 以下是2019年目录！<br>
 
 
+20190125:<br>
+AI Challenger 2018：细粒度用户评论情感分类冠军思路总结
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651750254&idx=2&sn=10cc4d29764cde39781fe79f0094b2cd
+
+funNLP: 从文本中抽取结构化信息的超级资源包
+>https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650409078&idx=1&sn=89e1fa01475343e244f8205debd5905b
+
+
+
 
 20190124:<br>
 如何到top5%？NLP文本分类和情感分析竞赛总结
