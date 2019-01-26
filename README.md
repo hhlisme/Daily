@@ -11,6 +11,15 @@
 以下是2019年目录！<br>
 
 
+20190126:<br>
+Facebook开源NLP迁移学习工具包，支持93种语言，性能最优
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490201&idx=1&sn=592539a7669c030d5b65863fe0665202
+
+【官方】【中英】CS224n 斯坦福深度自然语言处理课 @雷锋字幕组
+>https://www.bilibili.com/video/av41393758
+
+
+
 20190125:<br>
 AI Challenger 2018：细粒度用户评论情感分类冠军思路总结
 >https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651750254&idx=2&sn=10cc4d29764cde39781fe79f0094b2cd
