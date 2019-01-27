@@ -10,6 +10,15 @@
 
 以下是2019年目录！<br>
 
+20190127:<br>
+撩一发深度文本分类之RNN via Attention
+>https://mp.weixin.qq.com/s?__biz=MzAxMzUzOTg3OQ==&mid=2455933904&idx=1&sn=07680beeefc8eb54dad3155a0ae4c766
+
+“达观杯”文本智能处理挑战赛，季军带你飞
+>https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650409084&idx=1&sn=d246f73c63bc749e05c241f44c967a4a
+
+
+
 
 20190126:<br>
 Facebook开源NLP迁移学习工具包，支持93种语言，性能最优
