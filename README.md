@@ -10,6 +10,14 @@
 
 以下是2019年目录！<br>
 
+
+20190128:<br>
+21种NLP任务激活函数大比拼：你一定猜不到谁赢了
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756158&idx=2&sn=90cb49c49be078e7406539eb93561c9e
+
+
+
+
 20190127:<br>
 撩一发深度文本分类之RNN via Attention
 >https://mp.weixin.qq.com/s?__biz=MzAxMzUzOTg3OQ==&mid=2455933904&idx=1&sn=07680beeefc8eb54dad3155a0ae4c766
