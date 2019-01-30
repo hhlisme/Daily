@@ -11,6 +11,15 @@
 以下是2019年目录！<br>
 
 
+
+
+
+20190129:<br>
+香侬科技提出中文字型的深度学习模型Glyce，横扫13项中文NLP记录
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247494680&idx=1&sn=2574ebadc13f30bcb598cf5cbdf77c41
+
+
+
 20190128:<br>
 21种NLP任务激活函数大比拼：你一定猜不到谁赢了
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756158&idx=2&sn=90cb49c49be078e7406539eb93561c9e
