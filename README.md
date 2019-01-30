@@ -10,9 +10,9 @@
 
 以下是2019年目录！<br>
 
-
-
-
+20190130:<br>
+「回顾」基于金融智能风控的实时指标处理技术体系
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247487658&idx=1&sn=b9dacc38bda9bfd2fa65e66810845dd9
 
 20190129:<br>
 香侬科技提出中文字型的深度学习模型Glyce，横扫13项中文NLP记录
