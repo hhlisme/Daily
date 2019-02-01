@@ -10,6 +10,18 @@
 
 以下是2019年目录！<br>
 
+
+
+20190201:<br>
+命名实体识别（NER）综述
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650675122&idx=1&sn=a5041002769b48f70d0b0bdba2b8e96a
+
+
+20190131:<br>
+Word Embedding 词嵌入最新综述论文（附全文下载）
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247506729&idx=2&sn=5d26538d8b6a0aaccdf048a42a6cc28c
+
+
 20190130:<br>
 「回顾」基于金融智能风控的实时指标处理技术体系
 >https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247487658&idx=1&sn=b9dacc38bda9bfd2fa65e66810845dd9
