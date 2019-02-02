@@ -10,6 +10,9 @@
 
 以下是2019年目录！<br>
 
+20190202:<br>
+模型| 关于LSTM的种种探索
+>https://mp.weixin.qq.com/s?__biz=Mzg3MDA3NTE1NQ==&mid=2247483816&idx=1&sn=fe1adda017bb0124ccc1d8e243331c00
 
 
 20190201:<br>
