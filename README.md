@@ -10,6 +10,16 @@
 
 以下是2019年目录！<br>
 
+
+20190203:<br>
+AI所有领域最优论文+代码查找神器：966个ML任务、8500+论文任你选
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756694&idx=1&sn=4d24091c015786a5321e8e8cb7691564
+
+受限玻尔兹曼机原理及在推荐系统中的应用
+>https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650409108&idx=1&sn=8ebc26251096997341496c492b6e2690
+
+
+
 20190202:<br>
 模型| 关于LSTM的种种探索
 >https://mp.weixin.qq.com/s?__biz=Mzg3MDA3NTE1NQ==&mid=2247483816&idx=1&sn=fe1adda017bb0124ccc1d8e243331c00
