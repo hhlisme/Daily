@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+
+20190204:<br>
+Click-Through Rate Prediction：银牌（Part2）
+https://mp.weixin.qq.com/s?__biz=MzU1Nzc1NjI0Nw==&mid=2247483914&idx=1&sn=b76d1e7df5e91aa75c2853943f0f21f2
+
+
 20190203:<br>
 AI所有领域最优论文+代码查找神器：966个ML任务、8500+论文任你选
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756694&idx=1&sn=4d24091c015786a5321e8e8cb7691564
