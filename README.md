@@ -10,9 +10,16 @@
 
 以下是2019年目录！<br>
 
+
+20190207:<br>
+MIT 深度学习基础教程：七个基本框架TensorFlow代码实战
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247506960&idx=1&sn=0e04b3f1cdc0bf8dbc9dd5bd25dc4022
+
+
+
 20190206:<br>
 读者喜欢看什么文章？腾讯微信融合时间过程与内容特征寻找答案
-https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490285&idx=1&sn=51b3a0cfdacf7bcba8e2233b9edb6e2d
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490285&idx=1&sn=51b3a0cfdacf7bcba8e2233b9edb6e2d
 
 20190205:<br>
 论文浅尝 | 基于图注意力的常识对话生成
