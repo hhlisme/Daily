@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 
+
+20190208:<br>
+对话清华NLP实验室刘知远：NLP搞事情少不了知识库与图神经网络
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756797&idx=1&sn=b1914989c754315f6e5f8c29f3110bb4
+
 20190207:<br>
 MIT 深度学习基础教程：七个基本框架TensorFlow代码实战
 >https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247506960&idx=1&sn=0e04b3f1cdc0bf8dbc9dd5bd25dc4022
