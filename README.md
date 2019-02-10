@@ -12,6 +12,18 @@
 
 
 
+20190210:<br>
+斯坦福NLP团队发布最新自然语言处理Python库
+https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247507069&idx=2&sn=d9d6eef20516ef7622388c5d050e7877
+
+
+
+20190209:<br>
+FAIR&MIT提出知识蒸馏新方法：数据集蒸馏
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756815&idx=4&sn=7161425a26ed2b23438382c6d2dcbcf4
+
+
+
 20190208:<br>
 对话清华NLP实验室刘知远：NLP搞事情少不了知识库与图神经网络
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756797&idx=1&sn=b1914989c754315f6e5f8c29f3110bb4
