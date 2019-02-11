@@ -11,16 +11,23 @@
 以下是2019年目录！<br>
 
 
+20190211:<br>
+NLP - 基于 BERT 的中文命名实体识别（NER)
+>https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650409148&idx=1&sn=19396b4adebb4387392b829ddd239c21
+
+【干货】33页最新《自然语言处理中神经注意力机制综述》论文
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247507163&idx=1&sn=b89c1e8f004d138b93b025c5dcad43cf
+
 
 20190210:<br>
 斯坦福NLP团队发布最新自然语言处理Python库
-https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247507069&idx=2&sn=d9d6eef20516ef7622388c5d050e7877
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247507069&idx=2&sn=d9d6eef20516ef7622388c5d050e7877
 
 
 
 20190209:<br>
 FAIR&MIT提出知识蒸馏新方法：数据集蒸馏
-https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756815&idx=4&sn=7161425a26ed2b23438382c6d2dcbcf4
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756815&idx=4&sn=7161425a26ed2b23438382c6d2dcbcf4
 
 
 
