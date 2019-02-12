@@ -10,6 +10,10 @@
 
 以下是2019年目录！<br>
 
+20190212:<br>
+序列模型简介——RNN, Bidirectional RNN, LSTM, GRU
+>https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658359802&idx=1&sn=2edfa188927b7d783ac7d122619807f8
+
 
 20190211:<br>
 NLP - 基于 BERT 的中文命名实体识别（NER)
