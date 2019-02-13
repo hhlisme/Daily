@@ -10,6 +10,13 @@
 
 以下是2019年目录！<br>
 
+
+20190213:<br>
+对话MSRA副院长周明：回望过去，展望未来，NLP有哪些发展趋势？
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756950&idx=2&sn=f9d129bc2a86f2e6cd34c668b4d19c40
+
+
+
 20190212:<br>
 序列模型简介——RNN, Bidirectional RNN, LSTM, GRU
 >https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658359802&idx=1&sn=2edfa188927b7d783ac7d122619807f8
@@ -56,7 +63,7 @@ MIT 深度学习基础教程：七个基本框架TensorFlow代码实战
 
 20190204:<br>
 Click-Through Rate Prediction：银牌（Part2）
-https://mp.weixin.qq.com/s?__biz=MzU1Nzc1NjI0Nw==&mid=2247483914&idx=1&sn=b76d1e7df5e91aa75c2853943f0f21f2
+>https://mp.weixin.qq.com/s?__biz=MzU1Nzc1NjI0Nw==&mid=2247483914&idx=1&sn=b76d1e7df5e91aa75c2853943f0f21f2
 
 
 20190203:<br>
