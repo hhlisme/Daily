@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190214:<br>
+新年干货 | NLP一路走来的经验之谈（附重磅资源）
+>https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486226&idx=1&sn=26275decf4502433550ea2f1bb19507e
+
+
+
+
 20190213:<br>
 对话MSRA副院长周明：回望过去，展望未来，NLP有哪些发展趋势？
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756950&idx=2&sn=f9d129bc2a86f2e6cd34c668b4d19c40
