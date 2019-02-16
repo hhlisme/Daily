@@ -11,6 +11,15 @@
 以下是2019年目录！<br>
 
 
+20190216:<br>
+>放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较
+
+干货 | 自然语言处理中注意力机制综述
+>https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486207&idx=1&sn=ebb96535038c38667101efaf95dbbcdf
+
+
+
+
 20190215:<br>
 中文NLP福利！大规模中文自然语言处理语料
 >https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652038359&idx=4&sn=63c4408011867983024c2c99a3490208
