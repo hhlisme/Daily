@@ -11,6 +11,16 @@
 以下是2019年目录！<br>
 
 
+20190217:<br>
+Byte Cup 2018国际机器学习竞赛夺冠记
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247494898&idx=1&sn=c38516d259c22c34e5341fa12858bd92
+
+NLP中评价文本输出都有哪些方法？为什么要小心使用 BLEU？
+>https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247487329&idx=1&sn=619f8fe0499ad8bccfcf4702863bc172
+
+
+
+
 20190216:<br>
 >放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较
 
