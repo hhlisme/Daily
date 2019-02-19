@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+
+20190219:<br>
+PyTorch自然语言处理实战（附详细代码下载）
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247507380&idx=2&sn=00873527310eb9ff1197df2e12d3a9ec
+
+
 20190218:<br>
 自然语言处理怎么最快入门？（CodeWithZhangYi的回答）
 >https://www.zhihu.com/question/19895141/answer/515535069
