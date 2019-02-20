@@ -11,6 +11,14 @@
 以下是2019年目录！<br>
 
 
+20190220:<br>
+深度 | 强化学习应用金融投资组合优化（附代码）
+>https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653290602&idx=1&sn=27ad2c311de6a8aa3ef0f66117fa1692
+
+搞定NLP领域的“变形金刚”！手把手教你用BERT进行多标签文本分类
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651667790&idx=1&sn=c051c993ee561c7ada8c03b58679f305
+
+
 
 20190219:<br>
 PyTorch自然语言处理实战（附详细代码下载）
