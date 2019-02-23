@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190223:<br>
+一文看懂虚假新闻检测（附数据集 & 论文推荐）
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495009&idx=1&sn=786d5297ba95117e72cb2e46a22d2935
+
+
+
+
 20190222:<br>
 深度学习不再是炼丹术！谷歌给出首个神经网络训练理论证明
 >https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652038883&idx=1&sn=f6a471c31e9a6c461c71614027489423
