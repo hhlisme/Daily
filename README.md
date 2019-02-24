@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+
+20190224:<br>
+博士带你学LSTM|开发Encoder-Decoder LSTM模型的简单教程（附代码）
+>https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487519&idx=1&sn=659666f65dcb79282b2e762f9f4fe804
+
+
+
 20190223:<br>
 一文看懂虚假新闻检测（附数据集 & 论文推荐）
 >https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495009&idx=1&sn=786d5297ba95117e72cb2e46a22d2935
