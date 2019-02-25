@@ -12,6 +12,17 @@
 
 
 
+20190225:<br>
+自然语言处理怎么最快入门？
+>https://www.zhihu.com/question/19895141/answer/515535069
+
+赛尔笔记 | BiLSTM介绍及代码实现
+>https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650793399&idx=1&sn=f4a28d39d708e268b47abecd225b5178&scene=21#wechat_redirect
+
+
+
+
+
 20190224:<br>
 博士带你学LSTM|开发Encoder-Decoder LSTM模型的简单教程（附代码）
 >https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487519&idx=1&sn=659666f65dcb79282b2e762f9f4fe804
