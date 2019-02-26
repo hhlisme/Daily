@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 
+20190226:<br>
+「行知」Airbnb如何解决Embedding的数据稀疏问题？
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488210&idx=1&sn=306c9685520acb2e778ea9aa55969bea
+
+
 
 20190225:<br>
 自然语言处理怎么最快入门？
