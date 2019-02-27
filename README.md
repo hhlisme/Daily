@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190227:<br>
+Hulu背后的故事：NLP在Hulu的研究与实践
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488177&idx=1&sn=ce32c5e9eaf50c9d7f5f3f075d632fc3
+
+
+
 20190226:<br>
 「行知」Airbnb如何解决Embedding的数据稀疏问题？
 >https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488210&idx=1&sn=306c9685520acb2e778ea9aa55969bea
