@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+
+20190228:<br>
+各种NLP操作难实现？谷歌开源序列建模框架Lingvo
+>https://zhuanlan.zhihu.com/p/57795395
+
+
 20190227:<br>
 Hulu背后的故事：NLP在Hulu的研究与实践
 >https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488177&idx=1&sn=ce32c5e9eaf50c9d7f5f3f075d632fc3
