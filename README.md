@@ -11,6 +11,15 @@
 以下是2019年目录！<br>
 
 
+
+20190302:<br>
+自然语言处理基础：上下文词表征入门解读
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650757944&idx=4&sn=4bf1e7f7c479ee98b775ee195330e235
+
+
+
+
+
 20190301:<br>
 谷歌重磅开源NLP通用框架Lingvo，91位作者带来强悍功能
 >https://zhuanlan.zhihu.com/p/57757850
