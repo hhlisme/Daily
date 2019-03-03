@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190303:<br>
+万字长文概述NLP中的深度学习技术
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650757835&idx=2&sn=716ddb08d3abf2103da61799f9f11b73
+
+
+
 
 20190302:<br>
 自然语言处理基础：上下文词表征入门解读
