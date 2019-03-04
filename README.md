@@ -11,6 +11,17 @@
 以下是2019年目录！<br>
 
 
+
+
+20190304:<br>
+爬网页、洗数据、创建海量数据集一条龙！英伟达工程师小姐姐开源工具库（lazynlp）
+>https://zhuanlan.zhihu.com/p/58128507
+
+推荐系统召回四模型之：全能的FM模型
+>https://zhuanlan.zhihu.com/p/58160982
+
+
+
 20190303:<br>
 万字长文概述NLP中的深度学习技术
 >https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650757835&idx=2&sn=716ddb08d3abf2103da61799f9f11b73
