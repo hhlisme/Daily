@@ -10,6 +10,11 @@
 
 以下是2019年目录！<br>
 
+20190306:<br>
+领域应用 | 从本体论开始说起——运营商关系图谱的构建及应用
+>https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247485624&idx=1&sn=454cb3c533b7a84f029f0c6a8d7c1037
+
+
 20190305:<br>
 博士带你学LSTM|怎么开发一个LSTM模型来生成形状？(第十一章：开发生成LSTMs)
 >https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487680&idx=1&sn=486cfdb7bc48ff26b9501c55545f6c6d
