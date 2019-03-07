@@ -10,6 +10,12 @@
 
 以下是2019年目录！<br>
 
+
+20190307:<br>
+解构BERT：从1亿个参数中提取6种模式
+>https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487710&idx=1&sn=7ded81febf24846eb9b5d6bcb2a61bae
+
+
 20190306:<br>
 领域应用 | 从本体论开始说起——运营商关系图谱的构建及应用
 >https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247485624&idx=1&sn=454cb3c533b7a84f029f0c6a8d7c1037
