@@ -11,6 +11,17 @@
 以下是2019年目录！<br>
 
 
+
+20190309:<br>
+ThunderGBM：快成一道闪电的梯度提升决策树
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490516&idx=2&sn=df2b11c4ed994264d6e33b8f56cb1a36
+
+20190308:<br>
+用文本挖掘剖析近5万首《全唐诗》-- 一文学会NLP数种基础任务
+>https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486358&idx=1&sn=16b7646613d099472c54ba0f578aee68
+
+
+
 20190307:<br>
 解构BERT：从1亿个参数中提取6种模式
 >https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487710&idx=1&sn=7ded81febf24846eb9b5d6bcb2a61bae
