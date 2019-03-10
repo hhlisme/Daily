@@ -10,6 +10,10 @@
 
 以下是2019年目录！<br>
 
+20190310:<br>
+BiLSTM+CRF(二）命名实体识别
+>https://blog.csdn.net/jmh1996/article/details/84779680
+
 
 
 20190309:<br>
