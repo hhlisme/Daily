@@ -10,6 +10,12 @@
 
 以下是2019年目录！<br>
 
+20190311:<br>
+清华NLP实验室刘知远：如何写一篇合格的NLP论文
+>https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651668421&idx=1&sn=8abdc274c3f7ea00b1263560deb40cb1
+
+
+
 20190310:<br>
 BiLSTM+CRF(二）命名实体识别
 >https://blog.csdn.net/jmh1996/article/details/84779680
