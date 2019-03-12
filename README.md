@@ -10,6 +10,18 @@
 
 以下是2019年目录！<br>
 
+
+20190312:<br>
+回顾Facebook经典CTR预估模型
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488504&idx=2&sn=ef30f55fc6932e49cde63e546a0a543a
+
+深度CTR预估模型中的特征自动组合机制演化简史
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488487&idx=1&sn=47cf9256ac1d0f11dd218fcb2d17eb4f
+
+
+
+
+
 20190311:<br>
 清华NLP实验室刘知远：如何写一篇合格的NLP论文
 >https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651668421&idx=1&sn=8abdc274c3f7ea00b1263560deb40cb1
