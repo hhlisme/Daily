@@ -11,6 +11,14 @@
 以下是2019年目录！<br>
 
 
+20190313:<br>
+万字长文带你解读NLP深度学习的各类模型
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488893&idx=2&sn=89b3ff03ab14bafc93fe482b1b08e820
+
+
+
+
+
 20190312:<br>
 回顾Facebook经典CTR预估模型
 >https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488504&idx=2&sn=ef30f55fc6932e49cde63e546a0a543a
