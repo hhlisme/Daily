@@ -11,6 +11,17 @@
 以下是2019年目录！<br>
 
 
+20190314:<br>
+大众点评搜索基于知识图谱的深度学习排序实践
+>https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651750220&idx=1&sn=42df36757a7007808c56b53ee6832713
+
+学习时间！2019斯坦福CS224n、CMU NLP公开课视频开放啦
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650758563&idx=3&sn=91db157f614f29b1d5bbcfcd94c7da34
+
+
+
+
+
 20190313:<br>
 万字长文带你解读NLP深度学习的各类模型
 >https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488893&idx=2&sn=89b3ff03ab14bafc93fe482b1b08e820
