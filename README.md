@@ -11,6 +11,18 @@
 以下是2019年目录！<br>
 
 
+
+20190315:<br>
+搜索与推荐中的深度学习匹配：搜索篇
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488752&idx=2&sn=5b486a1cadaac0bfaffa6400e4e0c0ca
+
+搜索与推荐中的深度学习匹配：推荐篇
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488849&idx=2&sn=421a2e17c11c3f9c27e9d2b45fc1ff0c
+
+
+
+
+
 20190314:<br>
 大众点评搜索基于知识图谱的深度学习排序实践
 >https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651750220&idx=1&sn=42df36757a7007808c56b53ee6832713
