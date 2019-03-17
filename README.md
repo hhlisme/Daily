@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+
+20190317:<br>
+经验 | 初入NLP领域的一些小建议（李纪为）
+>https://zhuanlan.zhihu.com/p/59184256
+
+
 20190316:<br>
 干货分享丨自动化调参神器-贝叶斯优化通俗原理及实例教程(一)
 >https://mp.weixin.qq.com/s?__biz=MzIxNTU5MDcwMQ==&mid=2247484992&idx=1&sn=1ea0d0c251b474fbdb86e856559cdade
