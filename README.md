@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190318:<br>
+基于深度强化学习的新闻推荐模型DRN
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488893&idx=1&sn=25d9efc97e79751121b8549ee02af81f
+
+
+
 
 20190317:<br>
 经验 | 初入NLP领域的一些小建议（李纪为）
