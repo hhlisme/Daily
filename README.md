@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190319:<br>
+达观数据：中文对比英文自然语言处理NLP的区别综述
+>https://mp.weixin.qq.com/s?__biz=MzA5NzY0MDg1NA==&mid=2706956946&idx=1&sn=c4532c551e250bbb1aee68c671737874
+
+
+
+
 20190318:<br>
 基于深度强化学习的新闻推荐模型DRN
 >https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247488893&idx=1&sn=25d9efc97e79751121b8549ee02af81f
