@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190320:<br>
+万字综述之生成对抗网络（GAN）
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495668&idx=1&sn=e7e959b2bdd7b2763b9207ccb80fa6bc
+
+
+
+
 20190319:<br>
 达观数据：中文对比英文自然语言处理NLP的区别综述
 >https://mp.weixin.qq.com/s?__biz=MzA5NzY0MDg1NA==&mid=2706956946&idx=1&sn=c4532c551e250bbb1aee68c671737874
