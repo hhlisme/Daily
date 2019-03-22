@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190322:<br>
+中国学霸本科生提出AI新算法：速度比肩Adam，性能媲美SGD，代码已开源
+>https://zhuanlan.zhihu.com/p/57816934
+
+
+
+
 20190321:<br>
 GitHub 热门：各大网站的 Python 爬虫登录汇总
 >https://mp.weixin.qq.com/s?__biz=MzIxODM4MjA5MA==&mid=2247488717&idx=2&sn=b8096da2323523a621e5ad15c4fb4848
