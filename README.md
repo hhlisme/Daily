@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 
+20190323:<br>
+自然语言生成的演变史
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247509037&idx=1&sn=1670d8a89727b9540094ec2f289a49a8
+
+
 20190322:<br>
 中国学霸本科生提出AI新算法：速度比肩Adam，性能媲美SGD，代码已开源
 >https://zhuanlan.zhihu.com/p/57816934
