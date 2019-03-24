@@ -10,6 +10,9 @@
 
 以下是2019年目录！<br>
 
+20190324:<br>
+CCL学生研讨会记录-刘知远老师报告《文献综述与研究选题》
+https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650409314&idx=1&sn=69ef107c1716cd7830dc962e14df5297
 
 20190323:<br>
 自然语言生成的演变史
