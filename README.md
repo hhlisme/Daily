@@ -11,7 +11,16 @@
 以下是2019年目录！<br>
 
 
+20190326:
+博士带你学LSTM|如何用LSTMs做预测？（第十三章附代码）
+https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487839&idx=1&sn=46f2553341e0fcbb69e096583a6e7763
+
+
+
 20190325:<br>
+最新 | 基于回声状态网络预测股票价格（附代码）
+https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653291171&idx=1&sn=485a35e564b45046ff5a07c42bba1743
+
 
 20190324:<br>
 CCL学生研讨会记录-刘知远老师报告《文献综述与研究选题》
