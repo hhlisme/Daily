@@ -10,7 +10,7 @@
 
 以下是2019年目录！<br>
 
-
+20190327
 20190326:
 博士带你学LSTM|如何用LSTMs做预测？（第十三章附代码）
 https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487839&idx=1&sn=46f2553341e0fcbb69e096583a6e7763
