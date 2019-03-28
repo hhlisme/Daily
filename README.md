@@ -10,20 +10,37 @@
 
 以下是2019年目录！<br>
 
-20190327
-20190326:
+
+
+20190328:<br>
+AAAI 2019 | 基于分层强化学习的关系抽取
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495926&idx=1&sn=a59ffa7b3639497e68617e1ea40d8cd2
+
+达观数据：计算广告系统算法与架构综述
+>https://mp.weixin.qq.com/s?__biz=MzA5NzY0MDg1NA==&mid=2706957022&idx=1&sn=b6ee968e892322d3ecf1a834ee3b63a1
+
+
+
+20190327:<br>
+论文浅尝 | 基于属性嵌入的知识图谱间实体对齐方法
+>https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247485711&idx=1&sn=d159e7232d1f4ed53c94dd2b50e5ccf7
+
+
+
+
+20190326:<br>
 博士带你学LSTM|如何用LSTMs做预测？（第十三章附代码）
-https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487839&idx=1&sn=46f2553341e0fcbb69e096583a6e7763
+>https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247487839&idx=1&sn=46f2553341e0fcbb69e096583a6e7763
 
 
 
 20190325:<br>
 最新 | 基于回声状态网络预测股票价格（附代码）
-https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653291171&idx=1&sn=485a35e564b45046ff5a07c42bba1743
+>https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653291171&idx=1&sn=485a35e564b45046ff5a07c42bba1743
 
 
 20190324:<br>
-CCL学生研讨会记录-刘知远老师报告《文献综述与研究选题》
+>CCL学生研讨会记录-刘知远老师报告《文献综述与研究选题》
 https://mp.weixin.qq.com/s?__biz=MjM5ODkzMzMwMQ==&mid=2650409314&idx=1&sn=69ef107c1716cd7830dc962e14df5297
 
 20190323:<br>
