@@ -10,6 +10,14 @@
 
 以下是2019年目录！<br>
 
+
+20190331:<br>
+实战 | CNN+BLSTM+CTC的验证码识别从训练到部署
+>https://mp.weixin.qq.com/s?__biz=Mzg3MDA3NTE1NQ==&mid=2247483841&idx=1&sn=8d327d2ef52759c56dc8aed41729d51e
+
+
+
+
 20190330:<br>
 斯坦福2019年深度学习NLP课程完结，视频（有字幕）已放出 | 附PPT、参考资料、优秀项目
 >https://zhuanlan.zhihu.com/p/60814766
