@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190401:<br>
+医疗中的自动机器学习和可解释性
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247509403&idx=1&sn=ba159f43d96a421d0adfdd50a8d13fb9
+
+
+
+
 20190331:<br>
 实战 | CNN+BLSTM+CTC的验证码识别从训练到部署
 >https://mp.weixin.qq.com/s?__biz=Mzg3MDA3NTE1NQ==&mid=2247483841&idx=1&sn=8d327d2ef52759c56dc8aed41729d51e
