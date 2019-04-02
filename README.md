@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190402:<br>
+前深度学习时代CTR预估模型的演化之路
+>https://zhuanlan.zhihu.com/p/61154299
+
+
+
 20190401:<br>
 医疗中的自动机器学习和可解释性
 >https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247509403&idx=1&sn=ba159f43d96a421d0adfdd50a8d13fb9
