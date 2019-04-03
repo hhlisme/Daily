@@ -11,6 +11,13 @@
 以下是2019年目录！<br>
 
 
+20190403:<br>
+如何绘制深度学习模型图？
+>https://www.zhihu.com/question/317106629
+
+
+
+
 20190402:<br>
 前深度学习时代CTR预估模型的演化之路
 >https://zhuanlan.zhihu.com/p/61154299
