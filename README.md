@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 
+20190404:<br>
+为什么相比于RNN，LSTM在梯度消失上表现更好？
+https://www.zhihu.com/question/44895610/answer/616818627
+
+
 20190403:<br>
 如何绘制深度学习模型图？
 >https://www.zhihu.com/question/317106629
