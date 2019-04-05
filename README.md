@@ -11,9 +11,14 @@
 以下是2019年目录！<br>
 
 
+20190405:<br>
+阿里重磅发布大规模图神经网络平台AliGraph，技术架构和算法独家解读
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247495919&idx=1&sn=33bd9c32795ee90291a53667a7b1cbb4
+
+
 20190404:<br>
 为什么相比于RNN，LSTM在梯度消失上表现更好？
-https://www.zhihu.com/question/44895610/answer/616818627
+>https://www.zhihu.com/question/44895610/answer/616818627
 
 
 20190403:<br>
