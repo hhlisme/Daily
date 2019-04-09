@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 
+20190408:<br>
+百度云魅族深度学习应用大赛---使用循环神经网络破解验证码
+>https://github.com/ypwhs/baiduyun_deeplearning_competition
+
+
 
 20190407:<br>
 《神经网络与深度学习》作者：邱锡鹏
