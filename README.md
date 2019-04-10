@@ -12,6 +12,13 @@
 
 
 
+
+20190410:<br>
+【技术综述】深度学习中的数据增强方法都有哪些？
+https://zhuanlan.zhihu.com/p/61759947
+
+
+
 20190409:<br>
 RS | 推荐系统整体设计
 https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247484581&idx=1&sn=76d81117833b47ccd74ac3ea279f0366
