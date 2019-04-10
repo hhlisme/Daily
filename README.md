@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+
+20190409:<br>
+RS | 推荐系统整体设计
+https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247484581&idx=1&sn=76d81117833b47ccd74ac3ea279f0366
+
+
 20190408:<br>
 百度云魅族深度学习应用大赛---使用循环神经网络破解验证码
 >https://github.com/ypwhs/baiduyun_deeplearning_competition
