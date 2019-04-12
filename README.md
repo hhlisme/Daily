@@ -12,20 +12,28 @@
 
 
 
+
+
+20190412:<br>
+用PyTorch创建一个图像分类器？So easy！（Part 1）
+>https://zhuanlan.zhihu.com/p/52746066
+
+
+
 20190411:<br>
 基于NumPy和图像分类的人工神经网络构建
-https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247488219&idx=1&sn=af5beef017ddd998f84ccb3b34e60ced
+>https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247488219&idx=1&sn=af5beef017ddd998f84ccb3b34e60ced
 
 
 20190410:<br>
 【技术综述】深度学习中的数据增强方法都有哪些？
-https://zhuanlan.zhihu.com/p/61759947
+>https://zhuanlan.zhihu.com/p/61759947
 
 
 
 20190409:<br>
 RS | 推荐系统整体设计
-https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247484581&idx=1&sn=76d81117833b47ccd74ac3ea279f0366
+>https://mp.weixin.qq.com/s?__biz=MzIzMzYwNzY2NQ==&mid=2247484581&idx=1&sn=76d81117833b47ccd74ac3ea279f0366
 
 
 20190408:<br>
