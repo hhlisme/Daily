@@ -12,6 +12,10 @@
 
 
 
+20190411:<br>
+基于NumPy和图像分类的人工神经网络构建
+https://mp.weixin.qq.com/s?__biz=MzU1MTkwNzIyOQ==&mid=2247488219&idx=1&sn=af5beef017ddd998f84ccb3b34e60ced
+
 
 20190410:<br>
 【技术综述】深度学习中的数据增强方法都有哪些？
