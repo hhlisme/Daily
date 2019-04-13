@@ -12,6 +12,10 @@
 
 
 
+20190413:<br>
+用Keras搭建卷积神经网络
+>https://zhuanlan.zhihu.com/p/53790130
+
 
 
 20190412:<br>
