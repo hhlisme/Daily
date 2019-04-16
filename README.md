@@ -12,6 +12,13 @@
 
 
 
+
+
+20190416:<br>
+浅谈人工智能：现状、任务、构架与统一 | 正本清源（朱松纯）
+>https://mp.weixin.qq.com/s?__biz=MzI3MTM5ODA0Nw==&mid=2247484058&idx=1&sn=0dfe92a0991294afba2514b137217a66
+
+
 20190415:<br>
 使用 Python 通过基于颜色的图像分割进行物体检测
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650675972&idx=1&sn=9db11a8a8d4b99dad4795a951ba36fb9
