@@ -11,6 +11,15 @@
 以下是2019年目录！<br>
 
 
+
+20190418:<br>
+干货 | attention超全综述
+>https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486523&idx=1&sn=22f7a50d0d11e173789e2f5450b3a7c2
+
+
+
+
+
 20190417:<br>
 TPAMI | 从虚拟到现实，一种基于强化学习的端到端主动目标跟踪方法
 >https://mp.weixin.qq.com/s?__biz=MzU0MjU5NjQ3NA==&mid=2247484504&idx=1&sn=ef043b53a0c75d853668258472916e74
