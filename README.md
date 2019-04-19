@@ -12,6 +12,13 @@
 
 
 
+20190419:<br>
+综述 | 近5年基于深度学习的目标检测算法
+>https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487376&idx=1&sn=48d332118f7ff2d950d8af5fa1573537
+
+
+
+
 20190418:<br>
 干货 | attention超全综述
 >https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486523&idx=1&sn=22f7a50d0d11e173789e2f5450b3a7c2
