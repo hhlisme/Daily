@@ -12,6 +12,12 @@
 
 
 
+20190420:<br>
+kaggle的比赛真的靠ensemble吗？（砍手豪）
+>https://zhuanlan.zhihu.com/p/49094829
+
+
+
 20190419:<br>
 综述 | 近5年基于深度学习的目标检测算法
 >https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247487376&idx=1&sn=48d332118f7ff2d950d8af5fa1573537
