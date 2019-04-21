@@ -11,6 +11,12 @@
 以下是2019年目录！<br>
 
 
+20190421:<br>
+携程金融大数据风控算法实践
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247489406&idx=1&sn=9dc0dfaab0b43bc18f1a1f5565f94aab
+
+
+
 
 20190420:<br>
 kaggle的比赛真的靠ensemble吗？（砍手豪）
