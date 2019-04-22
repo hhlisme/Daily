@@ -11,6 +11,15 @@
 以下是2019年目录！<br>
 
 
+
+
+20190422:<br>
+CVPR 2019 | 旷视研究院提出新型损失函数：改善边界框模糊问题
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247496513&idx=2&sn=6fb827b5482920ef678478e9d6254ac4
+
+
+
+
 20190421:<br>
 携程金融大数据风控算法实践
 >https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247489406&idx=1&sn=9dc0dfaab0b43bc18f1a1f5565f94aab
