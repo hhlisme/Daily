@@ -1,8 +1,8 @@
 # Daily 何红亮每日学习“日记”  2019
 
-    这是何红亮同学保存每日记录的地方，GitHub上的第一个目录。</p>
+    这是何红亮同学保存每日记录的地方，GitHub上的第一个目录。
     在这里，我将记录每天自己看到的有收获的文章。比如：数据挖掘、机器学习、深度学习、NLP、数据竞赛、Python进阶及有关数据及建模方面内容。
-    在数据科学的道路上，能够慢慢进步和成长！坚持每天进步一点点！</p>
+    在数据科学的道路上，能够慢慢进步和成长！坚持每天进步一点点！
     如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
     <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，自然语言处理 NLP）
 ----
@@ -10,6 +10,13 @@
 
 以下是2019年目录！<br>
 
+</p>
+20190423:<br>
+非平衡数据集 focal loss 多类分类
+>https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650676080&idx=1&sn=3a7feeee822459f27f687bfb9c09eb9e
+
+从FFM到DeepFFM，推荐排序模型到底哪家强？
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496151&idx=2&sn=482652d3c4747b4775304847712e4240
 
 
 
