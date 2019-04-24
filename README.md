@@ -11,6 +11,21 @@
 以下是2019年目录！<br>
 
 </p>
+
+
+
+
+
+
+
+
+20190424:<br>
+近期必读的7篇 CVPR 2019【视觉问答】相关论文和代码
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247510394&idx=2&sn=37c0bced40859a215e4e0c84058cfae5
+
+
+
+
 20190423:<br>
 非平衡数据集 focal loss 多类分类
 >https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650676080&idx=1&sn=3a7feeee822459f27f687bfb9c09eb9e
