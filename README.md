@@ -13,6 +13,9 @@
 </p>
 
 
+20190426:<br>
+跟着指南学PyTorch 数据加载和处理教程（Data Loading and Processing Tutorial）
+>https://tianchi.aliyun.com/notebook-ai/detail?postId=9816
 
 
 
