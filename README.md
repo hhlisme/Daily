@@ -13,6 +13,14 @@
 </p>
 
 
+20190427:<br>
+深度学习不再是炼丹术！谷歌给出首个神经网络训练理论证明
+>https://zhuanlan.zhihu.com/p/57289737
+
+
+
+
+
 20190426:<br>
 跟着指南学PyTorch 数据加载和处理教程（Data Loading and Processing Tutorial）
 >https://tianchi.aliyun.com/notebook-ai/detail?postId=9816
