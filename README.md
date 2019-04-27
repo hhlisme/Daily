@@ -13,10 +13,16 @@
 </p>
 
 
+
+
+
+
 20190427:<br>
 深度学习不再是炼丹术！谷歌给出首个神经网络训练理论证明
 >https://zhuanlan.zhihu.com/p/57289737
 
+CAMMTR(KDD19)_Part3_多分类Baseline分享(含Code)
+>https://mp.weixin.qq.com/s?__biz=MzU1Nzc1NjI0Nw==&mid=2247484071&idx=1&sn=19157023f8f0e1b5422440ab4c0d75c1
 
 
 
