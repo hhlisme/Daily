@@ -13,6 +13,12 @@
 </p>
 
 
+20190429:<br>
+CVPR | 基于级联生成式与判别式学习的乳腺钼靶微钙化检测
+>https://mp.weixin.qq.com/s?__biz=MzU0MjU5NjQ3NA==&mid=2247484552&idx=1&sn=e83d4d072a4834fc1ba695ebc6f53e43
+
+
+
 20190428:<br>
 重磅 | 完备的 AI 学习路线，最详细的资源整理！
 >https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484443&idx=1&sn=7110e42ef9e95a8c16064dde5b897960
