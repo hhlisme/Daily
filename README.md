@@ -4,13 +4,20 @@
     在这里，我将记录每天自己看到的有收获的文章。比如：数据挖掘、机器学习、深度学习、NLP、数据竞赛、Python进阶及有关数据及建模方面内容。
     在数据科学的道路上，能够慢慢进步和成长！坚持每天进步一点点！
     如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
-    <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，自然语言处理 NLP）
+    <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 ----
 <br>
 
 以下是2019年目录！<br>
 
 </p>
+
+
+
+
+20190430:<br>
+近期必读的7篇【医学图像分割】相关论文和代码（CVPR、AAAI）
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247510580&idx=1&sn=75dd1dce61cbb1c4e25d968b1e532704
 
 
 20190429:<br>
