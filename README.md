@@ -13,6 +13,13 @@
 </p>
 
 
+
+
+20190502:<br>
+GAN万字长文综述
+https://zhuanlan.zhihu.com/p/58812258
+
+
 20190501:<br>
 关于弱监督学习，这可能是目前最详尽的一篇科普文（来自：AI科技评论）
 >https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495221&idx=1&sn=cec72f4ef67f7e6a10c13a2d52668132
