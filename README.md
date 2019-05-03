@@ -12,12 +12,14 @@
 
 </p>
 
-
+20190503:<br>
+医学图像领域的GANs
+>https://zhuanlan.zhihu.com/p/59521772
 
 
 20190502:<br>
 GAN万字长文综述
-https://zhuanlan.zhihu.com/p/58812258
+>https://zhuanlan.zhihu.com/p/58812258
 
 
 20190501:<br>
