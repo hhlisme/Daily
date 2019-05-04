@@ -12,6 +12,13 @@
 
 </p>
 
+
+
+
+20190504:<br>
+分布式入门，怎样用PyTorch实现多GPU分布式训练
+>https://zhuanlan.zhihu.com/p/64579496
+
 20190503:<br>
 医学图像领域的GANs
 >https://zhuanlan.zhihu.com/p/59521772
