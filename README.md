@@ -15,6 +15,12 @@
 
 
 
+
+20190505:<br>
+超详综述：GAN在图像生成上的应用
+https://zhuanlan.zhihu.com/p/56157840
+
+
 20190504:<br>
 分布式入门，怎样用PyTorch实现多GPU分布式训练
 >https://zhuanlan.zhihu.com/p/64579496
