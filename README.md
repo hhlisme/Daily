@@ -13,12 +13,19 @@
 </p>
 
 
+20190506:<br>
+曹羽 | 从知识工程到知识图谱全面回顾
+>https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247485923&idx=1&sn=1d5a76a20d7f820739f272906162a89b
+
+CCPM & FGCNN：使用 CNN 进行特征生成的 CTR 预测模型
+>https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247489869&idx=1&sn=faa31fe5b399e5db66838ba79f7f6d6a
+
 
 
 
 20190505:<br>
 超详综述：GAN在图像生成上的应用
-https://zhuanlan.zhihu.com/p/56157840
+>https://zhuanlan.zhihu.com/p/56157840
 
 
 20190504:<br>
