@@ -13,6 +13,11 @@
 </p>
 
 
+20190507:<br>
+深度学习与医学图像分析
+>https://zhuanlan.zhihu.com/p/62045048
+
+
 20190506:<br>
 曹羽 | 从知识工程到知识图谱全面回顾
 >https://mp.weixin.qq.com/s?__biz=MzU2NjAxNDYwMg==&mid=2247485923&idx=1&sn=1d5a76a20d7f820739f272906162a89b
