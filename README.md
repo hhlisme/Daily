@@ -14,7 +14,7 @@
 
 
 
-20190507:<br>
+20190508:<br>
 破解数据孤岛壁垒，三篇论文详细解读联邦学习
 >https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495287&idx=1&sn=feeb385fcfeb7c0dc22a84d5b477c498
 
