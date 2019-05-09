@@ -12,6 +12,9 @@
 
 </p>
 
+20190509:<br>
+超越标准 GNN ！DeepMind、谷歌提出图匹配网络| ICML最新论文
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490952&idx=1&sn=b70d22f3691fac9634f19a74f6b682b9
 
 
 20190508:<br>
