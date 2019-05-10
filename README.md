@@ -12,6 +12,13 @@
 
 </p>
 
+
+20190510:<br>
+【干货】Kaggle数据挖掘比赛经验分享，陈成龙博士整理！
+>https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484525&idx=1&sn=df042d914c188c27b930f83852418585
+
+
+
 20190509:<br>
 超越标准 GNN ！DeepMind、谷歌提出图匹配网络| ICML最新论文
 >https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490952&idx=1&sn=b70d22f3691fac9634f19a74f6b682b9
