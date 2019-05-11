@@ -13,6 +13,15 @@
 </p>
 
 
+
+20190511:<br>
+在TensorFlow+Keras环境下使用RoI池化一步步实现注意力机制
+>https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650761841&idx=4&sn=012cd254ecceb5800c758a6389526093
+
+一图生万物！英伟达推超强图像转换神器，小样本一秒猫变狗
+>https://mp.weixin.qq.com/s?__biz=MzU1NTUxNTM0Mg==&mid=2247490974&idx=1&sn=54a1ca1c5f6196f0d41d5ac104799357
+
+
 20190510:<br>
 【干货】Kaggle数据挖掘比赛经验分享，陈成龙博士整理！
 >https://mp.weixin.qq.com/s?__biz=MzIyNjM2MzQyNg==&mid=2247484525&idx=1&sn=df042d914c188c27b930f83852418585
