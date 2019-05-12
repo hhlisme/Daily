@@ -13,6 +13,13 @@
 </p>
 
 
+20190512:<br>
+CV Code | 本周新出计算机视觉开源代码汇总（含目标跟踪、语义分割、姿态跟踪、少样本学习等）
+>https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247486827&idx=1&sn=aa987315ee484ad1ffc1553ffad902ac
+
+
+
+
 
 20190511:<br>
 在TensorFlow+Keras环境下使用RoI池化一步步实现注意力机制
