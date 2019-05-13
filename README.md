@@ -13,6 +13,13 @@
 </p>
 
 
+
+20190513:<br>
+从动力学角度看优化算法：GAN的第三个阶段
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247496992&idx=1&sn=6589bed77fc3d6c9a2b0bfa1f562082a
+
+
+
 20190512:<br>
 CV Code | 本周新出计算机视觉开源代码汇总（含目标跟踪、语义分割、姿态跟踪、少样本学习等）
 >https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247486827&idx=1&sn=aa987315ee484ad1ffc1553ffad902ac
