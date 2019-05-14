@@ -12,6 +12,13 @@
 
 </p>
 
+20190514:<br>
+密歇根大学40页《20年目标检测综述》最新论文，带你全面了解目标检测方法
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247511243&idx=1&sn=f2f7d013f4d7704eee3f0f94ffc1fbd1
+
+
+
+
 
 
 20190513:<br>
