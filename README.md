@@ -12,13 +12,22 @@
 
 </p>
 
+
+
+
+
+
+
+20190515:<br>
+学界 | 医学影像分割难题获突破：可自动调参，适应所有数据集
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495287&idx=2&sn=afc9fc16287d4219be9d9b8a8e36c56f
+
+
+
+
 20190514:<br>
 密歇根大学40页《20年目标检测综述》最新论文，带你全面了解目标检测方法
 >https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247511243&idx=1&sn=f2f7d013f4d7704eee3f0f94ffc1fbd1
-
-
-
-
 
 
 20190513:<br>
