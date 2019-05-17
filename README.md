@@ -12,7 +12,9 @@
 
 </p>
 
-
+20190517:<br>
+亚马逊提出：目标检测训练秘籍（代码已开源）
+>https://zhuanlan.zhihu.com/p/56700862
 
 
 
@@ -32,6 +34,8 @@
 密歇根大学40页《20年目标检测综述》最新论文，带你全面了解目标检测方法
 >https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247511243&idx=1&sn=f2f7d013f4d7704eee3f0f94ffc1fbd1
 
+继往开来！目标检测二十年技术综述
+>https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247486926&idx=1&sn=9fc0715dbf96700fc8d6bb30dd3ba741
 
 20190513:<br>
 从动力学角度看优化算法：GAN的第三个阶段
