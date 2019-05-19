@@ -12,6 +12,20 @@
 
 </p>
 
+
+
+20190519:<br>
+学界 | 医学影像分割难题获突破：可自动调参，适应所有数据集
+>https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247495287&idx=2&sn=afc9fc16287d4219be9d9b8a8e36c56f
+
+
+
+20190518:<br>
+悉尼科技大学入选 CVPR 2019 的 8 篇论文，都研究什么？
+>https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247496880&idx=2&sn=99cdcc2194c24fd45690cd87bf35d76a
+
+
+
 20190517:<br>
 亚马逊提出：目标检测训练秘籍（代码已开源）
 >https://zhuanlan.zhihu.com/p/56700862
