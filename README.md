@@ -12,6 +12,12 @@
 
 </p>
 
+20190521:<br>
+机器学习与人工智能技术分享-第八章 目标检测与识别
+>https://www.zybuluo.com/vivounicorn/note/872593#81-selective-search
+
+
+
 20190520:<br>
 综述：基于深度学习文本检测的十全大补丸
 >https://zhuanlan.zhihu.com/p/52335619
