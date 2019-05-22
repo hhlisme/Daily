@@ -12,6 +12,13 @@
 
 </p>
 
+
+20190522:<br>
+深度解读何恺明团队提出的随机连接神经网络RandWireNN
+>https://zhuanlan.zhihu.com/p/62837029
+
+
+
 20190521:<br>
 机器学习与人工智能技术分享-第八章 目标检测与识别
 >https://www.zybuluo.com/vivounicorn/note/872593#81-selective-search
