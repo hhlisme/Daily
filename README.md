@@ -12,6 +12,14 @@
 
 </p>
 
+
+20190524:<br>
+近期必读的9篇CVPR 2019【域自适应（Domain Adaptation）】相关论文和代码
+>https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247511381&idx=1&sn=3db1edf863823c2edeffb53471fd87aa
+
+
+
+
 20190523:<br>
 综述：基于深度学习文本检测的十全大补丸
 >https://zhuanlan.zhihu.com/p/52335619
