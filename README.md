@@ -12,6 +12,12 @@
 
 </p>
 
+20190525:<br>
+漫画人脸检测 | 全局和局部信息融合的深度神经网络（文末源码）
+>https://mp.weixin.qq.com/s?__biz=MzU0NTAyNTQ1OQ==&mid=2247487510&idx=1&sn=78f9637a1a6a0c6e776c750d79e874dd
+
+
+
 
 20190524:<br>
 近期必读的9篇CVPR 2019【域自适应（Domain Adaptation）】相关论文和代码
