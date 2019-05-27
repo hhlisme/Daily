@@ -13,9 +13,13 @@
 </p>
 
 
+20190527:<br>
+基于深度学习的目标检测技术演进：R-CNN、Fast R-CNN、Faster R-CNN
+>https://www.cnblogs.com/skyfsm/p/6806246.html
+
 20190526:<br>
 推荐系统工程师必看！Embedding技术在深度学习CTR模型中的应用
-https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496609&idx=2&sn=59495b8f1867584e5116a28946b073a3
+>https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496609&idx=2&sn=59495b8f1867584e5116a28946b073a3
 
 
 
