@@ -13,6 +13,11 @@
 </p>
 
 
+
+20190528:<br>
+近期必读的10篇 ICML 2019【图神经网络（GNN）】相关论文和代码
+https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247511577&idx=1&sn=0c8d5cdaa09eb396f82bd1002c60b9be
+
 20190527:<br>
 基于深度学习的目标检测技术演进：R-CNN、Fast R-CNN、Faster R-CNN
 >https://www.cnblogs.com/skyfsm/p/6806246.html
