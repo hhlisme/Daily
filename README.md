@@ -12,6 +12,14 @@
 
 </p>
 
+
+20190530:<br>
+分割、检测与定位，高分辨率网络显神威！这会是席卷深度学习的通用结构吗？
+>https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247486523&idx=2&sn=ee842937816f43af2a754a49fc52acbc
+
+
+
+
 20190529:<br>
 CVPR 2019 | 告别低分辨率网络，微软提出高分辨率深度神经网络HRNet
 >https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649447799&idx=1&sn=57d738482c24ca36d6627900311e1dd3
