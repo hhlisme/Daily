@@ -13,6 +13,14 @@
 </p>
 
 
+
+
+
+20190531:<br>
+CVPR2019 | 文本检测算法综述
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247489078&idx=1&sn=8486e661e48cee147e0fdcd0b06ce9e4
+
+
 20190530:<br>
 分割、检测与定位，高分辨率网络显神威！这会是席卷深度学习的通用结构吗？
 >https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247486523&idx=2&sn=ee842937816f43af2a754a49fc52acbc
