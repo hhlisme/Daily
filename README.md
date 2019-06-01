@@ -14,7 +14,9 @@
 
 
 
-
+20190601:<br>
+11篇重要的ConvNet论文（孔涛）
+>https://zhuanlan.zhihu.com/p/54090515
 
 20190531:<br>
 CVPR2019 | 文本检测算法综述
