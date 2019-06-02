@@ -14,6 +14,11 @@
 
 
 
+20190602: <br>
+CVPR 2019 有哪些值得关注的亮点？
+>https://www.zhihu.com/question/313967271
+
+
 20190601:<br>
 11篇重要的ConvNet论文（孔涛）
 >https://zhuanlan.zhihu.com/p/54090515
