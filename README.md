@@ -12,7 +12,9 @@
 
 </p>
 
-
+20190603:<br>
+深度解读何恺明团队提出的随机连接神经网络RandWireNN
+>https://zhuanlan.zhihu.com/p/62837029
 
 20190602: <br>
 CVPR 2019 有哪些值得关注的亮点？
