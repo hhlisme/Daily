@@ -12,6 +12,11 @@
 
 </p>
 
+
+20190604:<br>
+深度CTR预估模型中的特征自动组合机制演化简史
+>https://zhuanlan.zhihu.com/p/52876883
+
 20190603:<br>
 深度解读何恺明团队提出的随机连接神经网络RandWireNN
 >https://zhuanlan.zhihu.com/p/62837029
