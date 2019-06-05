@@ -12,6 +12,10 @@
 
 </p>
 
+20190605:<br>
+盘点 | CVPR 2019，先来看看有哪些不容错过的有意思的tutorials
+>https://mp.weixin.qq.com/s/ammK7Q5O_Kd4o8kldc3G3A
+
 
 20190604:<br>
 深度CTR预估模型中的特征自动组合机制演化简史
