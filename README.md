@@ -12,6 +12,11 @@
 
 </p>
 
+
+20190606:<br>
+【Graph Embedding】node2vec：算法原理，实现和应用
+>https://zhuanlan.zhihu.com/p/56542707
+
 20190605:<br>
 盘点 | CVPR 2019，先来看看有哪些不容错过的有意思的tutorials
 >https://mp.weixin.qq.com/s/ammK7Q5O_Kd4o8kldc3G3A
