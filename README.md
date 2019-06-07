@@ -13,6 +13,16 @@
 </p>
 
 
+20190607:<br>
+聊聊Anchor的"前世今生"（上）
+>https://zhuanlan.zhihu.com/p/63273342
+
+聊聊Anchor的"前世今生"（下）
+>https://zhuanlan.zhihu.com/p/68291859
+
+
+
+
 20190606:<br>
 【Graph Embedding】node2vec：算法原理，实现和应用
 >https://zhuanlan.zhihu.com/p/56542707
