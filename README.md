@@ -13,6 +13,11 @@
 </p>
 
 
+20190608:<br>
+BERT模型在NLP中目前取得如此好的效果，那下一步NLP该何去何从？
+>https://www.zhihu.com/question/320606353
+
+
 20190607:<br>
 聊聊Anchor的"前世今生"（上）
 >https://zhuanlan.zhihu.com/p/63273342
