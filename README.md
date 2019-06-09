@@ -13,6 +13,10 @@
 </p>
 
 
+20190609:<br>
+极市团队整理cvpr2019论文和代码地址（Papers/Codes/Project/Paper reading）
+>https://github.com/extreme-assistant/cvpr2019
+
 20190608:<br>
 BERT模型在NLP中目前取得如此好的效果，那下一步NLP该何去何从？
 >https://www.zhihu.com/question/320606353
