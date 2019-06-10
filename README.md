@@ -13,6 +13,10 @@
 </p>
 
 
+20190610:<br>
+CVPR 2019 | 国防科大提出双目超分辨算法，效果优异代码已开源
+https://mp.weixin.qq.com/s/j4jfTKkbdQ9bHD7IZFdkbA
+
 20190609:<br>
 极市团队整理cvpr2019论文和代码地址（Papers/Codes/Project/Paper reading）
 >https://github.com/extreme-assistant/cvpr2019
