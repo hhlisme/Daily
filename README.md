@@ -11,7 +11,16 @@
 以下是2019年目录！<br>
 
 </p>
-20190612有电脑时列上
+
+20190613:<br>
+GAN秒变肖像画！清华刘永进提出APDrawingGAN ，CVPR Oral(附微信小程序)
+>https://mp.weixin.qq.com/s/tUxhBHm-IpHboJca-HkSyw
+
+20190612:<br>
+进大厂全靠自学，微软&头条实习生现身说法：我是这样自学深度学习的丨课程传送门
+>https://zhuanlan.zhihu.com/p/68990173
+
+
 20190611:<br>
 从计算机视觉小白，到Momenta算法研究员的进阶课程最全整理
 >https://zhuanlan.zhihu.com/p/40103989
