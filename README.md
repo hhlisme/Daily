@@ -12,6 +12,13 @@
 
 </p>
 
+
+20190614:<br>
+CVPR 2019 | 旷视研究院提出Re-ID新方法VPM，优化局部成像下行人再识别
+>https://mp.weixin.qq.com/s/JbZblzgLyHBQxP9AecLZbA
+
+
+
 20190613:<br>
 GAN秒变肖像画！清华刘永进提出APDrawingGAN ，CVPR Oral(附微信小程序)
 >https://mp.weixin.qq.com/s/tUxhBHm-IpHboJca-HkSyw
