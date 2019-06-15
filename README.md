@@ -13,6 +13,10 @@
 </p>
 
 
+20190615:<br>
+南京大学周志华教授综述论文：弱监督学习
+>https://zhuanlan.zhihu.com/p/34270286
+
 20190614:<br>
 CVPR 2019 | 旷视研究院提出Re-ID新方法VPM，优化局部成像下行人再识别
 >https://mp.weixin.qq.com/s/JbZblzgLyHBQxP9AecLZbA
