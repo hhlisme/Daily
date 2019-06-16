@@ -13,6 +13,11 @@
 </p>
 
 
+20190616:<br>
+【干货】史上最全的PyTorch学习资源汇总
+>https://zhuanlan.zhihu.com/p/69383543
+
+
 20190615:<br>
 南京大学周志华教授综述论文：弱监督学习
 >https://zhuanlan.zhihu.com/p/34270286
