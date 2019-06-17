@@ -13,6 +13,12 @@
 </p>
 
 
+
+20190617:<br>
+KDD2018 | 蚂蚁金服图神经网络在风控领域的应用
+>https://mp.weixin.qq.com/s/uy-X7AlVk9upmfZp4BxSkQ
+
+
 20190616:<br>
 【干货】史上最全的PyTorch学习资源汇总
 >https://zhuanlan.zhihu.com/p/69383543
