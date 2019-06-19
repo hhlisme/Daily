@@ -14,6 +14,10 @@
 
 </p>
 
+20190619:<br>
+CVPR2019 | 旷视研究院提出TACNet，刷新时空动作检测技术新高度
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247489201&idx=2&sn=c609cdc61cc5cd8482a6eda8376bd590
+
 20190618:<br>
 TensorLayer | 深度强化学习实现全家桶
 >https://mp.weixin.qq.com/s/S84LQ3y2snBaFO_ks_gBUA
