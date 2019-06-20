@@ -14,6 +14,13 @@
 
 </p>
 
+
+
+20190620:<br>
+给GAN一句描述，它就能按要求画画，微软CVPR新研究 | 附PyTorch代码
+>https://zhuanlan.zhihu.com/p/69999301
+
+
 20190619:<br>
 CVPR2019 | 旷视研究院提出TACNet，刷新时空动作检测技术新高度
 >https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247489201&idx=2&sn=c609cdc61cc5cd8482a6eda8376bd590
