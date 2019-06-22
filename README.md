@@ -1,5 +1,6 @@
 
 
+
 # Daily 何红亮每日学习“日记”  2019
 
     这是何红亮同学保存每日记录的地方，GitHub上的第一个目录。
@@ -13,6 +14,19 @@
 以下是2019年目录！<br>
 
 </p>
+
+
+
+20190622:<br>
+最全综述 | 图像分割算法
+>https://mp.weixin.qq.com/s/6vXARM9AkSL3cg9GLmEyaQ
+
+
+
+20190621:<br>
+CVPR 2019 论文大盘点—文本图像相关篇
+>https://mp.weixin.qq.com/s/_1Im-QQb5zCowkQlZA41Hg
+
 
 
 
