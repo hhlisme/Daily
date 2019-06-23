@@ -15,6 +15,14 @@
 
 </p>
 
+
+20190624:<br>
+Google又发大招：高效实时实现视频目标检测
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488048&idx=1&sn=247be5c32eab97b7998f20bb31255182
+
+
+
+
 20190623:<br>
 重磅！商汤开源Grid R-CNN Plus：相比Grid RCNN，速度更快，精度更高
 >https://mp.weixin.qq.com/s/_2DwSY6olj3wKy2xKukEGg
