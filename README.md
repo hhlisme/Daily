@@ -15,6 +15,9 @@
 
 </p>
 
+20190623:<br>
+重磅！商汤开源Grid R-CNN Plus：相比Grid RCNN，速度更快，精度更高
+>https://mp.weixin.qq.com/s/_2DwSY6olj3wKy2xKukEGg
 
 
 20190622:<br>
