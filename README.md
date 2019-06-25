@@ -16,6 +16,12 @@
 </p>
 
 
+20190625:<br>
+何恺明团队新作ResNext-101：Instagram图片预训练，挑战ImageNet新精度
+>https://zhuanlan.zhihu.com/p/70757697
+
+
+
 20190624:<br>
 Google又发大招：高效实时实现视频目标检测
 >https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488048&idx=1&sn=247be5c32eab97b7998f20bb31255182
