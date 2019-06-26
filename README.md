@@ -16,6 +16,13 @@
 </p>
 
 
+20190626:<br>
+深度学习在金融领域的应用
+>https://mp.weixin.qq.com/s/yvLrvmhBMUi5imQcHDo9Wg
+
+
+
+
 20190625:<br>
 何恺明团队新作ResNext-101：Instagram图片预训练，挑战ImageNet新精度
 >https://zhuanlan.zhihu.com/p/70757697
@@ -827,27 +834,4 @@ NLP中评价文本输出都有哪些方法？为什么要小心使用 BLEU？
 
 20190215:<br>
 中文NLP福利！大规模中文自然语言处理语料
->https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652038359&idx=4&sn=63c4408011867983024c2c99a3490208
-
-中文分词十年又回顾2007-2017--简报
->https://zhuanlan.zhihu.com/p/56107108
-
-
-
-
-20190214:<br>
-新年干货 | NLP一路走来的经验之谈（附重磅资源）
->https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486226&idx=1&sn=26275decf4502433550ea2f1bb19507e
-
-
-
-
-20190213:<br>
-对话MSRA副院长周明：回望过去，展望未来，NLP有哪些发展趋势？
->https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650756950&idx=2&sn=f9d129bc2a86f2e6cd34c668b4d19c40
-
-
-
-20190212:<br>
-序列模型简介——RNN, Bidirectional RNN, LSTM, GRU
->https://mp.weixin.qq.com/s?__biz=MzI0NTE4NjA0OQ==&mid=2658359802&idx=1&sn=2edfa188927b7d783ac7d122619807f8
+>https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652038359&idx=4&sn=63c4408011867983024c2c99a349020
