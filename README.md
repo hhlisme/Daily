@@ -16,6 +16,12 @@
 </p>
 
 
+
+
+20190627:<br>
+丁香园在语义匹配任务上的探索与实践
+>https://zhuanlan.zhihu.com/p/69356170
+
 20190626:<br>
 深度学习在金融领域的应用
 >https://mp.weixin.qq.com/s/yvLrvmhBMUi5imQcHDo9Wg
