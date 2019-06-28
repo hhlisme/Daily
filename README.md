@@ -18,6 +18,12 @@
 
 
 
+
+
+20190628:<br>
+CVPR 2019 | 55篇 CVPR 2019 论文实现代码
+https://mp.weixin.qq.com/s/KWXT7rCtoE6Lh74zbxbt7A
+
 20190627:<br>
 丁香园在语义匹配任务上的探索与实践
 >https://zhuanlan.zhihu.com/p/69356170
