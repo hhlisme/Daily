@@ -19,6 +19,11 @@
 
 
 
+20190629:<br>
+Cascade R-CNN升级！目标检测制霸COCO，实例分割超越Mask R-CNN
+https://mp.weixin.qq.com/s/sRU9_M9LsP-j46kNdcI0QQ
+
+
 
 20190628:<br>
 CVPR 2019 | 55篇 CVPR 2019 论文实现代码
