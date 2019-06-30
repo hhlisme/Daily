@@ -15,8 +15,9 @@
 
 </p>
 
-
-
+20190630:<br>
+计算机视觉方向简介 | 基于自然语言的跨模态行人re-id的SOTA方法（上）
+https://mp.weixin.qq.com/s/f8_ESiTPDOFKJwIlDCAMjw
 
 
 20190629:<br>
