@@ -14,8 +14,21 @@
 以下是2019年目录！<br>
 
 </p>
+
+
+20190704:<br>
+CVPR 2019 | 五年后的计算机视觉会是什么样？
+>https://mp.weixin.qq.com/s/d4UqKAlyjA3zImzp4JlBuQ
+
+
 20190703:<br>
+何恺明团队新作ResNext-101：Instagram图片预训练，挑战ImageNet新精度
+>https://zhuanlan.zhihu.com/p/70757697
+
 20190702:<br>
+物体检测丨从R-CNN到Mask R-CNN
+>https://www.cnblogs.com/vincent1997/p/10920652.html
+
 
 20190701:<br>
 CVPR 2019 论文大盘点—目标检测篇
