@@ -16,6 +16,12 @@
 </p>
 
 
+20190705:<br>
+CVPR2019目标检测方法进展综述
+>https://mp.weixin.qq.com/s/9DQdTzysyBEpHYsV6kvx1w
+
+
+
 20190704:<br>
 CVPR 2019 | 五年后的计算机视觉会是什么样？
 >https://mp.weixin.qq.com/s/d4UqKAlyjA3zImzp4JlBuQ
