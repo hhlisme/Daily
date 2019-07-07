@@ -16,6 +16,17 @@
 </p>
 
 
+
+20190707:<br>
+优化|什么是动态规划（Dynamic Programming）?
+>https://zhuanlan.zhihu.com/p/72600111
+
+
+20190706:<br>
+网络深度对深度学习模型性能有什么影响？
+>https://mp.weixin.qq.com/s/Yp0xdlvM4ulFAK7Yk5lxSA
+
+
 20190705:<br>
 CVPR2019目标检测方法进展综述
 >https://mp.weixin.qq.com/s/9DQdTzysyBEpHYsV6kvx1w
