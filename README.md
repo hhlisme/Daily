@@ -16,6 +16,10 @@
 </p>
 
 
+20190708:<br>
+卷积神经网络（CNN）的结构设计都有哪些思想？
+>https://www.zhihu.com/question/312556066
+
 
 20190707:<br>
 优化|什么是动态规划（Dynamic Programming）?
