@@ -14,6 +14,13 @@
 以下是2019年目录！<br>
 
 </p>
+20190709:<br>
+Github项目推荐 | Emotion-recognition 实时表情识别
+>https://github.com/omar178/Emotion-recognition
+
+基于pseudo label的学习模型和Loss形式
+>https://zhuanlan.zhihu.com/p/35753177
+
 
 
 20190708:<br>
