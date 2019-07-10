@@ -14,6 +14,14 @@
 以下是2019年目录！<br>
 
 </p>
+
+
+
+201907010:<br>
+Graph Neural Network（GNN）最全资源整理分享
+>https://zhuanlan.zhihu.com/p/73052234
+
+
 20190709:<br>
 Github项目推荐 | Emotion-recognition 实时表情识别
 >https://github.com/omar178/Emotion-recognition
