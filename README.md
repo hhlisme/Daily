@@ -15,6 +15,9 @@
 
 </p>
 
+201907011:<br>
+论文笔记-NASNet（作者：Adia）
+>https://zhuanlan.zhihu.com/p/47246311
 
 
 201907010:<br>
