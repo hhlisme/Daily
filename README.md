@@ -15,6 +15,12 @@
 
 </p>
 
+201907012:<br>
+Awesome-CV-Paper-Review（计算机视觉各个方向论文速览）
+>https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/README.md
+
+
+
 201907011:<br>
 论文笔记-NASNet（作者：Adia）
 >https://zhuanlan.zhihu.com/p/47246311
