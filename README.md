@@ -12,6 +12,12 @@
 以下是2019年目录！<br>
 
 </p>
+201907014:<br>
+想入门设计卷积神经网络？这是一份综合设计指南
+>https://mp.weixin.qq.com/s/IMkvod2Lj2VOIWbFtAirzA
+
+
+
 
 201907013:<br>
 RCNN- 将CNN引入目标检测的开山之作
