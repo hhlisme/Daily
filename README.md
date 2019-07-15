@@ -12,6 +12,15 @@
 以下是2019年目录！<br>
 
 </p>
+
+
+
+201907015:<br>
+CNN系列模型发展简述（附github代码——已全部跑通，github代码依赖： python 2.7, Pytorch 0.3.1）
+>https://zhuanlan.zhihu.com/p/66215918
+
+
+
 201907014:<br>
 想入门设计卷积神经网络？这是一份综合设计指南
 >https://mp.weixin.qq.com/s/IMkvod2Lj2VOIWbFtAirzA
