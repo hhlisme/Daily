@@ -15,6 +15,16 @@
 
 
 
+
+
+
+
+
+201907016:<br>
+CVPR 2019开源论文 | BASNet：关注边界的显著性检测
+>https://mp.weixin.qq.com/s/fjq4UyDMN9Z9lvNZ7aNLWA
+
+
 201907015:<br>
 CNN系列模型发展简述（附github代码——已全部跑通，github代码依赖： python 2.7, Pytorch 0.3.1）
 >https://zhuanlan.zhihu.com/p/66215918
