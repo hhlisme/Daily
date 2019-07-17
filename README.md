@@ -16,6 +16,9 @@
 
 
 
+201907017:<br>
+人物识别精准度提升至91.14%​，TOP1团队技术方案
+>https://mp.weixin.qq.com/s/W763ALiHEXZleMgp4pvTNg
 
 
 
