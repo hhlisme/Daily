@@ -13,6 +13,14 @@
 
 </p>
 
+
+
+201907019:<br>
+吴恩达老师的机器学习和深度学习课程笔记打印版-公布源文件
+>https://zhuanlan.zhihu.com/p/35940466
+
+
+
 201907018:<br>
 目标检测领域还有什么可做的？19个方向给你建议
 >https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247486904&idx=1&sn=58f084975e27de17e79427fcc5562f49
