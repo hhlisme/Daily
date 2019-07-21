@@ -13,6 +13,13 @@
 
 </p>
 
+
+201907021:<br>
+CVPR2019 | FSAF：来自CMU的Single-Shot目标检测算法
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487638&idx=2&sn=1e9f26013b3d9ab4fd4137729894606a
+
+
+
 201907020:<br>
 CVPR2019 | FSAF：来自CMU的Single-Shot目标检测算法
 >https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487638&idx=2&sn=1e9f26013b3d9ab4fd4137729894606a
