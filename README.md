@@ -14,10 +14,14 @@
 </p>
 
 
-201907021:<br>
-CVPR2019 | FSAF：来自CMU的Single-Shot目标检测算法
->https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487638&idx=2&sn=1e9f26013b3d9ab4fd4137729894606a
+201907022:<br>
+Guided Anchoring: 物体检测器也能自己学 Anchor
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487300&idx=1&sn=3b5f6386f9a31acf48f377cf23e6af6f
 
+
+201907021:<br>
+【AI初识境】深度学习中常用的损失函数有哪些（覆盖分类，回归，风格化，GAN等任务）？
+>https://zhuanlan.zhihu.com/p/60302475
 
 
 201907020:<br>
