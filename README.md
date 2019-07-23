@@ -14,6 +14,13 @@
 </p>
 
 
+201907023:<br>
+物体检测的轮回: anchor-based 与 anchor-free
+>https://zhuanlan.zhihu.com/p/62372897
+
+
+
+
 201907022:<br>
 Guided Anchoring: 物体检测器也能自己学 Anchor
 >https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487300&idx=1&sn=3b5f6386f9a31acf48f377cf23e6af6f
