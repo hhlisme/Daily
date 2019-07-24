@@ -13,6 +13,13 @@
 
 </p>
 
+201907024:<br>
+CVPR 2019 最佳学生论文官方解读！
+>https://mp.weixin.qq.com/s/oSupoIQt5DmNS3SmJWbnRw
+
+人脸聚类那些事儿：利用无标签数据提升人脸识别性能
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488887&idx=1&sn=fb5ec2c57fffee0487a500f27de80dfb
+
 
 201907023:<br>
 物体检测的轮回: anchor-based 与 anchor-free
