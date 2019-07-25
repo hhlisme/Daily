@@ -13,6 +13,11 @@
 
 </p>
 
+201907025:<br>
+关于GANs在医学图像领域应用的总结
+>https://mp.weixin.qq.com/s/yT5GUrGR1jwdiSR9r9m8EQ
+
+
 201907024:<br>
 CVPR 2019 最佳学生论文官方解读！
 >https://mp.weixin.qq.com/s/oSupoIQt5DmNS3SmJWbnRw
