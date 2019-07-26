@@ -13,6 +13,13 @@
 
 </p>
 
+
+201907026:<br>
+2018小目标检测文章总结
+>https://mp.weixin.qq.com/s/0ILiEmYNWIEQz6TLnqN5XQ
+
+
+
 201907025:<br>
 关于GANs在医学图像领域应用的总结
 >https://mp.weixin.qq.com/s/yT5GUrGR1jwdiSR9r9m8EQ
