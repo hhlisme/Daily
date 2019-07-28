@@ -14,9 +14,22 @@
 </p>
 
 
+201907028:<br>
+CVPR 2019 | 旷视研究院提出新型损失函数：改善边界框模糊问题
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488887&idx=1&sn=fb5ec2c57fffee0487a500f27de80dfb
+
+CVPR2019 | ASRCF：基于自适应空间加权相关滤波的视觉跟踪研究（即将开源）
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488891&idx=1&sn=e436c1fa403fc06fe076f5167bc9dffa
+
+
+
+
 201907027:<br>
 OneNote 做出来的笔记颜值能有多高？
-https://www.zhihu.com/question/57139472/answer/732421475
+>https://www.zhihu.com/question/57139472/answer/732421475
+
+CVPR 2019 | 旷视研究院提出新型损失函数：改善边界框模糊问题
+>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488887&idx=2&sn=47043e73b8fee0ba20ea9303d212dd1a
 
 201907026:<br>
 2018小目标检测文章总结
