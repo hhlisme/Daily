@@ -12,11 +12,11 @@
 以下是2019年目录！<br>
 
 </p>
-
-
-201907028:<br>
+201907029:<br>
 CVPR 2019 | 旷视研究院提出新型损失函数：改善边界框模糊问题
 >https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488887&idx=1&sn=fb5ec2c57fffee0487a500f27de80dfb
+
+201907028:<br>
 
 CVPR2019 | ASRCF：基于自适应空间加权相关滤波的视觉跟踪研究（即将开源）
 >https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247488891&idx=1&sn=e436c1fa403fc06fe076f5167bc9dffa
