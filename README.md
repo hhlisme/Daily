@@ -13,11 +13,13 @@
 
 </p>
 
+201907031:<br>
+如果能理解医生的准确意图，深度学习会是医疗诊断的未来吗？
+>https://mp.weixin.qq.com/s/MklQqC2KrzXOIgBKXIA-Xw
+
 201907030:<br>
 干货 | 基于深度学习的目标检测算法综述
 >https://mp.weixin.qq.com/s/qizQmUKK1iILEfs8ZsXLnQ
-
-
 
 
 201907029:<br>
