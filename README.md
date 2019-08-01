@@ -1,3 +1,6 @@
+20190801:
+腾讯AI Lab姚建华：数字病理+AI将成为未来趋势 丨CCF-GAIR 2019
+https://mp.weixin.qq.com/s/VQwsqLjBpEx9ZI6bmegjjg
 
 # Daily 何红亮每日学习“日记”  2019
 
@@ -13,7 +16,13 @@
 
 </p>
 
-201907031:<br>
+
+
+20190801:<br>
+腾讯AI Lab姚建华：数字病理+AI将成为未来趋势 丨CCF-GAIR 2019
+>https://mp.weixin.qq.com/s/VQwsqLjBpEx9ZI6bmegjjg
+
+20190731:<br>
 如果能理解医生的准确意图，深度学习会是医疗诊断的未来吗？
 >https://mp.weixin.qq.com/s/MklQqC2KrzXOIgBKXIA-Xw
 
