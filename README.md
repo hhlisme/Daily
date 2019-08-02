@@ -16,6 +16,9 @@ https://mp.weixin.qq.com/s/VQwsqLjBpEx9ZI6bmegjjg
 
 </p>
 
+20190802:<br>
+谷歌大脑新技术——多尺度特征金字塔结构用于目标检测
+>https://mp.weixin.qq.com/s/xMQA97k0USl69v1MC86HKA
 
 
 20190801:<br>
