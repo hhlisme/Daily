@@ -16,6 +16,16 @@ https://mp.weixin.qq.com/s/VQwsqLjBpEx9ZI6bmegjjg
 
 </p>
 
+20190803:<br>
+2019 DR loss（样本不平衡问题）目标检测论文阅读
+>https://zhuanlan.zhihu.com/p/75896297
+
+
+【AI不惑境】计算机视觉中注意力机制原理及其模型发展和应用
+>https://zhuanlan.zhihu.com/p/76072364
+
+
+
 20190802:<br>
 谷歌大脑新技术——多尺度特征金字塔结构用于目标检测
 >https://mp.weixin.qq.com/s/xMQA97k0USl69v1MC86HKA
