@@ -1,7 +1,3 @@
-20190801:
-腾讯AI Lab姚建华：数字病理+AI将成为未来趋势 丨CCF-GAIR 2019
-https://mp.weixin.qq.com/s/VQwsqLjBpEx9ZI6bmegjjg
-
 # Daily 何红亮每日学习“日记”  2019
 
     这是何红亮同学保存每日记录的地方，GitHub上的第一个目录。
