@@ -16,6 +16,13 @@ https://mp.weixin.qq.com/s/VQwsqLjBpEx9ZI6bmegjjg
 
 </p>
 
+
+20190804:<br>
+NMS和计算mAP时的置信度阈值和IoU阈值
+>https://zhuanlan.zhihu.com/p/75348108
+
+
+
 20190803:<br>
 2019 DR loss（样本不平衡问题）目标检测论文阅读
 >https://zhuanlan.zhihu.com/p/75896297
