@@ -12,6 +12,15 @@
 
 </p>
 
+
+
+20190806:<br>
+数据增强文献综述
+>https://mp.weixin.qq.com/s/hKDpAiavSw1yivSYysALHA
+
+
+
+
 20190805:<br>
 【每周CV论文推荐】 掌握残差网络必读的10多篇文章
 >https://zhuanlan.zhihu.com/p/76781900
