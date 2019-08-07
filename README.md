@@ -12,6 +12,10 @@
 
 </p>
 
+20190807:<br>
+基于PyTorch的「Keras」：除了核心逻辑通通都封装
+>https://zhuanlan.zhihu.com/p/76725839
+
 
 
 20190806:<br>
