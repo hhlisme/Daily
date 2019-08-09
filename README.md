@@ -12,6 +12,18 @@
 
 </p>
 
+
+20190809:<br>
+AI初识：为了围剿SGD大家这些年想过的那十几招
+>https://mp.weixin.qq.com/s/jR2V4Ho4EzTZ0MiUzXT3vw
+
+
+
+
+20190808:<br>
+语义分割最新指南2019版
+>https://mp.weixin.qq.com/s/ivtiv71otUIXCC5bmNVQEA
+
 20190807:<br>
 基于PyTorch的「Keras」：除了核心逻辑通通都封装
 >https://zhuanlan.zhihu.com/p/76725839
