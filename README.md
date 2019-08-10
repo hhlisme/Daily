@@ -13,6 +13,11 @@
 </p>
 
 
+20190810:<br>
+如何搜索百度云盘里的资料？包括获取[提取密码]（betasam的回答，亲测超好用）
+>https://www.zhihu.com/question/23771617/answer/735037202
+
+
 20190809:<br>
 AI初识：为了围剿SGD大家这些年想过的那十几招
 >https://mp.weixin.qq.com/s/jR2V4Ho4EzTZ0MiUzXT3vw
