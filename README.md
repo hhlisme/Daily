@@ -12,6 +12,9 @@
 
 </p>
 
+20190811:<br>
+基于Keras的关联神经网络CorrNet综合指南
+>https://zhuanlan.zhihu.com/p/77632135
 
 20190810:<br>
 如何搜索百度云盘里的资料？包括获取[提取密码]（betasam的回答，亲测超好用）
