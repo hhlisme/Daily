@@ -12,6 +12,12 @@
 
 </p>
 
+20190812:<br>
+CNN 入门讲解专栏阅读顺序以及论文研读视频集合（蒋竺波，8月11日更新）
+>https://zhuanlan.zhihu.com/p/33855959
+
+
+
 20190811:<br>
 基于Keras的关联神经网络CorrNet综合指南
 >https://zhuanlan.zhihu.com/p/77632135
