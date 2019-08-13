@@ -12,6 +12,11 @@
 
 </p>
 
+20190814:<br>
+Squeeze-and-Excitation Networks
+>https://zhuanlan.zhihu.com/p/77942489
+
+
 20190812:<br>
 CNN 入门讲解专栏阅读顺序以及论文研读视频集合（蒋竺波，8月11日更新）
 >https://zhuanlan.zhihu.com/p/33855959
