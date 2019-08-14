@@ -13,6 +13,14 @@
 </p>
 
 20190814:<br>
+[ICCV 2019 Oral] 期望最大化注意力网络 EMANet 详解
+>https://zhuanlan.zhihu.com/p/78018142
+
+
+
+
+
+20190813:<br>
 Squeeze-and-Excitation Networks
 >https://zhuanlan.zhihu.com/p/77942489
 
