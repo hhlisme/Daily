@@ -12,6 +12,12 @@
 
 </p>
 
+
+20190815:<br>
+从基础网络到NAS经典论文梳理解读
+>https://zhuanlan.zhihu.com/p/78255661
+
+
 20190814:<br>
 [ICCV 2019 Oral] 期望最大化注意力网络 EMANet 详解
 >https://zhuanlan.zhihu.com/p/78018142
