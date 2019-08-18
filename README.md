@@ -13,6 +13,20 @@
 </p>
 
 
+20190818:<br>
+针对医学图像分析与处理，如何系统的深入机器学习，深度学习以及计算机视觉领域并将其应用?
+>https://www.zhihu.com/question/326493807/answer/792471067
+
+20190817:<br>
+7 papers | 贾佳亚等人3D目标检测新论文；美国20年AI技术路线图
+>https://zhuanlan.zhihu.com/p/78717908
+
+
+20190816:<br>
+从锚点到关键点，最新的目标检测方法发展到哪了
+>https://zhuanlan.zhihu.com/p/78666892
+
+
 20190815:<br>
 从基础网络到NAS经典论文梳理解读
 >https://zhuanlan.zhihu.com/p/78255661
