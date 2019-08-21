@@ -12,6 +12,11 @@
 
 </p>
 
+20190821:<br>
+新浪微博FiBiNET：结合特征重要性和双线性特征交互进行CTR预估
+>https://zhuanlan.zhihu.com/p/76698689
+
+
 20190820:<br>
 【总结】图像语义分割之特征整合和结构预测
 >https://zhuanlan.zhihu.com/p/25515361
