@@ -12,6 +12,15 @@
 
 </p>
 
+20190823:<br>
+ICLR2019少样本学习新思路：利用转导(Transductive)和标签传播
+>https://zhuanlan.zhihu.com/p/55111343
+
+20190822:<br>
+从锚点到关键点：目标检测方法最新进展（2019）
+>https://mp.weixin.qq.com/s/oiPIP0-bUtVvFxJSZA4Smg
+
+
 20190821:<br>
 新浪微博FiBiNET：结合特征重要性和双线性特征交互进行CTR预估
 >https://zhuanlan.zhihu.com/p/76698689
