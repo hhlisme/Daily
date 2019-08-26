@@ -11,6 +11,14 @@
 以下是2019年目录！<br>
 
 </p>
+
+
+20190826:<br>
+港中文开源基于PyTorch的多任务人脸识别框架
+https://mp.weixin.qq.com/s/8Ablt7Sa86DXTB1dE_RqaA
+
+
+
 20190825:<br>
 基于深度学习的超分辨率图像技术一览
 https://mp.weixin.qq.com/s/YCTf__0LjGzn2BA414OCMQ
