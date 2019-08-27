@@ -13,20 +13,27 @@
 </p>
 
 
+
+20190827:<br>
+【SSD算法】史上最全代码解析-核心篇
+>https://zhuanlan.zhihu.com/p/79854543
+
+
+
 20190826:<br>
 港中文开源基于PyTorch的多任务人脸识别框架
-https://mp.weixin.qq.com/s/8Ablt7Sa86DXTB1dE_RqaA
+>https://mp.weixin.qq.com/s/8Ablt7Sa86DXTB1dE_RqaA
 
 
 
 20190825:<br>
 基于深度学习的超分辨率图像技术一览
-https://mp.weixin.qq.com/s/YCTf__0LjGzn2BA414OCMQ
+>https://mp.weixin.qq.com/s/YCTf__0LjGzn2BA414OCMQ
 
 
 20190824:<br>
 2000～2019年历届CVPR最佳论文，代码及解读汇总
-https://mp.weixin.qq.com/s/G1zwxGj8tWTQp6gfNlTDdA
+>https://mp.weixin.qq.com/s/G1zwxGj8tWTQp6gfNlTDdA
 
 
 
