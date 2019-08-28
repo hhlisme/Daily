@@ -12,6 +12,9 @@
 
 </p>
 
+20190827:<br>
+ICCV 2019 | 四小时搜索NN结构，厦大提出快速NAS检索方法（郑侠武）
+>https://mp.weixin.qq.com/s/nN7tgkvvkv8B8N-z4yAgcQ
 
 
 20190827:<br>
