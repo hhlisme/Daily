@@ -11,6 +11,8 @@
 以下是2019年目录！<br>
 
 </p>
+20190830
+
 
 20190829:<br>
 Details Need More Attention: Transformer 没有被提到的细节
