@@ -12,8 +12,25 @@
 
 </p>
 
-20190831
-20190830
+20190901:<br>
+NAS发展史：从放弃到入门
+>https://mp.weixin.qq.com/s/QsdjyDhVXgRzNMHrFh4QTA
+
+
+
+
+20190831:<br>
+全网首发！2020年AI、CV、NLP顶会最全时间表！
+>https://mp.weixin.qq.com/s/uUG7EW4n5MiEXV7F-SCqXQ
+
+【从RNN到Attention 】下篇 Transformer与Self-Attention
+>https://zhuanlan.zhihu.com/p/80673145
+
+
+
+20190830:<br>
+如何通俗易懂地解释卷积？
+>https://www.zhihu.com/question/22298352/answer/637156871
 
 
 20190829:<br>
