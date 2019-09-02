@@ -12,6 +12,10 @@
 
 </p>
 
+20190902:<br>
+变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作。
+>https://zhuanlan.zhihu.com/p/28749411
+
 20190901:<br>
 NAS发展史：从放弃到入门
 >https://mp.weixin.qq.com/s/QsdjyDhVXgRzNMHrFh4QTA
