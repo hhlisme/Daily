@@ -12,6 +12,12 @@
 
 </p>
 
+20190903:<br>
+PyTorch模型加载/参数初始化/Finetune
+>https://zhuanlan.zhihu.com/p/48524007
+
+
+
 20190902:<br>
 变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作。
 >https://zhuanlan.zhihu.com/p/28749411
