@@ -12,6 +12,17 @@
 
 </p>
 
+
+
+20190905:<br>
+研习U-Net
+>https://zhuanlan.zhihu.com/p/44958351
+
+20190904:<br>
+图像分割之UNet++ 论文笔记
+>https://zhuanlan.zhihu.com/p/72691417
+
+
 20190903:<br>
 PyTorch模型加载/参数初始化/Finetune
 >https://zhuanlan.zhihu.com/p/48524007
