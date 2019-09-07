@@ -13,6 +13,17 @@
 </p>
 
 
+20190907:<br>
+PyTorch官方教程中文版
+>http://pytorch123.com/
+
+
+
+
+
+20190906:<br>
+2019 ICCV ThunderNet（轻量实时）目标检测论文阅读笔记
+>https://zhuanlan.zhihu.com/p/80878988
 
 20190905:<br>
 研习U-Net
