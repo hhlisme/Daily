@@ -11,9 +11,20 @@
 以下是2019年目录！<br>
 
 </p>
-20190912：待发
-20190911：待发
 
+
+20190913:<br>
+一文概览Inception家族的「奋斗史」
+>http://baijiahao.baidu.com/s?id=1601882944953788623
+
+20190912:<br>
+金哥和你一起学模型压缩——结构篇
+>https://mp.weixin.qq.com/s/n7neAptKozRz5p5ctvKZrQ
+
+
+20190911:<br>
+NeurIPS 2019：国科大提出新一代通用物体检测方法FreeAnchor
+>https://mp.weixin.qq.com/s/A56RCZKELENY8i2ugjHZEg
 
 20190910:<br>
 【总结】图像语义分割之特征整合和结构预测
