@@ -12,6 +12,9 @@
 
 </p>
 
+20190914:<br>
+SOTA-MedSeg
+>https://github.com/JunMa11/SOTA-MedSeg
 
 20190913:<br>
 一文概览Inception家族的「奋斗史」
