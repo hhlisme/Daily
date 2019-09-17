@@ -12,9 +12,20 @@
 
 </p>
 
-20190916待写入
+20190917:<br>
 
-20190915
+
+
+20190916:<br>
+图像分割之SegNet 论文笔记
+https://zhuanlan.zhihu.com/p/68348781
+
+
+20190915:<br>
+图像分割之PSPNet 论文笔记
+https://zhuanlan.zhihu.com/p/70413130
+
+
 20190914:<br>
 SOTA-MedSeg
 >https://github.com/JunMa11/SOTA-MedSeg
