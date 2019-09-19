@@ -11,10 +11,18 @@
 以下是2019年目录！<br>
 
 </p>
-20190918
+
+20190919:<br>
+开源nnU-Net医学影像分割论文，可自动调参，适应所有数据集
+https://mp.weixin.qq.com/s/PAacKOJ4vyB6LCc-lkhxow
+
+20190918:<br>
+Unet神经网络为什么会在医学图像分割表现好？
+https://www.zhihu.com/question/269914775/answer/586501606
+
 20190917:<br>
-
-
+用于RGBD语义分割的三维图神经网络(2017ICCV,已开源)
+https://zhuanlan.zhihu.com/p/83077857
 
 20190916:<br>
 图像分割之SegNet 论文笔记
