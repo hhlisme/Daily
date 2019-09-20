@@ -12,6 +12,8 @@
 
 </p>
 
+20190920待入
+
 20190919:<br>
 开源nnU-Net医学影像分割论文，可自动调参，适应所有数据集
 https://mp.weixin.qq.com/s/PAacKOJ4vyB6LCc-lkhxow
