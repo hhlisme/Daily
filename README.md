@@ -12,7 +12,18 @@
 
 </p>
 
-20190920待入
+20190921:<br>
+【Graph Neural Network】GraphSAGE: 算法原理，实现和应用
+https://zhuanlan.zhihu.com/p/79637787
+
+
+
+20190920:<br>
+利用不确定性来衡量多任务学习中的损失函数
+https://zhuanlan.zhihu.com/p/65137250
+
+
+
 
 20190919:<br>
 开源nnU-Net医学影像分割论文，可自动调参，适应所有数据集
