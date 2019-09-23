@@ -12,6 +12,17 @@
 
 </p>
 
+20190923:<br>
+弱监督学习在医学影像中的探索
+https://www.msra.cn/zh-cn/news/features/weak-supervised-learning-in-healthcare?from=singlemessage&isappinstalled=0
+
+
+20190922:<br>
+CVPR2019 | 面对高度不均衡数据如何提高精度？这篇文章有妙招
+https://zhuanlan.zhihu.com/p/83625084
+
+
+
 20190921:<br>
 【Graph Neural Network】GraphSAGE: 算法原理，实现和应用
 https://zhuanlan.zhihu.com/p/79637787
