@@ -12,6 +12,14 @@
 
 </p>
 
+
+
+20190924:<br>
+用于室内语义分割的几何感知蒸馏模型（2019CVPR）
+https://zhuanlan.zhihu.com/p/83759876
+
+
+
 20190923:<br>
 弱监督学习在医学影像中的探索
 https://www.msra.cn/zh-cn/news/features/weak-supervised-learning-in-healthcare?from=singlemessage&isappinstalled=0
