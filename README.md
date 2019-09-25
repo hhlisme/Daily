@@ -12,58 +12,61 @@
 
 </p>
 
+20190925:<br>
+图像分割中的loss--处理数据极度不均衡的状况
+>https://www.cnblogs.com/hotsnow/p/10954624.html
 
 
 20190924:<br>
 用于室内语义分割的几何感知蒸馏模型（2019CVPR）
-https://zhuanlan.zhihu.com/p/83759876
+>https://zhuanlan.zhihu.com/p/83759876
 
 
 
 20190923:<br>
 弱监督学习在医学影像中的探索
-https://www.msra.cn/zh-cn/news/features/weak-supervised-learning-in-healthcare?from=singlemessage&isappinstalled=0
+>https://www.msra.cn/zh-cn/news/features/weak-supervised-learning-in-healthcare?from=singlemessage&isappinstalled=0
 
 
 20190922:<br>
 CVPR2019 | 面对高度不均衡数据如何提高精度？这篇文章有妙招
-https://zhuanlan.zhihu.com/p/83625084
+>https://zhuanlan.zhihu.com/p/83625084
 
 
 
 20190921:<br>
 【Graph Neural Network】GraphSAGE: 算法原理，实现和应用
-https://zhuanlan.zhihu.com/p/79637787
+>https://zhuanlan.zhihu.com/p/79637787
 
 
 
 20190920:<br>
 利用不确定性来衡量多任务学习中的损失函数
-https://zhuanlan.zhihu.com/p/65137250
+>https://zhuanlan.zhihu.com/p/65137250
 
 
 
 
 20190919:<br>
 开源nnU-Net医学影像分割论文，可自动调参，适应所有数据集
-https://mp.weixin.qq.com/s/PAacKOJ4vyB6LCc-lkhxow
+>https://mp.weixin.qq.com/s/PAacKOJ4vyB6LCc-lkhxow
 
 20190918:<br>
 Unet神经网络为什么会在医学图像分割表现好？
-https://www.zhihu.com/question/269914775/answer/586501606
+>https://www.zhihu.com/question/269914775/answer/586501606
 
 20190917:<br>
 用于RGBD语义分割的三维图神经网络(2017ICCV,已开源)
-https://zhuanlan.zhihu.com/p/83077857
+>https://zhuanlan.zhihu.com/p/83077857
 
 20190916:<br>
 图像分割之SegNet 论文笔记
-https://zhuanlan.zhihu.com/p/68348781
+>https://zhuanlan.zhihu.com/p/68348781
 
 
 20190915:<br>
 图像分割之PSPNet 论文笔记
-https://zhuanlan.zhihu.com/p/70413130
+>https://zhuanlan.zhihu.com/p/70413130
 
 
 20190914:<br>
