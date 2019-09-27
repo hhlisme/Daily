@@ -12,6 +12,20 @@
 
 </p>
 
+
+20190927:<br>
+CVPR TOP10 论文盘点：带你窥探计算机视觉的未来
+https://zhuanlan.zhihu.com/p/80291537
+
+
+20190926:<br>
+超越YOLOv3！普林斯顿大学提出：CornerNet-Lite，基于关键点的目标检测算法，已开源！
+https://zhuanlan.zhihu.com/p/78757127
+
+
+
+
+
 20190925:<br>
 图像分割中的loss--处理数据极度不均衡的状况
 >https://www.cnblogs.com/hotsnow/p/10954624.html
