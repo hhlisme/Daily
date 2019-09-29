@@ -11,6 +11,14 @@
 以下是2019年目录！<br>
 
 </p>
+20190929:<br>
+CVPR2019_Group Sampling
+https://zhuanlan.zhihu.com/p/81353261
+
+
+20190928:<br>
+变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作。
+https://zhuanlan.zhihu.com/p/28749411
 
 
 20190927:<br>
