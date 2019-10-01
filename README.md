@@ -11,6 +11,11 @@
 以下是2019年目录！<br>
 
 </p>
+
+
+30191001看国庆阅兵
+20190930
+
 20190929:<br>
 CVPR2019_Group Sampling
 https://zhuanlan.zhihu.com/p/81353261
