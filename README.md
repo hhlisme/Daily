@@ -12,9 +12,16 @@
 
 </p>
 
+30191002:<br>
+CVPR2019 语义分割论文2-Knowledge Adaptation for Efficie
+https://zhuanlan.zhihu.com/p/73521307
 
-30191001看国庆阅兵
-20190930
+30191001:<br>
+看国庆阅兵，中国牛逼！🇨🇳
+
+20190930:<br>
+一点理解--Context Encoding for Semantic Segmentation
+https://zhuanlan.zhihu.com/p/74032510
 
 20190929:<br>
 CVPR2019_Group Sampling
