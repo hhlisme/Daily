@@ -11,11 +11,32 @@
 以下是2019年目录！<br>
 
 </p>
-20191005
 
-20191004
 
-20191003
+20191007:<br>
+
+
+
+
+20191006:<br>
+
+
+
+
+20191005:<br>
+大盘点 | 性能最强的目标检测算法
+https://zhuanlan.zhihu.com/p/73801735
+
+
+20191004:<br>
+人人都能看懂的LSTM介绍及反向传播算法推导（非常详细）
+https://zhuanlan.zhihu.com/p/83496936
+
+
+20191003:<br>
+细说Python的lambda函数用法，建议收藏
+https://zhuanlan.zhihu.com/p/80960485
+
 
 20191002:<br>
 CVPR2019 语义分割论文2-Knowledge Adaptation for Efficie
