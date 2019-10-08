@@ -13,14 +13,20 @@
 </p>
 
 
+
+20191008:<br>
+CVPR2018语义分割相关论文摘要翻译及框架
+https://zhuanlan.zhihu.com/p/43344998
+
+
 20191007:<br>
-
-
+ECCV2018语义分割论文摘要翻译及框架
+https://zhuanlan.zhihu.com/p/43796006
 
 
 20191006:<br>
-
-
+一些关于机器学习和计算机视觉的技术总结和笔记
+https://github.com/Captain1986/CaptainBlackboard
 
 
 20191005:<br>
