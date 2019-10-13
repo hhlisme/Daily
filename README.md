@@ -11,9 +11,25 @@
 以下是2019年目录！<br>
 
 </p>
-20191112待更
-20191011待更
-20191010待更
+
+20191113：<br>
+
+
+20191112：<br>
+PyTorch版《动手学深度学习》PDF 版开源了
+https://mp.weixin.qq.com/s/gRoMHxhVMDQ48x4dy0HqYg
+
+
+20191011：<br>
+入门TensorFlow 2.0必备，全中文教学，北大学霸出品
+https://mp.weixin.qq.com/s/LUYJMOChpytgGZOuLk9e_w
+
+
+
+20191010：<br>
+腾讯AI八篇论文入选顶级医学影像会议MICCAI ，涉及病理癌症图像分类等
+https://mp.weixin.qq.com/s/Fc5wklHNQHbD1PGRGpp4lg
+
 
 20191009：<br>
 图像分割中的深度学习：U-Net 体系结构
