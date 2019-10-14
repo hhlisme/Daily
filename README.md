@@ -12,7 +12,13 @@
 
 </p>
 
+20191114：<br>
+未来销量预测——Kaggle银牌（TOP 4%）基础方案（二）：EDA和数据预处理
+https://zhuanlan.zhihu.com/p/83422457
+
 20191113：<br>
+一站式解决：隐马尔可夫模型（HMM）全过程推导及实现
+https://zhuanlan.zhihu.com/p/85454896
 
 
 20191112：<br>
