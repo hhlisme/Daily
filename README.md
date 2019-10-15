@@ -12,6 +12,12 @@
 
 </p>
 
+
+20191115：<br>
+语义分割相关论文及复现代码链接
+https://zhuanlan.zhihu.com/p/44328071
+
+
 20191114：<br>
 未来销量预测——Kaggle银牌（TOP 4%）基础方案（二）：EDA和数据预处理
 https://zhuanlan.zhihu.com/p/83422457
