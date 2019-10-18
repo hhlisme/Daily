@@ -12,6 +12,12 @@
 
 </p>
 
+
+20191117：<br>
+MICCAI2019-类别不平衡分割任务中的神经网络过拟合
+https://zhuanlan.zhihu.com/p/75512325
+
+
 20191116：<br>
 一文梳理2019年腾讯广告算法大赛冠军方案
 https://zhuanlan.zhihu.com/p/85520936
