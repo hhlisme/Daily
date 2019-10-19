@@ -12,6 +12,9 @@
 
 </p>
 
+20191118：<br>
+你有哪些deep learning（rnn、cnn）调参的经验？
+https://www.zhihu.com/question/41631631/answer/859040970
 
 20191117：<br>
 MICCAI2019-类别不平衡分割任务中的神经网络过拟合
