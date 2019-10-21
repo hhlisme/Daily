@@ -12,6 +12,15 @@
 
 </p>
 
+20191120：<br>
+如何评价NAACL2019 paper：Attention is not Explanation?
+https://www.zhihu.com/question/314463239/answer/816564113
+
+20191119：<br>
+结合人工智能的高性能医学：现状、挑战与未来
+https://mp.weixin.qq.com/s/u-taX_kQXX2sBW8sT6ZZYg
+
+
 20191118：<br>
 你有哪些deep learning（rnn、cnn）调参的经验？
 https://www.zhihu.com/question/41631631/answer/859040970
