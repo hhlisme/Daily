@@ -13,6 +13,9 @@
 </p>
 
 
+20191126：<br>
+MICCAI 2019脑肿瘤分割挑战赛冠军方法学习笔记
+https://zhuanlan.zhihu.com/p/87965083
 
 20191125：<br>
 MICCAI 2019 StructSeg冠军方案学习笔记
