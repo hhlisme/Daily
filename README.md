@@ -12,6 +12,14 @@
 
 </p>
 
+
+
+20191125：<br>
+MICCAI 2019 StructSeg冠军方案学习笔记
+https://zhuanlan.zhihu.com/p/88125974
+
+
+
 20191124：<br>
 MICCAI 2019 ：纪录、风向与学术思考
 https://mp.weixin.qq.com/s/fTdvTpsy_O1W_GHC48kVxQ
