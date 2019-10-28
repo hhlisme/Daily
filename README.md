@@ -13,6 +13,11 @@
 </p>
 
 
+20191128：<br>
+一点理解--Context Encoding for Semantic Segmentation
+https://zhuanlan.zhihu.com/p/74032510
+
+
 20191126：<br>
 MICCAI 2019脑肿瘤分割挑战赛冠军方法学习笔记
 https://zhuanlan.zhihu.com/p/87965083
