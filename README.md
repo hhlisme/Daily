@@ -13,64 +13,64 @@
 </p>
 
 
-20191128：<br>
+20191028：<br>
 一点理解--Context Encoding for Semantic Segmentation
 https://zhuanlan.zhihu.com/p/74032510
 
 
-20191126：<br>
+20191026：<br>
 MICCAI 2019脑肿瘤分割挑战赛冠军方法学习笔记
 https://zhuanlan.zhihu.com/p/87965083
 
-20191125：<br>
+20191025：<br>
 MICCAI 2019 StructSeg冠军方案学习笔记
 https://zhuanlan.zhihu.com/p/88125974
 
 
 
-20191124：<br>
+20191024：<br>
 MICCAI 2019 ：纪录、风向与学术思考
 https://mp.weixin.qq.com/s/fTdvTpsy_O1W_GHC48kVxQ
 
 
-20191120：<br>
+20191020：<br>
 如何评价NAACL2019 paper：Attention is not Explanation?
 https://www.zhihu.com/question/314463239/answer/816564113
 
-20191119：<br>
+20191019：<br>
 结合人工智能的高性能医学：现状、挑战与未来
 https://mp.weixin.qq.com/s/u-taX_kQXX2sBW8sT6ZZYg
 
 
-20191118：<br>
+20191018：<br>
 你有哪些deep learning（rnn、cnn）调参的经验？
 https://www.zhihu.com/question/41631631/answer/859040970
 
-20191117：<br>
+20191017：<br>
 MICCAI2019-类别不平衡分割任务中的神经网络过拟合
 https://zhuanlan.zhihu.com/p/75512325
 
 
-20191116：<br>
+20191016：<br>
 一文梳理2019年腾讯广告算法大赛冠军方案
 https://zhuanlan.zhihu.com/p/85520936
 
 
-20191115：<br>
+20191015：<br>
 语义分割相关论文及复现代码链接
 https://zhuanlan.zhihu.com/p/44328071
 
 
-20191114：<br>
+20191014：<br>
 未来销量预测——Kaggle银牌（TOP 4%）基础方案（二）：EDA和数据预处理
 https://zhuanlan.zhihu.com/p/83422457
 
-20191113：<br>
+20191013：<br>
 一站式解决：隐马尔可夫模型（HMM）全过程推导及实现
 https://zhuanlan.zhihu.com/p/85454896
 
 
-20191112：<br>
+20191012：<br>
 PyTorch版《动手学深度学习》PDF 版开源了
 https://mp.weixin.qq.com/s/gRoMHxhVMDQ48x4dy0HqYg
 
