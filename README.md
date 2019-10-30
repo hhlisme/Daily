@@ -12,19 +12,27 @@
 
 </p>
 
+20191030：<br>
+CV领域的注意力机制
+>https://mp.weixin.qq.com/s/Di-TbseiezMBc-MUYoEFHg
+
+20191029：<br>
+浅析深度学习中Batch Size大小对训练过程的影响
+>https://mp.weixin.qq.com/s/eCzhRyIgvO9KKiqqDL8PCw
+
 
 20191028：<br>
 一点理解--Context Encoding for Semantic Segmentation
-https://zhuanlan.zhihu.com/p/74032510
+>https://zhuanlan.zhihu.com/p/74032510
 
 
 20191026：<br>
 MICCAI 2019脑肿瘤分割挑战赛冠军方法学习笔记
-https://zhuanlan.zhihu.com/p/87965083
+>https://zhuanlan.zhihu.com/p/87965083
 
 20191025：<br>
 MICCAI 2019 StructSeg冠军方案学习笔记
-https://zhuanlan.zhihu.com/p/88125974
+>https://zhuanlan.zhihu.com/p/88125974
 
 
 
@@ -134,22 +142,22 @@ https://zhuanlan.zhihu.com/p/74032510
 
 20190929:<br>
 CVPR2019_Group Sampling
-https://zhuanlan.zhihu.com/p/81353261
+>https://zhuanlan.zhihu.com/p/81353261
 
 
 20190928:<br>
 变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作。
-https://zhuanlan.zhihu.com/p/28749411
+>https://zhuanlan.zhihu.com/p/28749411
 
 
 20190927:<br>
 CVPR TOP10 论文盘点：带你窥探计算机视觉的未来
-https://zhuanlan.zhihu.com/p/80291537
+>https://zhuanlan.zhihu.com/p/80291537
 
 
 20190926:<br>
 超越YOLOv3！普林斯顿大学提出：CornerNet-Lite，基于关键点的目标检测算法，已开源！
-https://zhuanlan.zhihu.com/p/78757127
+>https://zhuanlan.zhihu.com/p/78757127
 
 
 
