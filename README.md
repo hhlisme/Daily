@@ -12,6 +12,18 @@
 
 </p>
 
+
+20191101：<br>
+Attention U-Net 论文笔记
+https://zhuanlan.zhihu.com/p/55193930
+
+
+20191031：<br>
+3D分类分割之PointCNN 论文笔记
+https://zhuanlan.zhihu.com/p/89752154
+
+
+
 20191030：<br>
 CV领域的注意力机制
 >https://mp.weixin.qq.com/s/Di-TbseiezMBc-MUYoEFHg
