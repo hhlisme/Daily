@@ -13,6 +13,16 @@
 </p>
 
 
+
+20191106：<br>
+201910-基于CNN的医学图像分割方法中的Loss functions
+https://zhuanlan.zhihu.com/p/87959967
+
+
+20191105：<br>
+201909-医学图像分析中的Uncertainty学习小结
+https://zhuanlan.zhihu.com/p/87955728
+
 20191101：<br>
 Attention U-Net 论文笔记
 https://zhuanlan.zhihu.com/p/55193930
