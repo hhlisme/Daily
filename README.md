@@ -14,6 +14,12 @@
 
 
 
+
+20191115：<br>
+论文笔记：用于医学图像分割的卷积网络（U-net）
+https://zhuanlan.zhihu.com/p/46251798
+
+
 20191106：<br>
 201910-基于CNN的医学图像分割方法中的Loss functions
 https://zhuanlan.zhihu.com/p/87959967
