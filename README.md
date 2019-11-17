@@ -12,7 +12,9 @@
 
 </p>
 
-
+20191116：<br>
+【动手学计算机视觉】第十八讲：卷积神经网络之GoogLeNet
+https://zhuanlan.zhihu.com/p/92263138
 
 
 20191115：<br>
