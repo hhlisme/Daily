@@ -12,6 +12,16 @@
 
 </p>
 
+
+20191119：<br>
+ICCV2019: Segmentation论文
+https://zhuanlan.zhihu.com/p/88372611
+
+20191118：<br>
+英伟达小姐姐的Python技巧合集，推特2400赞，代码可以直接跑
+https://zhuanlan.zhihu.com/p/90300944
+
+
 20191116：<br>
 【动手学计算机视觉】第十八讲：卷积神经网络之GoogLeNet
 https://zhuanlan.zhihu.com/p/92263138
