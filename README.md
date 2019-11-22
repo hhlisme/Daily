@@ -13,6 +13,10 @@
 </p>
 
 
+20191122：<br>
+优化视角看ReLU, sigmoid, 和softmax
+https://zhuanlan.zhihu.com/p/93224377
+
 20191119：<br>
 ICCV2019: Segmentation论文
 https://zhuanlan.zhihu.com/p/88372611
