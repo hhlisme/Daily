@@ -12,6 +12,9 @@
 
 </p>
 
+20191123：<br>
+7 papers | 周志华深度森林新论文；谷歌目标检测新SOTA
+https://zhuanlan.zhihu.com/p/93434945
 
 20191122：<br>
 优化视角看ReLU, sigmoid, 和softmax
