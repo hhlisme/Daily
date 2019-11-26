@@ -12,6 +12,15 @@
 
 </p>
 
+20191126：<br>
+陈天奇寄语ACM班：拥抱未知，享受成长，全力以赴做最好的自己
+https://zhuanlan.zhihu.com/p/82880357
+
+
+20191125：<br>
+速度与精度的结合 - EfficientNet 详解
+https://zhuanlan.zhihu.com/p/85845131
+
 20191123：<br>
 7 papers | 周志华深度森林新论文；谷歌目标检测新SOTA
 https://zhuanlan.zhihu.com/p/93434945
