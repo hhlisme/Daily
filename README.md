@@ -7,10 +7,18 @@
     <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 ----
 <br>
-
 以下是2019年目录！<br>
-
 </p>
+
+
+20191128：<br>
+你有哪些deep learning（rnn、cnn）调参的经验？
+https://www.zhihu.com/question/41631631/answer/862075836
+
+
+20191127：<br>
+自动训练神经网络的软件Auto-PyTorch
+https://zhuanlan.zhihu.com/p/91709082
 
 20191126：<br>
 陈天奇寄语ACM班：拥抱未知，享受成长，全力以赴做最好的自己
