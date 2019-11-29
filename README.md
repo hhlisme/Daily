@@ -11,6 +11,13 @@
 </p>
 
 
+
+
+20191129：<br>
+堪比Focal Loss！解决目标检测中样本不平衡的无采样方法
+https://zhuanlan.zhihu.com/p/93658728
+
+
 20191128：<br>
 你有哪些deep learning（rnn、cnn）调参的经验？
 https://www.zhihu.com/question/41631631/answer/862075836
