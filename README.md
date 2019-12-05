@@ -12,6 +12,13 @@
 
 
 
+20191205：<br>
+语义分割江湖的那些事儿——从旷视说起
+https://zhuanlan.zhihu.com/p/55263898
+
+20191204：<br>
+BiDAF：机器理解之双向注意力流
+https://zhuanlan.zhihu.com/p/53470020
 
 20191129：<br>
 堪比Focal Loss！解决目标检测中样本不平衡的无采样方法
