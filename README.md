@@ -12,6 +12,10 @@
 
 
 
+20191210：<br>
+一文看尽8篇目标检测最新论文(EfficientDet/EdgeNet/ASFF/RoIMix等）
+https://zhuanlan.zhihu.com/p/93703085
+
 20191205：<br>
 语义分割江湖的那些事儿——从旷视说起
 https://zhuanlan.zhihu.com/p/55263898
