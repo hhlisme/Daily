@@ -10,6 +10,12 @@
 以下是2019年目录！<br>
 </p>
 
+20191219：<br>
+何恺明团队又出神作：将图像分割视作渲染问题，性能显著提升！
+https://mp.weixin.qq.com/s/0nPXIfxxNDil-NLIr6V6BA
+
+
+
 
 
 20191210：<br>
