@@ -10,9 +10,22 @@
 以下是2019年目录！<br>
 </p>
 
+
+20191221：<br>
+当代研究生应当掌握的并行训练方法（单机多卡）
+>https://zhuanlan.zhihu.com/p/98535650
+
+
+
+
+20191220：<br>
+视频物体分割算法：如何提升复杂场景的分割精度？
+>https://mp.weixin.qq.com/s/adUW9QuXaJ9uIb7Co5j_gw
+
+
 20191219：<br>
 何恺明团队又出神作：将图像分割视作渲染问题，性能显著提升！
-https://mp.weixin.qq.com/s/0nPXIfxxNDil-NLIr6V6BA
+>https://mp.weixin.qq.com/s/0nPXIfxxNDil-NLIr6V6BA
 
 
 
