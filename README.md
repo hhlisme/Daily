@@ -11,9 +11,15 @@
 </p>
 
 
+
+20191223：<br>
+Non-local Neural Networks及自注意力机制思考
+>https://zhuanlan.zhihu.com/p/53010734
+
+
 20191222：<br>
 另辟蹊径！斯坦福大学提出边界框回归任务新Loss：GIoU
-https://zhuanlan.zhihu.com/p/94014071
+>https://zhuanlan.zhihu.com/p/94014071
 
 
 
