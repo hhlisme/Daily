@@ -12,6 +12,13 @@
 
 
 
+
+20191224：<br>
+何恺明团队又出神作：将图像分割视作渲染问题，性能显著提升！
+>https://zhuanlan.zhihu.com/p/98173136
+
+
+
 20191223：<br>
 Non-local Neural Networks及自注意力机制思考
 >https://zhuanlan.zhihu.com/p/53010734
