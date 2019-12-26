@@ -11,6 +11,9 @@
 </p>
 
 
+20191225：<br>
+令人拍案叫绝的EfficientNet和EfficientDet
+>https://zhuanlan.zhihu.com/p/96773680
 
 
 20191224：<br>
