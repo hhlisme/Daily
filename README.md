@@ -11,6 +11,12 @@
 </p>
 
 
+20191226：<br>
+有什么 Pycharm 插件能让你撸代码撸到高潮？
+>https://zhuanlan.zhihu.com/p/98096152
+
+
+
 20191225：<br>
 令人拍案叫绝的EfficientNet和EfficientDet
 >https://zhuanlan.zhihu.com/p/96773680
