@@ -11,6 +11,15 @@
 </p>
 
 
+20200102：<br>
+语义分割算法之CVPR 2017 RefineNet（精度高且对稠密物体分割效果好，已开源）
+>https://zhuanlan.zhihu.com/p/97903455
+
+20200101：<br>
+目标检测算法之AAAI 2020 DIoU Loss 已开源(YOLOV3涨近3个点)
+>https://zhuanlan.zhihu.com/p/97555019
+
+
 20191226：<br>
 有什么 Pycharm 插件能让你撸代码撸到高潮？
 >https://zhuanlan.zhihu.com/p/98096152
