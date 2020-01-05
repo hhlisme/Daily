@@ -11,6 +11,13 @@
 </p>
 
 
+
+
+20200105：<br>
+目标检测算法之AAAI2019 Oral论文GHM Loss
+>https://zhuanlan.zhihu.com/p/95877798
+
+
 20200102：<br>
 语义分割算法之CVPR 2017 RefineNet（精度高且对稠密物体分割效果好，已开源）
 >https://zhuanlan.zhihu.com/p/97903455
