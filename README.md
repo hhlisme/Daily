@@ -12,6 +12,13 @@
 
 
 
+20200107：<br>
+深度学习可以不要乘法，北大、华为诺亚新论文：加法替代，效果不变，延迟大降
+>https://zhuanlan.zhihu.com/p/101429498
+
+20200106：<br>
+高斯混合模型（GMM）推导及实现
+>https://zhuanlan.zhihu.com/p/85338773
 
 20200105：<br>
 目标检测算法之AAAI2019 Oral论文GHM Loss
