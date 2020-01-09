@@ -16,8 +16,8 @@
 
 
 20200109：<br>
-揭开分割不确定性的面纱
->https://zhuanlan.zhihu.com/p/102040519
+Facebook开源算法代码库PySlowFast，轻松复现前沿视频理解模型
+>https://zhuanlan.zhihu.com/p/101606964
 
 
 
