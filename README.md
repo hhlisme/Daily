@@ -14,10 +14,16 @@
 
 
 
+20200110：<br>
+pytorch dataloader 使用batch和 num_works参数的原理是什么？
+>https://www.zhihu.com/question/360391842/answer/931500421
+
+
 
 20200109：<br>
 Facebook开源算法代码库PySlowFast，轻松复现前沿视频理解模型
 >https://zhuanlan.zhihu.com/p/101606964
+
 
 
 
