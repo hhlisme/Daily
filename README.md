@@ -11,6 +11,15 @@
 </p>
 
 
+
+20200112：<br>
+Python 打包成 exe，太大了该怎么解决？
+>https://www.zhihu.com/question/281858271/answer/887007175
+
+
+
+
+
 20200111：<br>
 CNN(卷积神经网络)、RNN(循环神经网络)、DNN(深度神经网络)的内部网络结构有什么区别？
 >https://www.zhihu.com/question/34681168/answer/964862033
