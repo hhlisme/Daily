@@ -12,6 +12,11 @@
 
 
 
+20200113：<br>
+GAN Loss可以应用在语义分割上来提升性能吗？
+>https://www.zhihu.com/question/365151909/answer/967696664
+
+
 20200112：<br>
 Python 打包成 exe，太大了该怎么解决？
 >https://www.zhihu.com/question/281858271/answer/887007175
