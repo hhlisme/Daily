@@ -12,6 +12,10 @@
 
 
 
+20200114：<br>
+CNN结构设计技巧-兼顾速度精度与工程实现
+>https://mp.weixin.qq.com/s/Dab_C0j2CJc0qeHfXttXNw
+
 20200113：<br>
 GAN Loss可以应用在语义分割上来提升性能吗？
 >https://www.zhihu.com/question/365151909/answer/967696664
