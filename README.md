@@ -11,6 +11,9 @@
 </p>
 
 
+20200115：<br>
+基于PyTorch的3D CNN网络实现大全
+>https://zhuanlan.zhihu.com/p/102856224
 
 20200114：<br>
 CNN结构设计技巧-兼顾速度精度与工程实现
