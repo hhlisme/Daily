@@ -11,6 +11,11 @@
 </p>
 
 
+
+20200117：<br>
+如何提高自己的代码能力以达到熟练使用pytorch?
+>https://www.zhihu.com/question/352525266/answer/975656850
+
 20200116：<br>
 目标检测+分割 论文及代码
 >https://zhuanlan.zhihu.com/p/89875586
