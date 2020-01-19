@@ -11,6 +11,14 @@
 </p>
 
 
+
+
+20200119：<br>
+cnn结构设计技巧-兼顾速度精度与工程实现（持续更新）
+>https://zhuanlan.zhihu.com/p/100609339
+
+
+
 20200118：<br>
 目标检测算法之Anchor Free的起源：CVPR 2015 DenseBox
 >https://zhuanlan.zhihu.com/p/101346241
