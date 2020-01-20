@@ -13,6 +13,11 @@
 
 
 
+20200120：<br>
+CNN是怎么学到图片内的绝对位置信息的?
+>https://zhuanlan.zhihu.com/p/99766566
+
+
 20200119：<br>
 cnn结构设计技巧-兼顾速度精度与工程实现（持续更新）
 >https://zhuanlan.zhihu.com/p/100609339
