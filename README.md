@@ -8,10 +8,14 @@
 
 
 
+20200122：<br>
+卷积神经网络学习路线（十七） | Google CVPR 2017 MobileNet V1
+>https://zhuanlan.zhihu.com/p/103597446
 
 
-
-
+20200121：<br>
+AAAI 2020 | 速度提升200倍，爱奇艺&北航等提出基于耦合知识蒸馏的视频显著区域检测算法
+>https://zhuanlan.zhihu.com/p/103192789
 
 
 20200120：<br>
