@@ -8,6 +8,15 @@
 
 
 
+20200127：<br>
+[深度学习框架]PyTorch常用代码段
+>https://zhuanlan.zhihu.com/p/104019160
+
+20200126：<br>
+目标检测——多尺度预测！从小到大，从未失手！
+>https://zhuanlan.zhihu.com/p/100816514
+
+
 20200122：<br>
 卷积神经网络学习路线（十七） | Google CVPR 2017 MobileNet V1
 >https://zhuanlan.zhihu.com/p/103597446
