@@ -8,6 +8,12 @@
 
 
 
+20200128：<br>
+BERT+知识图谱：北大-腾讯联合推出知识赋能的K-BERT模型
+>https://zhuanlan.zhihu.com/p/101302240
+
+
+
 20200127：<br>
 [深度学习框架]PyTorch常用代码段
 >https://zhuanlan.zhihu.com/p/104019160
