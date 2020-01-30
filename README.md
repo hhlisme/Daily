@@ -6,6 +6,10 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200130：<br>
+深度学习/图像处理历史最全最细-网络、技巧、迭代-论文整理分享
+>https://zhuanlan.zhihu.com/p/100542440
+
 
 20200129：<br>
 计算机视觉/图像处理每日论文速递[01.28]
