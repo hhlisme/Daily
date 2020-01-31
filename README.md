@@ -6,6 +6,14 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+
+20200131：<br>
+让我们跑一个最简单的GAN网络吧！（附Jupyter Notebook 代码）
+>https://zhuanlan.zhihu.com/p/85908702
+
+
+
 20200130：<br>
 深度学习/图像处理历史最全最细-网络、技巧、迭代-论文整理分享
 >https://zhuanlan.zhihu.com/p/100542440
