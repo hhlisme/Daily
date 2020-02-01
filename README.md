@@ -7,6 +7,11 @@
 
 
 
+20200202：<br>
+你写论文时发现了哪些神网站？
+https://www.zhihu.com/question/35931336/answer/937727418
+
+
 
 20200131：<br>
 让我们跑一个最简单的GAN网络吧！（附Jupyter Notebook 代码）
