@@ -8,8 +8,12 @@
 
 
 20200202：<br>
+听说你想了解人工智能？这篇文章教你从零基础成为深度学习高手
+>https://zhuanlan.zhihu.com/p/31650418
+
+20200201：<br>
 你写论文时发现了哪些神网站？
-https://www.zhihu.com/question/35931336/answer/937727418
+>https://www.zhihu.com/question/35931336/answer/937727418
 
 
 
