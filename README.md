@@ -7,6 +7,11 @@
 
 
 
+20200203：<br>
+nnUnet论文解析---知乎 张良怀
+>https://zhuanlan.zhihu.com/p/100014604
+
+
 20200202：<br>
 听说你想了解人工智能？这篇文章教你从零基础成为深度学习高手
 >https://zhuanlan.zhihu.com/p/31650418
