@@ -7,6 +7,22 @@
 
 
 
+
+
+
+
+
+
+
+
+20200205：<br>
+浅谈学术论文rebuttal
+>https://mp.weixin.qq.com/s/9sfN_caUrw-4TK8afPFYBA
+
+20200204：<br>
+CNN真的需要下采样（上采样）吗?
+>https://mp.weixin.qq.com/s/F4Jzksqw_Alam2zkE8X1fg
+
 20200203：<br>
 nnUnet论文解析---知乎 张良怀
 >https://zhuanlan.zhihu.com/p/100014604
