@@ -7,6 +7,10 @@
 
 
 
+20200209：<br>
+DeepSnake | 浙大实例分割新方法，准确高速获取物体边缘轮廓
+>https://mp.weixin.qq.com/s/DhJZar0-TVK5lw85V1jayg
+
 20200207：<br>
 pytorch 排坑指南 | 常见的坑汇总 + 解决方案
 >http://bbs.cvmart.net/topics/1449
