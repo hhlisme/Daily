@@ -7,6 +7,10 @@
 
 
 
+20200210：<br>
+论文速递｜域迁移分割算法 即插即用
+>https://mp.weixin.qq.com/s/zZ8_0S4V-tCclpSsFU5xzg
+
 20200209：<br>
 DeepSnake | 浙大实例分割新方法，准确高速获取物体边缘轮廓
 >https://mp.weixin.qq.com/s/DhJZar0-TVK5lw85V1jayg
