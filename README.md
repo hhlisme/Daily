@@ -6,8 +6,23 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
-20200211：<br>
+20200214：<br>
+首个硬件资源受限下数据不均匀的图像去噪网络：BRDNet，代码已开源
+>https://mp.weixin.qq.com/s/Jk6PlRBYorLI5FSa5xxOkw
 
+
+
+20200213：<br>
+AAAI 2020 | 商汤提出全新弱监督目标检测框架
+>https://mp.weixin.qq.com/s/PHk_VKTizXhp5M5zH6eBbQ
+
+
+
+
+
+20200212：<br>
+重识别（re-ID）特征适合直接用于跟踪（tracking）问题么？
+>https://mp.weixin.qq.com/s/6yfHwsk-fTEtQhrciMEBug
 
 20200210：<br>
 论文速递｜域迁移分割算法 即插即用
