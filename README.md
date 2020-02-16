@@ -6,6 +6,13 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+
+20200215：<br>
+Hinton组力作：ImageNet无监督学习最佳性能一次提升7%，媲美监督学习
+>https://zhuanlan.zhihu.com/p/107060834
+
+
 20200214：<br>
 首个硬件资源受限下数据不均匀的图像去噪网络：BRDNet，代码已开源
 >https://mp.weixin.qq.com/s/Jk6PlRBYorLI5FSa5xxOkw
