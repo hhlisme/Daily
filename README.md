@@ -8,6 +8,13 @@
 
 
 
+
+20200219：<br>
+浅谈学术论文rebuttal
+>https://zhuanlan.zhihu.com/p/104298923
+
+
+
 20200215：<br>
 Hinton组力作：ImageNet无监督学习最佳性能一次提升7%，媲美监督学习
 >https://zhuanlan.zhihu.com/p/107060834
