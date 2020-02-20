@@ -7,6 +7,9 @@
 
 
 
+20200220：<br>
+一文看尽10篇目标检测最新论文（MetaOD/P-RSDet/MatrixNets等）
+>https://zhuanlan.zhihu.com/p/107942332
 
 
 20200219：<br>
