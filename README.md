@@ -7,6 +7,19 @@
 
 
 
+20200227：<br>
+20年的目标检测大综述（章节1）
+>https://mp.weixin.qq.com/s/Tf9nDN-v9ypCdNPpBjy6VA
+
+20年的目标检测大综述（章节2）
+>https://mp.weixin.qq.com/s/Pp3D9edHtBTEnnIrriY2Pg
+
+
+20200226：<br>
+CVPR 2020 | PolarMask：将实例分割统一到FCN，有望在工业界大规模应用
+>https://mp.weixin.qq.com/s/gwyGS1P3NioJ39aqg8STWA
+
+
 20200220：<br>
 一文看尽10篇目标检测最新论文（MetaOD/P-RSDet/MatrixNets等）
 >https://zhuanlan.zhihu.com/p/107942332
