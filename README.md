@@ -6,6 +6,9 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200228：<br>
+ICLR 2020 | 抛开卷积，多头自注意力能够表达任何卷积操作
+>https://zhuanlan.zhihu.com/p/107563147
 
 20200227：<br>
 20年的目标检测大综述（章节1）
