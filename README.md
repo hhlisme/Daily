@@ -6,6 +6,11 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+20200229：<br>
+「LSTM 之父」亲笔万字长文，只为向世人证明：深度学习不是在母语为英语的地方被发明的
+>https://zhuanlan.zhihu.com/p/91352846
+
 20200228：<br>
 ICLR 2020 | 抛开卷积，多头自注意力能够表达任何卷积操作
 >https://zhuanlan.zhihu.com/p/107563147
