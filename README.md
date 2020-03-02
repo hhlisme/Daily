@@ -6,6 +6,9 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200302：<br>
+【CV中的Attention机制】SKNet-SENet的提升版
+>https://zhuanlan.zhihu.com/p/102034839
 
 20200229：<br>
 「LSTM 之父」亲笔万字长文，只为向世人证明：深度学习不是在母语为英语的地方被发明的
