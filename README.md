@@ -6,6 +6,12 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200303：<br>
+重磅发布！吴恩达 AI 完整课程资源超级大汇总！
+>https://zhuanlan.zhihu.com/p/108243142
+
+
+
 20200302：<br>
 【CV中的Attention机制】SKNet-SENet的提升版
 >https://zhuanlan.zhihu.com/p/102034839
