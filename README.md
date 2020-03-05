@@ -6,6 +6,13 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+20200305：<br>
+Kaggle首战Top 2%, APTOS 2019复盘总结+机器学习竞赛通用流程归纳
+>https://zhuanlan.zhihu.com/p/81695773
+
+
+
 20200303：<br>
 重磅发布！吴恩达 AI 完整课程资源超级大汇总！
 >https://zhuanlan.zhihu.com/p/108243142
