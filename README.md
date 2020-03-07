@@ -7,6 +7,14 @@
 
 
 
+
+
+
+20200306：<br>
+史上最全GAN综述2020版：算法、理论及应用
+>https://zhuanlan.zhihu.com/p/110581201
+
+
 20200305：<br>
 Kaggle首战Top 2%, APTOS 2019复盘总结+机器学习竞赛通用流程归纳
 >https://zhuanlan.zhihu.com/p/81695773
