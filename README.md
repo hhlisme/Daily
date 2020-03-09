@@ -7,7 +7,9 @@
 
 
 
-
+20200309：<br>
+理解卷积神经网络的局限
+>https://mp.weixin.qq.com/s/A4r1BzkMny_rsgZf8uTYOQ
 
 20200308：<br>
 CNN真的需要下采样（上采样）吗?(原创)
