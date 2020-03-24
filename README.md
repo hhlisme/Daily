@@ -6,22 +6,28 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+202003024：<br>
+skimage.morphology 形态学操作大全
+>https://cloud.tencent.com/developer/section/1415011
+
+
 202003023：<br>
 一文读懂 Self-Supervised Learning
-https://mp.weixin.qq.com/s/VP8fyzRMtheyEm4tBZ17Dw
+>https://mp.weixin.qq.com/s/VP8fyzRMtheyEm4tBZ17Dw
 
 202003022：<br>
 【CV中的特征金字塔】六，ECCV 2018 PFPNet
-https://mp.weixin.qq.com/s/vZ2O4HANnt0xInotxBjdyQ
+>https://mp.weixin.qq.com/s/vZ2O4HANnt0xInotxBjdyQ
 
 202003021：<br>
 基础知识 | 输入到CNN中的图像为什么不具有平移不变性？如何去解决？
-https://mp.weixin.qq.com/s/CLuy9Zv0lBFYanAfjYO1yg
+>https://mp.weixin.qq.com/s/CLuy9Zv0lBFYanAfjYO1yg
 
 
 202003020：<br>
 极市直播| (CVPR2020 Oral) 陈昊：超越Mask RCNN的BlendMask，实例分割新标杆
-https://mp.weixin.qq.com/s/eMjjVfSyAAUVaFYG7Lmmwg
+>https://mp.weixin.qq.com/s/eMjjVfSyAAUVaFYG7Lmmwg
 
 202003011-202003019：有事儿去了。
 
