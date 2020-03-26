@@ -6,7 +6,9 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
-
+202003026：<br>
+CVPR 2020 Oral | 人脸识别Loss新突破： 旷视提出Circle Loss，革新深度特征学习范式
+>https://mp.weixin.qq.com/s/cVpf01n8JwCBl95mNLrvvA
 
 202003025：<br>
 Python库 - Albumentations 图片数据增强库
