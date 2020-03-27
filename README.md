@@ -6,6 +6,12 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+202003027：<br>
+【综述】神经网络中不同类型的卷积层
+>https://mp.weixin.qq.com/s/ifb8yv9v4_MH5BRwaquXAQ
+
+
+
 202003026：<br>
 CVPR 2020 Oral | 人脸识别Loss新突破： 旷视提出Circle Loss，革新深度特征学习范式
 >https://mp.weixin.qq.com/s/cVpf01n8JwCBl95mNLrvvA
