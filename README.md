@@ -6,6 +6,11 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+202003028：<br>
+超强语义分割算法！基于语义流的快速而准确的场景解析
+>https://mp.weixin.qq.com/s/23r51ToYwc8F9mRsJ8lIbg
+
 202003027：<br>
 【综述】神经网络中不同类型的卷积层
 >https://mp.weixin.qq.com/s/ifb8yv9v4_MH5BRwaquXAQ
