@@ -7,6 +7,13 @@
 
 
 
+
+202003029：<br>
+【从零开始学习YOLOv3】8. YOLOv3中Loss部分计算
+>https://mp.weixin.qq.com/s/2teW0VRD41H8eZ0tZO82qQ
+
+
+
 202003028：<br>
 超强语义分割算法！基于语义流的快速而准确的场景解析
 >https://mp.weixin.qq.com/s/23r51ToYwc8F9mRsJ8lIbg
