@@ -6,6 +6,10 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+202003030：<br>
+项目实践 | 基于Mask R-CNN的道路物体检测与分割（从数据集制作到视频测试）
+>https://mp.weixin.qq.com/s/dApdi9hyGcqh-lgEV1QhXw
+
 
 
 202003029：<br>
