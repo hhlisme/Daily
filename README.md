@@ -5,7 +5,13 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
-202003031：<br>
+
+20200401：<br>
+何恺明团队最新力作RegNet：超越EfficientNet，GPU上提速5倍，这是网络设计新范式 | CVPR 2020
+>https://mp.weixin.qq.com/s/mWFsXHmQlwUXAaSeXrTVew
+
+
+20200331：<br>
 CVPR 2020 Oral |目标检测+分割均实现SOTA！厦大提出协同学习网络
 >https://mp.weixin.qq.com/s/6VZ6FSqCY-8Z2ZW6ZBWkYA
 
