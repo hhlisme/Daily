@@ -7,6 +7,11 @@
 
 
 20200401：<br>
+你需要关注的计算机视觉论文在这里！最新最全state-of-art论文，包含阅读笔记
+>https://mp.weixin.qq.com/s/YToBgZl1pZhQyMDpdy7DYw
+
+
+20200401：<br>
 何恺明团队最新力作RegNet：超越EfficientNet，GPU上提速5倍，这是网络设计新范式 | CVPR 2020
 >https://mp.weixin.qq.com/s/mWFsXHmQlwUXAaSeXrTVew
 
