@@ -6,7 +6,15 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
-20200401：<br>
+
+
+20200403：<br>
+2020年以来的图像分割进展：结构，损失函数，数据集以及框架
+>https://mp.weixin.qq.com/s/qqCcEacPv2RFEHWsUWBgHg
+
+
+
+20200402：<br>
 你需要关注的计算机视觉论文在这里！最新最全state-of-art论文，包含阅读笔记
 >https://mp.weixin.qq.com/s/YToBgZl1pZhQyMDpdy7DYw
 
