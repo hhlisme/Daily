@@ -6,6 +6,9 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200404：<br>
+Genetic CNN: 经典NAS算法，遗传算法的标准套用 | ICCV 2017
+>https://mp.weixin.qq.com/s/SKL1vCCzsGmddpGoijh2vg
 
 
 20200403：<br>
