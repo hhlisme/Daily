@@ -7,6 +7,11 @@
 
 
 
+20200406：<br>
+目标检测中的特征冲突与不对齐问题
+>https://mp.weixin.qq.com/s/TlxEplCHP6DQ4Vr7M-RA1Q
+
+
 20200405：<br>
 CVPR 2020 Oral：一行代码提升迁移性能，中科院计算所研究生一作
 >https://mp.weixin.qq.com/s/oFUANV0RCQixR83tWRWxXQ
