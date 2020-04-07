@@ -5,6 +5,9 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+20200407：<br>
+【项目实践】基于Mask R-CNN的道路物体检测与分割（从数据集制作到视频测试）
+>https://mp.weixin.qq.com/s/2ef03pIJz-aNbfv8Y292DQ
 
 
 20200406：<br>
