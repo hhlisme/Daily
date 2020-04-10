@@ -6,6 +6,19 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+20200410：<br>
+当UNet遇见ResNet会发生什么？
+>https://mp.weixin.qq.com/s/YOkOssFN9X1MxMvdlRzVTQ
+
+
+
+20200409：<br>
+【深度学习】视觉注意力机制 | Non-local与SENet、CBAM模块融合：GCNet、DANet
+>https://mp.weixin.qq.com/s/PwpuOSqwu6U3S4M4M4D5mQ
+
+
+
 20200408：<br>
 CVPR2020 | Strip Pooling：语义分割新trick，条纹池化取代空间池化
 >https://mp.weixin.qq.com/s/Q72lTPtAu2jFhd0UElGh4g
