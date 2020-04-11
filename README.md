@@ -7,6 +7,11 @@
 
 
 
+20200411：<br>
+CNN结构设计技巧-兼顾速度精度与工程实现
+>https://mp.weixin.qq.com/s/IoHWsqJtO_31XSiLcFWzXA
+
+
 20200410：<br>
 当UNet遇见ResNet会发生什么？
 >https://mp.weixin.qq.com/s/YOkOssFN9X1MxMvdlRzVTQ
