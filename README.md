@@ -5,6 +5,12 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+
+
+20200413：<br>
+基础积累 | 必备教程，一文全面理解Pytorch（附代码实例）
+>https://mp.weixin.qq.com/s/rB86fFGC-Nt0ErO0OYJCNQ
+
 20200412：<br>
 全网第一SoTA成绩却朴实无华的Pytorch版EfficientDet
 >https://mp.weixin.qq.com/s/eWvdYIV_IWhGoKqic_mspg
