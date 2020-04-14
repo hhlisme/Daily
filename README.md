@@ -7,6 +7,16 @@
 
 
 
+
+
+
+
+20200414：<br>
+人人必须要知道的语义分割模型：DeepLabv3+
+>https://mp.weixin.qq.com/s/HRxjTJhY8o7BDNRy0xrPpQ
+
+
+
 20200413：<br>
 基础积累 | 必备教程，一文全面理解Pytorch（附代码实例）
 >https://mp.weixin.qq.com/s/rB86fFGC-Nt0ErO0OYJCNQ
