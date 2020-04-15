@@ -7,8 +7,9 @@
 
 
 
-
-
+20200415：<br>
+PyTorch版EfficientDet比官方TF实现快25倍？这个GitHub项目数天狂揽千星
+>https://mp.weixin.qq.com/s/h0Qy5kxjbkCugbEWsjPAkA
 
 
 20200414：<br>
