@@ -6,6 +6,10 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200416：<br>
+CVPR 2020丨基于范例的精细可控图像翻译CoCosNet，一键生成你心目中的图像
+>https://mp.weixin.qq.com/s/bBRkSHvadpzzeagotomF1w
+
 
 20200415：<br>
 PyTorch版EfficientDet比官方TF实现快25倍？这个GitHub项目数天狂揽千星
