@@ -5,6 +5,14 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+
+
+20200418：<br>
+利用Uncertainty修正Domain Adaptation中的伪标签
+>https://mp.weixin.qq.com/s/0Z66Jawug-BnhC4dAaDlEw
+
+
+
 20200417：<br>
 RegNet | 何恺明团队最新作品，源于Fackbook AI（附下载链接）
 >https://mp.weixin.qq.com/s/bSmrwekzVT0F_P0UhyWNTQ
