@@ -7,6 +7,16 @@
 
 
 
+
+
+
+
+
+20200419：<br>
+ResNet改进版来了！可训练网络超过3000层！相同深度精度更高
+>https://mp.weixin.qq.com/s/w6cZGxBE16P9Ojgn3AqsAw
+
+
 20200418：<br>
 利用Uncertainty修正Domain Adaptation中的伪标签
 >https://mp.weixin.qq.com/s/0Z66Jawug-BnhC4dAaDlEw
