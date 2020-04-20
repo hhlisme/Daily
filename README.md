@@ -6,9 +6,9 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
-
-
-
+20200420：<br>
+论文推荐 | 张航、李沐等提出 ResNet 最强改进版；Bengio 等 59 位学者呼吁构建可信赖 AI
+>http://bbs.cvmart.net/articles/1983
 
 
 
