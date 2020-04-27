@@ -7,6 +7,16 @@
 
 
 
+
+20200426：<br>
+多任务学习(Multi-task Learning)方法总结
+>https://mp.weixin.qq.com/s/e0MKq8ztmlNhLTPOM1kf-A
+
+20200425：<br>
+YOLOv4 详解版！一句话总结：速度差不多的精度碾压，精度差不多的速度碾压！
+>https://mp.weixin.qq.com/s/YC_Uos4Z4PnkP_ncQRUy5A
+
+
 20200423：<br>
 pytorch 新手【提速】指南（持续更新）
 >https://zhuanlan.zhihu.com/p/119364172
