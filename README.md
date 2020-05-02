@@ -6,6 +6,29 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200502：<br>
+ResNet到底在解决一个什么问题呢？
+>https://mp.weixin.qq.com/s/2Ctf3qEi1SWco4ryraOKaw
+
+
+
+20200501：<br>
+目标检测正负样本区分策略和平衡策略总结(一)
+>https://mp.weixin.qq.com/s/l_84AfSBdYIUfiSFrQDZzQ
+
+目标检测正负样本区分策略和平衡策略总结(二)
+>https://mp.weixin.qq.com/s/kz74yb857gmG1h7MyOWx_Q
+
+
+20200430：<br>
+查阅arXiv论文新神器，一行代码比较版本差别，Github新开源！
+>https://mp.weixin.qq.com/s/zVGMBIU-OLXQCyQwTktRtA
+
+
+
+20200429：<br>
+最便捷的神经网络可视化工具之一--Flashtorch
+>http://bbs.cvmart.net/topics/2031
 
 
 20200426：<br>
