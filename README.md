@@ -6,6 +6,42 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200514：<br>
+从800个GPU训练几十天到单个GPU几小时，看神经架构搜索如何进化
+>https://mp.weixin.qq.com/s/dBPo3dBj74Hkp4HvOM_51A
+
+
+20200513：<br>
+旷视提出DRConv：动态区域感知卷积，提升分类/检测/分割性能
+>https://mp.weixin.qq.com/s/IpGctS8OFoKkTMZOzohSEA
+
+20200512：<br>
+目标检测 | 基于扩展FPN的小目标检测方法
+>https://mp.weixin.qq.com/s/FN6yrUret2bqgRGFBQmUrQ
+
+20200510：<br>
+YOLO系列综述：从V1到V4
+>https://mp.weixin.qq.com/s/E12qr8Z4PkeBE7B90A8Tvg
+
+YOLO系列：V1,V2,V3,V4简介
+>https://mp.weixin.qq.com/s/iGhYxBLdGHPydVi2FgkNtg
+
+
+20200509：<br>
+CVPR2020 | SEAM：弱监督语义分割的自监督等变注意力机制
+>https://mp.weixin.qq.com/s/4ml6VKZZPKs4Kg1hvb0TGQ
+
+20200506：<br>
+三维医学图像预训练模型
+>https://mp.weixin.qq.com/s/XvMTI693_kqhpGDBQfvnhw
+
+20200505：<br>
+CNN调参：目标检测算法优化的实用Trick
+>https://mp.weixin.qq.com/s/lwhd5qOLYgcwnWvcBGozUA
+
+20200504：<br>
+有没有什么高效「炼丹」神器可以推荐？复旦祭出内部调参利器fitlog
+>https://mp.weixin.qq.com/s/Qkw_nMOez5e7_8i9KWcHIg
 
 20200503：<br>
 以点代物，同时执行目标检测和跟踪，这个新方法破解目标跟踪难题
