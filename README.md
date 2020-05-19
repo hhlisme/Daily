@@ -6,6 +6,24 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200518：<br>
+【前沿经典模型】ResNet最强改进之ResNeSt(附源码)
+>https://mp.weixin.qq.com/s/3kRdlsniQe7jMYoWl6ngAA
+
+
+20200517：<br>
+语义分割该如何走下去？
+>https://mp.weixin.qq.com/s/eKUgHxKrEFt6DClaDb5X8w
+
+
+20200516：<br>
+深度学习训练过程可视化（附github源码）
+>https://mp.weixin.qq.com/s/T3qh70CRPPq06TMPMefOeA
+
+20200515：<br>
+医学图像分割 | U-Net网络及他的变体
+>https://mp.weixin.qq.com/s/5rqCc_ozJNNFb1zYs8JOQQ
+
 20200514：<br>
 从800个GPU训练几十天到单个GPU几小时，看神经架构搜索如何进化
 >https://mp.weixin.qq.com/s/dBPo3dBj74Hkp4HvOM_51A
