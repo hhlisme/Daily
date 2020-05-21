@@ -6,6 +6,26 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+20200521：<br>
+MASA DCN(可变形卷积) 算法笔记
+>https://mp.weixin.qq.com/s/cFxzGJ23SZht8NqjqMMocw
+
+
+20200520：<br>
+小样本分割综述：8类方法总结、数据集以及评测指标
+>https://mp.weixin.qq.com/s/pyoR23odrD6AFDtFA9YJUg
+
+
+
+20200519：<br>
+高性能涨点的动态卷积 DyNet 与 CondConv、DynamicConv 有什么区别联系？
+>https://mp.weixin.qq.com/s/hZc8MgHoE010hnzLU-trIA
+
+
+
+
+
 20200518：<br>
 【前沿经典模型】ResNet最强改进之ResNeSt(附源码)
 >https://mp.weixin.qq.com/s/3kRdlsniQe7jMYoWl6ngAA
