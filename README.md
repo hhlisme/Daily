@@ -7,6 +7,26 @@
 
 
 
+
+20200525：<br>
+语义分割 | 新SOTA，Cityscapes 85.1%mIoU！分层多尺度注意力超越HRNetV2+OCR+SegFix
+>https://mp.weixin.qq.com/s/GUSVBoM8ZRgHUlthA4PCtQ
+
+20200524：<br>
+目标检测 | AP-Loss：提高单阶段目标检测性能的分类损失，超越Focal loss
+>https://mp.weixin.qq.com/s/Ryxu1qsmL_Roi5zDb1KSRQ
+
+
+20200523：<br>
+85.1% mIoU！最强语义分割网络——分层+多尺度+注意力！
+>https://mp.weixin.qq.com/s/Q0UXZhReRW3Mf435e1D54g
+
+
+20200522：<br>
+IoU、GIoU、DIoU、CIoU损失函数的那点事儿
+>https://mp.weixin.qq.com/s/Sg9nJkylnaKEqsNZTnlM5g
+
+
 20200521：<br>
 MASA DCN(可变形卷积) 算法笔记
 >https://mp.weixin.qq.com/s/cFxzGJ23SZht8NqjqMMocw
