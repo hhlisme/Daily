@@ -7,6 +7,10 @@
 
 
 
+20200526：<br>
+VS Code + LaTeX（安装及环境配置）
+>https://bbs.cvmart.net/topics/2277?from=groupmessage
+
 
 20200525：<br>
 语义分割 | 新SOTA，Cityscapes 85.1%mIoU！分层多尺度注意力超越HRNetV2+OCR+SegFix
