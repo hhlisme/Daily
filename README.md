@@ -1,10 +1,42 @@
-# Daily 何红亮每日阅读文章“日记” 2020
-这是何红亮同学保存每日记录的地方，GitHub上的第一个目录。
+# Daily He hong liang 每日阅读文章“日记” 2020
+这是He hong liang 同学保存每日记录的地方，GitHub上的第一个目录。
 在这里，我将记录每天自己看到的有收获的文章。比如：数据挖掘、机器学习、深度学习、NLP、数据竞赛、Python进阶及有关数据及建模方面内容。
 在数据科学的道路上，能够慢慢进步和成长！坚持每天进步一点点！
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+
+20200602：<br>
+目前最高最快最小模型 | （EfficientDet）可扩缩且高效的目标检测（附源码下载）
+>https://mp.weixin.qq.com/s/5KfTEmNSVs_HTX9fwKtnQg
+
+20200601：<br>
+【MMDetection 超全专栏】二，配置类和注册器&数据处理&训练pipline
+>https://mp.weixin.qq.com/s/A8ZwiddYk_RlfquDdLQmKQ
+
+
+20200531：<br>
+深度学习代码和实验管理的「奇技淫巧」
+>https://mp.weixin.qq.com/s/CqEIcWYu6QTrsNyheVEYRA
+
+20200530：<br>
+收藏 | PyTorch Cookbook：常用代码段集锦
+>https://mp.weixin.qq.com/s/UTjNp9e6LJIQDimcJLl5TQ
+
+20200529：<br>
+Self-attention机制及其应用：Non-local网络模块
+>https://mp.weixin.qq.com/s/2O-T6akdPjGe2rUZKoE4Kw
+
+20200528：<br>
+CVPR 2020 | 商汤提出应对尺度变化的检测新算法
+>https://mp.weixin.qq.com/s/BPZku2DdNek7brlRO6djog
+
+目标检测 | Facebook开源新思路！DETR：用Transformers来进行端到端的目标检测
+>https://mp.weixin.qq.com/s/b5Ont9vHPeCPnAjuDGv5Bg
+
+20200527：<br>
+基于多模态特征融合的核磁共振图像生成方法的介绍
+>https://mp.weixin.qq.com/s/3ra1pfboxq6bIXjTxsmEAw
 
 
 20200526：<br>
