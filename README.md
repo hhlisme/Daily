@@ -6,6 +6,11 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200603：<br>
+目标检测 | 已开源！全新水下目标检测算法SWIPENet+IMA框架
+>https://mp.weixin.qq.com/s/FHHIdoXyaU4skX-zyZFQew
+
+
 20200602：<br>
 目前最高最快最小模型 | （EfficientDet）可扩缩且高效的目标检测（附源码下载）
 >https://mp.weixin.qq.com/s/5KfTEmNSVs_HTX9fwKtnQg
