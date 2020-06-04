@@ -6,6 +6,11 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200604：<br>
+Focal Loss公式、导数、作用详解
+>https://mp.weixin.qq.com/s/4DFZ4F95-qOSzP6fArXTmw
+
+
 20200603：<br>
 目标检测 | 已开源！全新水下目标检测算法SWIPENet+IMA框架
 >https://mp.weixin.qq.com/s/FHHIdoXyaU4skX-zyZFQew
