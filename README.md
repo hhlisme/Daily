@@ -6,6 +6,10 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200605：<br>
+(CVPR2019)图像语义分割(22)FickleNet-随机推理用于弱监督和半监督图像语义分割
+>https://zhuanlan.zhihu.com/p/81707287
+
 20200604：<br>
 Focal Loss公式、导数、作用详解
 >https://mp.weixin.qq.com/s/4DFZ4F95-qOSzP6fArXTmw
