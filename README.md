@@ -6,6 +6,11 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200607：<br>
+COCO 迎来新榜首！DetectoRS以54.7mAP成就目前最高精度检测网络
+>https://mp.weixin.qq.com/s/ESZ75Z_SuinDkoRqWwXNiw
+
+
 20200606：<br>
 COCO 54.7mAP！DetectoRS目标检测：改进主干网，成就新高度！
 >https://mp.weixin.qq.com/s/9gWJuFxaqEouG8eBBUDkUw
