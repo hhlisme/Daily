@@ -6,6 +6,11 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200608：<br>
+即插即涨2-3%！AC-FPN：用于目标检测的注意力引导上下文的特征金字塔网络
+>https://mp.weixin.qq.com/s/VlbWV8YpS-kTQR494hsrZA
+
+
 20200607：<br>
 COCO 迎来新榜首！DetectoRS以54.7mAP成就目前最高精度检测网络
 >https://mp.weixin.qq.com/s/ESZ75Z_SuinDkoRqWwXNiw
