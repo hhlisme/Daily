@@ -5,6 +5,13 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+20200610：<br>
+计算机视觉中的注意力机制
+>https://mp.weixin.qq.com/s/NjE9HrRHMFQJdDSQc2BtPg
+
+20200609：<br>
+PyTorch并行训练指南：单机多卡并行、混合精度、同步BN训练
+>https://mp.weixin.qq.com/s/gcHBKbyPiNJI24Hqnj9IWA
 
 20200608：<br>
 即插即涨2-3%！AC-FPN：用于目标检测的注意力引导上下文的特征金字塔网络
