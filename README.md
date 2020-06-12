@@ -5,6 +5,15 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+20200612：<br>
+深入理解计算机视觉中的损失函数
+>https://mp.weixin.qq.com/s/lw9frtqocqsS-q2KGfzO1Q
+
+20200611：<br>
+CVPR 2020 ‮有所‬论‮列文‬表‮炉出‬，并开‮下放‬载。
+>主会：http://openaccess.thecvf.com/CVPR2020.py
+>Workshop：http://openaccess.thecvf.com/CVPR2020_workshops/menu.py
+
 20200610：<br>
 计算机视觉中的注意力机制
 >https://mp.weixin.qq.com/s/NjE9HrRHMFQJdDSQc2BtPg
