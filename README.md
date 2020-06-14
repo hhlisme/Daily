@@ -5,6 +5,9 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+20200614：<br>
+22 款神经网络的设计和可视化工具，让你的论文更酷炫
+>https://mp.weixin.qq.com/s/UeqS2zKuuGtgfqefH_MVzg
 
 20200613：<br>
 深度学习的多个loss如何平衡 & 有哪些「魔改」损失函数，曾经拯救了你的深度学习模型？
