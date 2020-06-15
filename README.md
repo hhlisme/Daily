@@ -5,6 +5,13 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+
+
+20200615：<br>
+图像分割【论文解读】快速图像分割的SuperBPD方法 CVPR-2020
+>https://mp.weixin.qq.com/s/Z0lJC7vLzoPus8PPUfBYYw
+
+
 20200614：<br>
 22 款神经网络的设计和可视化工具，让你的论文更酷炫
 >https://mp.weixin.qq.com/s/UeqS2zKuuGtgfqefH_MVzg
