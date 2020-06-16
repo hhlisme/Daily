@@ -7,6 +7,13 @@
 
 
 
+
+
+
+20200616：<br>
+CVPR2020 | 即插即用！将双边超分辨率用于语义分割网络，提升图像分辨率的有效策略
+>https://mp.weixin.qq.com/s/Zy9mCZOL8AneNjbvFpR3jg
+
 20200615：<br>
 图像分割【论文解读】快速图像分割的SuperBPD方法 CVPR-2020
 >https://mp.weixin.qq.com/s/Z0lJC7vLzoPus8PPUfBYYw
