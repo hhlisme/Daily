@@ -8,7 +8,14 @@
 
 
 
+20200618：<br>
+萨提亚·纳德拉与沈向洋CVPR对谈：那些未来可期的计算机视觉研究与应用
+>https://mp.weixin.qq.com/s/w8S7TtYMTfraFtWAhwBVEw
 
+
+20200617：<br>
+CVPR2020 | MAL：联合解决目标检测中的定位与分类问题，自动选择最佳anchor
+>https://mp.weixin.qq.com/s/9DrpDBUF73AoI52zmwNchg
 
 20200616：<br>
 CVPR2020 | 即插即用！将双边超分辨率用于语义分割网络，提升图像分辨率的有效策略
