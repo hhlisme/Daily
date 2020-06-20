@@ -7,6 +7,15 @@
 
 
 
+20200620：<br>
+高效 PyTorch ：如何消除训练瓶颈
+>https://mp.weixin.qq.com/s/oHNuYFy_Fh5BG-ykOc7-LQ
+
+
+20200619：<br>
+EffNet: 继MobileNet和ShuffleNet之后的高效网络结构
+>https://mp.weixin.qq.com/s/Vcj8Z2zDmu1a7zRFCfpyew
+
 
 20200618：<br>
 萨提亚·纳德拉与沈向洋CVPR对谈：那些未来可期的计算机视觉研究与应用
