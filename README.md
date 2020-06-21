@@ -7,6 +7,10 @@
 
 
 
+20200621：<br>
+CVPR 2020 论文大盘点-语义分割篇
+>https://mp.weixin.qq.com/s/9xz5NylyY_XJpY_Og3-Sbg
+
 20200620：<br>
 高效 PyTorch ：如何消除训练瓶颈
 >https://mp.weixin.qq.com/s/oHNuYFy_Fh5BG-ykOc7-LQ
