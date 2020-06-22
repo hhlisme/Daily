@@ -7,6 +7,13 @@
 
 
 
+
+
+20200622：<br>
+论文推荐 | CVPR 2020 获奖论文；知识蒸馏综述
+>https://bbs.cvmart.net/articles/2774
+
+
 20200621：<br>
 CVPR 2020 论文大盘点-语义分割篇
 >https://mp.weixin.qq.com/s/9xz5NylyY_XJpY_Og3-Sbg
