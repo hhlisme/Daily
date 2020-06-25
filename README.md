@@ -6,8 +6,17 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+20200625：<br>
+CVPR 2020 论文大盘点-图像分割完整篇
+>https://mp.weixin.qq.com/s/oVfLz6LiE9bdqs7Xidpv6w
 
+20200624：<br>
+CVPR2020 | SANet：视觉注意力SE模块的改进，并用于语义分割
+>https://mp.weixin.qq.com/s/_7Iir2DZ_lROyR-BxScbnA
 
+20200623：<br>
+【从零开始学Mask RCNN】一，原理回顾&&项目文档翻译
+>https://mp.weixin.qq.com/s/8gMMglCkFH6iJgv1ajJGfQ
 
 20200622：<br>
 论文推荐 | CVPR 2020 获奖论文；知识蒸馏综述
