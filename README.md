@@ -6,6 +6,17 @@
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
 
+
+
+20200627：<br>
+金字塔卷积PyConv来了！"即插即用"，提升你的网络性能
+>https://mp.weixin.qq.com/s/wXgCEK-6lWcYq84gyXP1lg
+
+20200626：<br>
+凭什么相信你，我的CNN模型？关于CNN模型可解释性的思考
+>https://mp.weixin.qq.com/s/4Tq43DEaUk_rtLubcztyNw
+
+
 20200625：<br>
 CVPR 2020 论文大盘点-图像分割完整篇
 >https://mp.weixin.qq.com/s/oVfLz6LiE9bdqs7Xidpv6w
