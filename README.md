@@ -7,6 +7,15 @@
 
 
 
+20200629：<br>
+训练提速60%！只需5行代码，PyTorch 1.6即将原生支持自动混合精度训练
+>https://mp.weixin.qq.com/s/EdE1KLAXjmbIF-bULdpTNQ
+
+
+20200628：<br>
+CVPR 2020 论文大盘点-医学影像处理识别篇
+>https://mp.weixin.qq.com/s/xTPVnb-ckeM1XYoIj_KCKA
+
 
 20200627：<br>
 金字塔卷积PyConv来了！"即插即用"，提升你的网络性能
