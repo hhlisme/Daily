@@ -7,6 +7,35 @@
 
 
 
+20200705：<br>
+语义分割的三点奇技淫巧
+>https://mp.weixin.qq.com/s/dZwRUSc_1bi-frarSrjuNg
+
+20200704：<br>
+使用OpenCV进行颜色分割
+>https://mp.weixin.qq.com/s/w74PslqHBuw3y3GbZH27og
+
+20200703：<br>
+通道注意力超强改进，轻量模块ECANet来了！即插即用，显著提高CNN性能｜已开源
+>https://mp.weixin.qq.com/s/LOOhcmyMIVJugER0wJkDhg
+
+
+20200702：<br>
+11种主要神经网络结构图解
+>https://mp.weixin.qq.com/s/r5pSH3cvQe2UN_hDx6UriQ
+
+
+20200701：<br>
+GPU端打败RegNet、EfficientNet的强悍担当：GENet
+>https://mp.weixin.qq.com/s/2vM0CkDHunx-KxC5I9CzIw
+
+
+20200630：<br>
+将U-Net用于图像去雾任务，一种具有密集特征融合的多尺度增强去雾网络 | CVPR2020
+>https://mp.weixin.qq.com/s/34HxF5qCulGd1zyATH7ZuA
+
+
+
 20200629：<br>
 训练提速60%！只需5行代码，PyTorch 1.6即将原生支持自动混合精度训练
 >https://mp.weixin.qq.com/s/EdE1KLAXjmbIF-bULdpTNQ
