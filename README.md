@@ -7,6 +7,18 @@
 
 
 
+
+
+20200707：<br>
+深度学习模型大合集：GitHub趋势榜第一，两天斩获2000星
+>https://mp.weixin.qq.com/s/NdMBNTgqWWFQjLhlGQb56A
+
+
+
+20200706：<br>
+从注意力机制出发，上海交大提出实时语义分割新网络LRNNet
+>https://mp.weixin.qq.com/s/1Z8EN9lWy5r0JIu8u61Rig
+
 20200705：<br>
 语义分割的三点奇技淫巧
 >https://mp.weixin.qq.com/s/dZwRUSc_1bi-frarSrjuNg
