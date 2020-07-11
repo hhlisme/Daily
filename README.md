@@ -7,7 +7,22 @@
 
 
 
+20200711：<br>
+CVPR 2020 | 利用自适应边际损失增强小样本学习
+>https://mp.weixin.qq.com/s/vyIEvpBUh1zCpDkij-H0OQ
 
+202007010：<br>
+图像分割损失函数最详细总结，含代码
+>https://mp.weixin.qq.com/s/XgjriFkvpCrpAg_ildFyLg 
+
+20200709：<br>
+基于医学影像分析的心血管临床指标提取研究
+>https://mp.weixin.qq.com/s/PIzEj3xkVfF_aHS7IyD1RQ
+
+
+20200708：<br>
+深度学习常用损失函数总览：基本形式、原理、特点
+>https://mp.weixin.qq.com/s/LWDGIdFj0nsR5elxVO1xHQ
 
 20200707：<br>
 深度学习模型大合集：GitHub趋势榜第一，两天斩获2000星
