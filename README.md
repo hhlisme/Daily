@@ -7,6 +7,24 @@
 
 
 
+20200715：<br>
+ECCV2020语义分割：语义分割的落地应用-故障检测与异常检测
+>https://mp.weixin.qq.com/s/xk8OdEWNuydxEtyQNOgCaQ
+
+20200714：<br>
+何恺明团队新作！深度学习网络架构新视角：通过相关图表达理解神经网络
+>https://mp.weixin.qq.com/s/56v8Owb1kZ9Ka3SfwLj9Zw
+
+20200713：<br>
+深度学习调参有哪些技巧？
+>https://mp.weixin.qq.com/s/UOT_J3rZLIbGSPBaas_W0Q
+
+20200712：<br>
+ECCV 2020 | 自监督任务辅助的知识蒸馏
+>https://mp.weixin.qq.com/s/-ngbcLDuO96vAhQsDmwTZA
+
+
+
 20200711：<br>
 CVPR 2020 | 利用自适应边际损失增强小样本学习
 >https://mp.weixin.qq.com/s/vyIEvpBUh1zCpDkij-H0OQ
