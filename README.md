@@ -7,6 +7,10 @@
 
 
 
+20200716：<br>
+ECCV2020-弱监督语义分割：Mining Cross-Image Semantics
+>https://mp.weixin.qq.com/s/11wqccSdNLrr70DgWEK87w
+
 20200715：<br>
 ECCV2020语义分割：语义分割的落地应用-故障检测与异常检测
 >https://mp.weixin.qq.com/s/xk8OdEWNuydxEtyQNOgCaQ
