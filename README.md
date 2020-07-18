@@ -5,7 +5,14 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+20200718：<br>
+深入探讨深度学习模型性能与神经网络宽度之间关系
+>https://mp.weixin.qq.com/s/O7_ShYOGhaTbRod65adXtg
 
+
+20200717：<br>
+ECCV2020｜语义分割的落地应用：故障检测与异常检测
+>https://mp.weixin.qq.com/s/bDN6fL53Cd0_kcxBa1OdNw
 
 20200716：<br>
 ECCV2020-弱监督语义分割：Mining Cross-Image Semantics
