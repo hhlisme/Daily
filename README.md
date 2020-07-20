@@ -5,6 +5,15 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+20200720：<br>
+深入浅出Yolov3和Yolov4
+>https://mp.weixin.qq.com/s/uzj7X89zKHBk6PI46xrRiw
+
+
+20200719：<br>
+BiSeNet V2出来了！72.6%的mIOU, 156FPS的速度！让分割飞起来！
+>https://blog.csdn.net/baobei0112/article/details/105491674
+
 20200718：<br>
 深入探讨深度学习模型性能与神经网络宽度之间关系
 >https://mp.weixin.qq.com/s/O7_ShYOGhaTbRod65adXtg
