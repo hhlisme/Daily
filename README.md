@@ -5,6 +5,33 @@
 如有小伙伴愿意在数据道路上结伴而行，可以关注微信公众号《通往数据自由之路》在后台留言。
 <br>Keywords: data mining  machine learning  deep learning（数据挖掘，机器学习，深度学习，计算机视觉 CV 自然语言处理 NLP）
 
+
+
+20200726：<br>
+ECCV2020 | SOD100K：超低参数量的高效显著性目标检测算法，广义OctConv和动态权重衰减
+>https://mp.weixin.qq.com/s/BDG1sAV7Rh5uHRob01Ddxg
+
+20200725：<br>
+PyTorch版CenterNet数据加载解析
+>https://mp.weixin.qq.com/s/M_230E6DtkKtPaG25QNG4A
+
+20200724：<br>
+ECCV 2020 Oral | BorderDet : 用边界特征做检测
+>https://mp.weixin.qq.com/s/sgOXufdxNxOxB61VO_qhKQ
+
+20200723：<br>
+ECCV2020 | Cityscapes上83.7 mIoU，通过解耦的主体和边缘监督改进语义分割
+>https://mp.weixin.qq.com/s/E0e9sXfKMTmBEiznyHxPTg
+
+20200722：<br>
+一文读懂YOLO V5 与 YOLO V4
+>https://mp.weixin.qq.com/s/TgsdDyc41N_Qed-ntWxpug
+
+20200721：<br>
+论文笔记-OCR-Object-Contextual Representations for Semantic Segmentation
+>https://www.cnblogs.com/xiangs/p/12863173.html
+
+
 20200720：<br>
 深入浅出Yolov3和Yolov4
 >https://mp.weixin.qq.com/s/uzj7X89zKHBk6PI46xrRiw
