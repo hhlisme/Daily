@@ -7,6 +7,24 @@
 
 
 
+
+
+
+
+
+20200729：<br>
+那些轻轻拍了拍Attention的后浪们
+https://mp.weixin.qq.com/s/41zS831jFzzqkhPy4mtIrA
+
+20200728：<br>
+PPYOLO：2020不容错过的目标检测调参Tricks
+>https://mp.weixin.qq.com/s/pHOFqFihkkRVTYbkSTlG4w
+
+20200727：<br>
+CVPR2020｜GCT会成为SE的替代者吗？
+https://zhuanlan.zhihu.com/p/149042295
+
+
 20200726：<br>
 ECCV2020 | SOD100K：超低参数量的高效显著性目标检测算法，广义OctConv和动态权重衰减
 >https://mp.weixin.qq.com/s/BDG1sAV7Rh5uHRob01Ddxg
