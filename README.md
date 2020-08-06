@@ -8,13 +8,39 @@
 
 
 
+20200805：<br>
+深入理解图注意力机制
+>https://mp.weixin.qq.com/s/q-pM9cyPpml2k8InqBiNmw
 
 
+20200804：<br>
+深度学习中7种最优化算法的可视化与理解
+>https://mp.weixin.qq.com/s/D_1j7rheNwwODevgJOhaTg
 
+20200803：<br>
+人人必须要知道的语义分割模型：DeepLabv3+
+>https://mp.weixin.qq.com/s/kfHhzp7VreFNyjEiKOOdTg
+
+20200802：<br>
+极市直播丨旷视朱本金：AutoAssign，目标检测中完全动态的正负样本标签分配方法
+>https://mp.weixin.qq.com/s/9TKqwX9juxrp_NZD8ZCYCg
+
+
+20200801：<br>
+PyTorch重大更新：将支持自动混合精度训练！
+>https://mp.weixin.qq.com/s/qY9rJj_gg3y1yqYpdqCKBw
+
+20200731：<br>
+CenterNet骨干网络之hourglass
+>https://mp.weixin.qq.com/s/nfPBRBLG1ThsY3DvONHYrA
+
+20200730：<br>
+Anchor-free应用一览：目标检测、实例分割、多目标跟踪
+>https://mp.weixin.qq.com/s/0PkxeTsoZE5vghyQMtGDBw
 
 20200729：<br>
 那些轻轻拍了拍Attention的后浪们
-https://mp.weixin.qq.com/s/41zS831jFzzqkhPy4mtIrA
+>https://mp.weixin.qq.com/s/41zS831jFzzqkhPy4mtIrA
 
 20200728：<br>
 PPYOLO：2020不容错过的目标检测调参Tricks
