@@ -8,6 +8,39 @@
 
 
 
+20200812：<br>
+ECCV2020 | RecoNet：上下文信息捕获新方法，比non-local计算成本低100倍以上
+>https://mp.weixin.qq.com/s/8IPRZjHBkmfYgG6_HZ9GWg
+
+20200811：<br>
+CBNet和DetectoRS：COCO数据集霸榜模型
+>https://mp.weixin.qq.com/s/9QTChra_W-xmc9_EX7HY9A
+
+
+20200810：<br>
+深度学习中7种最优化算法的可视化与理解
+>https://mp.weixin.qq.com/s/D_1j7rheNwwODevgJOhaTg
+
+
+
+20200809：<br>
+CenterNet的骨干网络之DLASeg
+>https://mp.weixin.qq.com/s/MZDtlZogXvgYNqlmc87LYg
+
+20200808：<br>
+ECCV2020 | 即插即用，涨点明显！FPT：特征金字塔Transformer
+>https://mp.weixin.qq.com/s/3tOEaQ2_-YEnk3-l-OcTkQ
+
+20200807：<br>
+【科研简讯】深度学习在新冠肺炎图像感染区域分割中的应用
+>https://mp.weixin.qq.com/s/_s11d_OAiYziX7v1DWI0rQ
+
+20200806：<br>
+深入理解图注意力机制
+>https://mp.weixin.qq.com/s/q-pM9cyPpml2k8InqBiNmw
+
+
+
 20200805：<br>
 深入理解图注意力机制
 >https://mp.weixin.qq.com/s/q-pM9cyPpml2k8InqBiNmw
