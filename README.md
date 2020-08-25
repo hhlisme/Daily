@@ -8,6 +8,47 @@
 
 
 
+
+20200820：<br>
+【科研简讯】跨中心医学图像分割模型的鲁棒性及泛化性研究
+>https://mp.weixin.qq.com/s/FH-LredTvyW8_9JR_tK1Aw
+
+
+20200819：<br>
+你一定从未看过如此通俗易懂的YOLO系列（从V1到V5）模型解读！
+>https://mp.weixin.qq.com/s/HGp1QXPa26J3PHLXQfogng
+
+20200818：<br>
+9 大主题卷积神经网络（CNN）的 PyTorch 实现
+>https://mp.weixin.qq.com/s/89wfovTJlguvLMPVYCE0sg
+
+
+20200817：<br>
+ECCV2020 | RecoNet：上下文信息捕获新方法，比non-local计算成本低100倍以上
+>https://mp.weixin.qq.com/s/8IPRZjHBkmfYgG6_HZ9GWg
+
+20200816：<br>
+CBNet和DetectoRS：COCO数据集霸榜模型
+>https://mp.weixin.qq.com/s/9QTChra_W-xmc9_EX7HY9A
+
+20200815：<br>
+计算成本缩减100倍！港中文提出语义分割新方法：张量低秩重建｜ECCV2020
+>https://mp.weixin.qq.com/s/yQCkKG5BnQGGcrn_ZcIKmQ
+
+
+20200814：<br>
+微软亚洲研究院王井东：下一代视觉识别的通用网络结构是什么样的？丨CCF-GAIR 2020
+>https://mp.weixin.qq.com/s/CktKGCc4KR7UUrGGo6Br4w
+
+
+
+
+20200813：<br>
+显著改善分割预测，ETH开源基于情景图储存网络的视频目标分割｜ECCV2020
+>https://mp.weixin.qq.com/s/UNSS8GIXPnZ7W8nJXXIvpg
+
+
+
 20200812：<br>
 ECCV2020 | RecoNet：上下文信息捕获新方法，比non-local计算成本低100倍以上
 >https://mp.weixin.qq.com/s/8IPRZjHBkmfYgG6_HZ9GWg
