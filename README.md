@@ -9,6 +9,25 @@
 
 
 
+
+20200919：<br>
+Self-training在目标检测任务上的实践
+https://mp.weixin.qq.com/s/_u8c5uqm3IgntI3xbtLGHw
+
+
+20200918：<br>
+ECCV 2020 Oral，利用边界特征做检测的BorderDet
+https://mp.weixin.qq.com/s/_fqzejqnsGFd0_9kLTt38g
+
+20200917：<br>
+深度神经网络模型训练中的 tricks（原理与代码汇总）
+https://mp.weixin.qq.com/s/MSWhnpUlG4nYkTUZrD_T2A
+
+20200916：<br>
+自注意模型学不好？这个方法帮你解决！
+https://mp.weixin.qq.com/s/-SU5cNbklI31WLmTawZJIQ
+
+
 20200820：<br>
 【科研简讯】跨中心医学图像分割模型的鲁棒性及泛化性研究
 >https://mp.weixin.qq.com/s/FH-LredTvyW8_9JR_tK1Aw
