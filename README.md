@@ -10,22 +10,37 @@
 
 
 
+20200922：<br>
+四两拨千斤！2020深度主动学习综述
+>https://mp.weixin.qq.com/s/4qsKPhd2g_M9kUl5ek0dZA
+
+20200921：<br>
+综述：解决目标检测中的样本不均衡问题
+>https://mp.weixin.qq.com/s/iOAICJege2b0pCVxPkvNiA
+
+20200920：<br>
+卷积神经网络可视化神器CNN Explainer
+>https://mp.weixin.qq.com/s/BQvhfwvYtDWVyxmwVfcRsg
+
+
+
+
 20200919：<br>
 Self-training在目标检测任务上的实践
-https://mp.weixin.qq.com/s/_u8c5uqm3IgntI3xbtLGHw
+>https://mp.weixin.qq.com/s/_u8c5uqm3IgntI3xbtLGHw
 
 
 20200918：<br>
 ECCV 2020 Oral，利用边界特征做检测的BorderDet
-https://mp.weixin.qq.com/s/_fqzejqnsGFd0_9kLTt38g
+>https://mp.weixin.qq.com/s/_fqzejqnsGFd0_9kLTt38g
 
 20200917：<br>
 深度神经网络模型训练中的 tricks（原理与代码汇总）
-https://mp.weixin.qq.com/s/MSWhnpUlG4nYkTUZrD_T2A
+>https://mp.weixin.qq.com/s/MSWhnpUlG4nYkTUZrD_T2A
 
 20200916：<br>
 自注意模型学不好？这个方法帮你解决！
-https://mp.weixin.qq.com/s/-SU5cNbklI31WLmTawZJIQ
+>https://mp.weixin.qq.com/s/-SU5cNbklI31WLmTawZJIQ
 
 
 20200820：<br>
