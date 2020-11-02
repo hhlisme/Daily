@@ -9,6 +9,11 @@
 
 
 
+20201101：<br>
+pytorch + apex 生活变得更美好（3行代码，轻松集成进pytorch）
+https://zhuanlan.zhihu.com/p/57958993
+
+
 
 20200922：<br>
 四两拨千斤！2020深度主动学习综述
