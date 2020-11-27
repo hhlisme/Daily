@@ -9,11 +9,15 @@
 
 
 
+
+
+20201127：<br>
+85.4 mIOU！NVIDIA：使用多尺度注意力进行语义分割
+https://zhuanlan.zhihu.com/p/315763683
+
 20201101：<br>
 pytorch + apex 生活变得更美好（3行代码，轻松集成进pytorch）
 https://zhuanlan.zhihu.com/p/57958993
-
-
 
 20200922：<br>
 四两拨千斤！2020深度主动学习综述
@@ -26,9 +30,6 @@ https://zhuanlan.zhihu.com/p/57958993
 20200920：<br>
 卷积神经网络可视化神器CNN Explainer
 >https://mp.weixin.qq.com/s/BQvhfwvYtDWVyxmwVfcRsg
-
-
-
 
 20200919：<br>
 Self-training在目标检测任务上的实践
@@ -46,7 +47,6 @@ ECCV 2020 Oral，利用边界特征做检测的BorderDet
 20200916：<br>
 自注意模型学不好？这个方法帮你解决！
 >https://mp.weixin.qq.com/s/-SU5cNbklI31WLmTawZJIQ
-
 
 20200820：<br>
 【科研简讯】跨中心医学图像分割模型的鲁棒性及泛化性研究
@@ -74,19 +74,13 @@ CBNet和DetectoRS：COCO数据集霸榜模型
 计算成本缩减100倍！港中文提出语义分割新方法：张量低秩重建｜ECCV2020
 >https://mp.weixin.qq.com/s/yQCkKG5BnQGGcrn_ZcIKmQ
 
-
 20200814：<br>
 微软亚洲研究院王井东：下一代视觉识别的通用网络结构是什么样的？丨CCF-GAIR 2020
 >https://mp.weixin.qq.com/s/CktKGCc4KR7UUrGGo6Br4w
 
-
-
-
 20200813：<br>
 显著改善分割预测，ETH开源基于情景图储存网络的视频目标分割｜ECCV2020
 >https://mp.weixin.qq.com/s/UNSS8GIXPnZ7W8nJXXIvpg
-
-
 
 20200812：<br>
 ECCV2020 | RecoNet：上下文信息捕获新方法，比non-local计算成本低100倍以上
@@ -284,7 +278,6 @@ GPU端打败RegNet、EfficientNet的强悍担当：GENet
 >https://mp.weixin.qq.com/s/34HxF5qCulGd1zyATH7ZuA
 
 
-
 20200629：<br>
 训练提速60%！只需5行代码，PyTorch 1.6即将原生支持自动混合精度训练
 >https://mp.weixin.qq.com/s/EdE1KLAXjmbIF-bULdpTNQ
@@ -439,7 +432,6 @@ CVPR 2020 | 商汤提出应对尺度变化的检测新算法
 基于多模态特征融合的核磁共振图像生成方法的介绍
 >https://mp.weixin.qq.com/s/3ra1pfboxq6bIXjTxsmEAw
 
-
 20200526：<br>
 VS Code + LaTeX（安装及环境配置）
 >https://bbs.cvmart.net/topics/2277?from=groupmessage
@@ -478,10 +470,6 @@ MASA DCN(可变形卷积) 算法笔记
 20200519：<br>
 高性能涨点的动态卷积 DyNet 与 CondConv、DynamicConv 有什么区别联系？
 >https://mp.weixin.qq.com/s/hZc8MgHoE010hnzLU-trIA
-
-
-
-
 
 20200518：<br>
 【前沿经典模型】ResNet最强改进之ResNeSt(附源码)
@@ -542,13 +530,9 @@ CNN调参：目标检测算法优化的实用Trick
 以点代物，同时执行目标检测和跟踪，这个新方法破解目标跟踪难题
 >https://mp.weixin.qq.com/s/Z5wfjBCmtaMSybsiwxfrAw
 
-
-
 20200502：<br>
 ResNet到底在解决一个什么问题呢？
 >https://mp.weixin.qq.com/s/2Ctf3qEi1SWco4ryraOKaw
-
-
 
 20200501：<br>
 目标检测正负样本区分策略和平衡策略总结(一)
@@ -561,7 +545,6 @@ ResNet到底在解决一个什么问题呢？
 20200430：<br>
 查阅arXiv论文新神器，一行代码比较版本差别，Github新开源！
 >https://mp.weixin.qq.com/s/zVGMBIU-OLXQCyQwTktRtA
-
 
 
 20200429：<br>
@@ -577,17 +560,13 @@ ResNet到底在解决一个什么问题呢？
 YOLOv4 详解版！一句话总结：速度差不多的精度碾压，精度差不多的速度碾压！
 >https://mp.weixin.qq.com/s/YC_Uos4Z4PnkP_ncQRUy5A
 
-
 20200423：<br>
 pytorch 新手【提速】指南（持续更新）
 >https://zhuanlan.zhihu.com/p/119364172
 
-
 20200420：<br>
 论文推荐 | 张航、李沐等提出 ResNet 最强改进版；Bengio 等 59 位学者呼吁构建可信赖 AI
 >http://bbs.cvmart.net/articles/1983
-
-
 
 20200419：<br>
 ResNet改进版来了！可训练网络超过3000层！相同深度精度更高
